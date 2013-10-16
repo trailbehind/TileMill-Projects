@@ -12,7 +12,7 @@
 	text-size: 12;  
 }
 
-#elk [zoom = 6] {
+#elk [zoom <= 6] {
   text-name: "";
 }
 
