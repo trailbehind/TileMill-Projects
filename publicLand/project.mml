@@ -1,0 +1,612 @@
+{
+  "bounds": [
+    -175.0781,
+    12.2112,
+    -61.875,
+    72.2891
+  ],
+  "center": [
+    -126.9141,
+    52.2682,
+    2
+  ],
+  "format": "png8",
+  "interactivity": {},
+  "minzoom": 0,
+  "maxzoom": 16,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -179.14734,
+        17.6743956662272,
+        179.77848,
+        71.3892104650001
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "states",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.14734,17.6743956662272,179.77848,71.3892104650001",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "states",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "states"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='BIA' and source='indlanp020') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "BIA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "BIA"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='BLM') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "BLM",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "BLM"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='BOR') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "BOR",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "BOR"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='BPA') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "BPA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "BPA"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='DOE') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "COE",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "COE"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='DOD') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland",
+        "id": "DOD",
+        "project": "publicLand",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "id": "DOD",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "DOD"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='DOE') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "DOE",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "DOE"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='FAA') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "FAA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "FAA"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='FWS') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "FWS",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "FWS"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='GSA') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "GSA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "GSA"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='LOCAL') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "LOCAL",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "LOCAL"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='NPS' and source='nps_boundary') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "NPS",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "NPS"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='STATE') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "STATE",
+      "class": "state",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "STATE"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='STATE FOREST') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "STATE_FOREST",
+      "class": "state",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "State Forests"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='STATE PARK') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "STATE_PARK",
+      "class": "state",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "State Parks"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='STATE WILDLIFE') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "STATE_WILDLIFE",
+      "class": "state",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "State Wildlife Areas"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='TVA') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "TVA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "Tenessee Valley Authority"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='UND') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "UND",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "UND what is this?"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='USCG') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "USCG",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "Coast Guard"
+    },
+    {
+      "extent": [
+        -179.99,
+        -14.2855820578838,
+        179.99,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='USDA') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "USDA",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "USDA"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='USFWS') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "USFWS",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "USFWS"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='USFS' and source='usfs_lands') as parcels",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland",
+        "id": "usfs",
+        "project": "publicLand",
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
+      },
+      "id": "USFS",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "USFS"
+    },
+    {
+      "extent": [
+        -179.133392333984,
+        -14.2855820578838,
+        179.788208007812,
+        71.3406982421875
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry from parcels where category='wilderness') as wilderness",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-179.133392333984,-14.2855820578838,179.788208007812,71.3406982421875",
+        "host": "localhost",
+        "dbname": "publicland"
+      },
+      "id": "wilderness",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "wilderness"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Public land ownership",
+  "description": "",
+  "attribution": "",
+  "legend": "<span style='color:#f98f8f'>▉</span>Indian Reservations<br />\n<span style='color:#F6E8C3'>▉</span>BLM<br />\n<span style='color:#00dfff'>▉</span>Bureau of Reclamation<br />\n<span style='color:#0035FF'>▉</span>Army Corps of Engineers<br />\n<span style='color:RED'>▉</span>Millitary<br />\n<span style='color:#FDB462'>▉</span>National Wildlife Refuge<br />\n<span style='color:#f200ff'>▉</span>Local Government<br />\n<span style='color:#FFEB00'>▉</span>National Parks<br />\n<span style='color:#B3DE69'>▉</span>State Forests<br />\n<span style='color:#CCEBC5'>▉</span>State Parks<br />\n<span style='color:#BC80BD'>▉</span>State Wildlife Areas<br />\n<span style='color:#762A83'>▉</span>Other State Lands<br />\n<span style='color:#FCCDE5'>▉</span>Tenesse Valley Authority<br />\n<span style='color:#4D9221'>▉</span>National Forests<br />\n<span style='color:#D8B365'>▉</span>Other Federal Lands<br />\n<span style='color:#05FF00'>||</span> Wilderness Areas<br />\n"
+}
