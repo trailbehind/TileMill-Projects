@@ -1,0 +1,49 @@
+{
+  "bounds": [
+    -116.0925,
+    44.3356,
+    -104.0076,
+    49.0271
+  ],
+  "center": [
+    -110.3467,
+    46.954,
+    7
+  ],
+  "format": "png8",
+  "interactivity": false,
+  "minzoom": 6,
+  "maxzoom": 15,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -116.05000462873416,
+        44.358204049695395,
+        -104.03956299236745,
+        49.000057392946374
+      ],
+      "id": "elk",
+      "class": "",
+      "Datasource": {
+        "file": "layers/huntDistrictsDeerElkLion2012/elk.shp",
+        "id": "elk",
+        "project": "mt-elk-districts",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "elk"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Montana deer and elk districts",
+  "description": "",
+  "attribution": ""
+}
