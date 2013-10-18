@@ -24,7 +24,7 @@
 
 }
 
-#twnshp[zoom > 5] {
+#twnshp[zoom > 3] {
     ::linehalo {
     	[zoom < 7] {
       		line-width: 1.0;
