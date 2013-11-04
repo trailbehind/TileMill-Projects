@@ -873,6 +873,510 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "m_covr"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -94.4432389,
+        30.7353225,
+        -79.6520591,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "m_npub",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "m_npub",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "m_npub"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -94.4432389,
+        30.7353225,
+        -79.6520591,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "m_qual",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "m_qual",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "m_qual"
+    },
+    {
+      "extent": [
+        -94.37591300000001,
+        30.740649999999995,
+        -79.6654821,
+        45.037068
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "morfac",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.375913,30.74065,-79.6654821,45.037068",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "morfac",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "morfac"
+    },
+    {
+      "extent": [
+        -93.5556181,
+        30.759032000000005,
+        -80.2253694,
+        45.0689917
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "obstrn",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-93.5556181,30.759032,-80.2253694,45.0689917",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "obstruction",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "obstruction"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -94.432857,
+        30.803108000000005,
+        -79.7142754,
+        45.12797
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "pilpnt",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.432857,30.803108,-79.7142754,45.12797",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "minorlight",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "minorlight"
+    },
+    {
+      "extent": [
+        -93.5658615,
+        31.9090824,
+        -81.6398953,
+        44.807108
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "pipare",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-93.5658615,31.9090824,-81.6398953,44.807108",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "pipeline",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "pipeline"
+    },
+    {
+      "extent": [
+        -94.2099164,
+        30.816841500000002,
+        -79.679042,
+        45.011949
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "pipsol",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.2099164,30.8168415,-79.679042,45.011949",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "pipsol",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "pipsol"
+    },
+    {
+      "extent": [
+        -92.336279,
+        33.9783584,
+        -90.5742722,
+        41.5187753
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "ponton",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-92.336279,33.9783584,-90.5742722,41.5187753",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "landingpontoon",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "landingpontoon"
+    },
+    {
+      "extent": [
+        -94.439152,
+        30.770009000000005,
+        -79.664908,
+        45.057192
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "pylons",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.439152,30.770009,-79.664908,45.057192",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "ladders",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "ladders"
+    },
+    {
+      "extent": [
+        -94.431608,
+        30.7394001,
+        -79.6560975,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "railwy",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.431608,30.7394001,-79.6560975,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "railway",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "railway"
+    },
+    {
+      "extent": [
+        -94.4343654,
+        30.73776,
+        -79.6664366,
+        45.061554
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "rectrc",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4343654,30.73776,-79.6664366,45.061554",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "sailingline",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "sailingline"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -94.3003567,
+        30.912947599999995,
+        -82.183709,
+        44.9875444
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "resare",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.3003567,30.9129476,-82.183709,44.9875444",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "restrictedarea",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "restrictedarea"
+    },
+    {
+      "extent": [
+        -94.4258715,
+        31.153654,
+        -79.6605021,
+        45.1410719
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "rivers",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4258715,31.153654,-79.6605021,45.1410719",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "nonnavrivers",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "nonnavrivers"
+    },
+    {
+      "extent": [
+        -94.4431558,
+        30.909244999999995,
+        -79.6530078,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "roadwy",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4431558,30.909245,-79.6530078,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "roadway",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "roadway"
+    },
+    {
+      "extent": [
+        -94.311402,
+        30.7354803,
+        -79.6670237,
+        45.090044000000006
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "seaare",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.311402,30.7354803,-79.6670237,45.090044",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "seaare",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "seaare"
+    },
+    {
+      "extent": [
+        -94.342073,
+        32.523497,
+        -79.6754529,
+        45.0482084
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "siltnk",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.342073,32.523497,-79.6754529,45.0482084",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "silotank",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "silotank"
+    },
+    {
+      "extent": [
+        -94.433944,
+        30.739151,
+        -79.6646864,
+        45.1050279
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "slcons",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.433944,30.739151,-79.6646864,45.1050279",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "slcons",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "slcons"
+    },
+    {
+      "extent": [
+        -88.0388391,
+        35.939083,
+        -87.8859775,
+        36.0317406
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "slogrd",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-88.0388391,35.939083,-87.8859775,36.0317406",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "duneridge",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "duneridge"
+    },
+    {
+      "extent": [
+        -85.3595121,
+        35.0189564,
+        -83.8442469,
+        35.9578296
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "slotop",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-85.3595121,35.0189564,-83.8442469,35.9578296",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "rockwall",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "rockwall"
+    },
+    {
+      "extent": [
+        -93.709468,
+        31.213741000000002,
+        -79.770635,
+        42.778698600000006
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "smcfac",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-93.709468,31.213741,-79.770635,42.7786986",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "smallcraftfacility",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "smallcraftfacility"
     }
   ],
   "scale": 1,
