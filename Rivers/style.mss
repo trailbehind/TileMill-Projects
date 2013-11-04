@@ -42,15 +42,10 @@ Map {
   marker-allow-overlap:true;
 }
 
-
-
-
-
 #northamericanrivers {
   line-width:0.5;
   line-color:#168;
 }
-
 
 
 #submarinecables {
@@ -60,8 +55,36 @@ Map {
   polygon-fill:#ae8;
 }
 
+#daymark {
+  marker-width:6;
+  marker-fill:#f45;
+  marker-line-color:#813;
+  marker-allow-overlap:true;
+}
+
+
+#lakare {
+  line-color:#594;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:#ae8;
+}
+
+
+#bridgelights {
+  marker-width:6;
+  marker-fill:#f45;
+  marker-line-color:#813;
+  marker-allow-overlap:true;
+}
 
 
 
 
 
+#m_covr {
+  line-color:#594;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:#ae8;
+}
