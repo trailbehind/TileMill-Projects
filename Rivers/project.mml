@@ -92,7 +92,10 @@
         "extent": "-93.749469,32.535114,-79.8151299,44.942001",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "airfieldsrailwaysroads",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "airfieldsrailwaysroads",
       "class": "",
@@ -154,7 +157,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoybifurcationchannel"
+      "name": "buoybifurcationchannel",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -180,7 +184,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoydangerpoint"
+      "name": "buoydangerpoint",
+      "status": "off"
     },
     {
       "extent": [
@@ -205,7 +210,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buildingsnavigationalsig"
+      "name": "buildingsnavigationalsig",
+      "status": "off"
     },
     {
       "extent": [
@@ -230,7 +236,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "builtuparea"
+      "name": "builtuparea",
+      "status": "off"
     },
     {
       "extent": [
@@ -255,7 +262,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "canals"
+      "name": "canals",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -281,7 +289,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecablearea"
+      "name": "submarinecablearea",
+      "status": "off"
     },
     {
       "extent": [
@@ -309,7 +318,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecable"
+      "name": "submarinecable",
+      "status": "off"
     },
     {
       "extent": [
@@ -337,7 +347,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "coalne"
+      "name": "coalne",
+      "status": "off"
     },
     {
       "extent": [
@@ -362,7 +373,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "conveyor"
+      "name": "conveyor",
+      "status": "off"
     },
     {
       "extent": [
@@ -390,7 +402,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "cranes"
+      "name": "cranes",
+      "status": "off"
     },
     {
       "extent": [
@@ -415,7 +428,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ctnare"
+      "name": "ctnare",
+      "status": "off"
     },
     {
       "extent": [
@@ -440,7 +454,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dam"
+      "name": "dam",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -466,7 +481,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "daymark"
+      "name": "daymark",
+      "status": "off"
     },
     {
       "extent": [
@@ -491,7 +507,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dredgelake"
+      "name": "dredgelake",
+      "status": "off"
     },
     {
       "extent": [
@@ -516,7 +533,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours"
+      "name": "depthcontours",
+      "status": "off"
     },
     {
       "extent": [
@@ -541,7 +559,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dykecoast"
+      "name": "dykecoast",
+      "status": "off"
     },
     {
       "extent": [
@@ -566,7 +585,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ferryroute"
+      "name": "ferryroute",
+      "status": "off"
     },
     {
       "extent": [
@@ -591,7 +611,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "floatingdoc"
+      "name": "floatingdoc",
+      "status": "off"
     },
     {
       "extent": [
@@ -616,7 +637,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "fenceline"
+      "name": "fenceline",
+      "status": "off"
     },
     {
       "extent": [
@@ -641,7 +663,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lockgate"
+      "name": "lockgate",
+      "status": "off"
     },
     {
       "extent": [
@@ -666,7 +689,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "generic"
+      "name": "generic",
+      "status": "off"
     },
     {
       "extent": [
@@ -691,7 +715,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "harborfacility"
+      "name": "harborfacility",
+      "status": "off"
     },
     {
       "extent": [
@@ -716,7 +741,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "hulkes"
+      "name": "hulkes",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -745,7 +771,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lake"
+      "name": "lake",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -771,7 +798,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "bridgelights"
+      "name": "bridgelights",
+      "status": "off"
     },
     {
       "extent": [
@@ -796,7 +824,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "landarea"
+      "name": "landarea",
+      "status": "off"
     },
     {
       "extent": [
@@ -821,7 +850,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "landmark"
+      "name": "landmark",
+      "status": "off"
     },
     {
       "extent": [
@@ -846,7 +876,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "arrivalpoint"
+      "name": "arrivalpoint",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -872,7 +903,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_covr"
+      "name": "m_covr",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -898,7 +930,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_npub"
+      "name": "m_npub",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -924,7 +957,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_qual"
+      "name": "m_qual",
+      "status": "off"
     },
     {
       "extent": [
@@ -949,7 +983,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "morfac"
+      "name": "morfac",
+      "status": "off"
     },
     {
       "extent": [
@@ -974,7 +1009,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "obstruction"
+      "name": "obstruction",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -1000,7 +1036,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "minorlight"
+      "name": "minorlight",
+      "status": "off"
     },
     {
       "extent": [
@@ -1025,7 +1062,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "pipeline"
+      "name": "pipeline",
+      "status": "off"
     },
     {
       "extent": [
@@ -1050,7 +1088,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "pipsol"
+      "name": "pipsol",
+      "status": "off"
     },
     {
       "extent": [
@@ -1075,7 +1114,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "landingpontoon"
+      "name": "landingpontoon",
+      "status": "off"
     },
     {
       "extent": [
@@ -1100,7 +1140,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ladders"
+      "name": "ladders",
+      "status": "off"
     },
     {
       "extent": [
@@ -1125,7 +1166,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "railway"
+      "name": "railway",
+      "status": "off"
     },
     {
       "extent": [
@@ -1150,7 +1192,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "sailingline"
+      "name": "sailingline",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -1176,7 +1219,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "restrictedarea"
+      "name": "restrictedarea",
+      "status": "off"
     },
     {
       "extent": [
@@ -1201,7 +1245,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "nonnavrivers"
+      "name": "nonnavrivers",
+      "status": "off"
     },
     {
       "extent": [
@@ -1226,7 +1271,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "roadway"
+      "name": "roadway",
+      "status": "off"
     },
     {
       "extent": [
@@ -1251,7 +1297,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "seaare"
+      "name": "seaare",
+      "status": "off"
     },
     {
       "extent": [
@@ -1276,7 +1323,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "silotank"
+      "name": "silotank",
+      "status": "off"
     },
     {
       "extent": [
@@ -1301,7 +1349,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "slcons"
+      "name": "slcons",
+      "status": "off"
     },
     {
       "extent": [
@@ -1326,7 +1375,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "duneridge"
+      "name": "duneridge",
+      "status": "off"
     },
     {
       "extent": [
@@ -1351,7 +1401,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "rockwall"
+      "name": "rockwall",
+      "status": "off"
     },
     {
       "extent": [
@@ -1376,7 +1427,61 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "smallcraftfacility"
+      "name": "smallcraftfacility",
+      "status": "off"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -93.355089,
+        31.855147,
+        -82.1771721,
+        44.7816751
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "uwtroc",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-93.355089,31.855147,-82.1771721,44.7816751",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "rocks",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "rocks",
+      "status": "off"
+    },
+    {
+      "extent": [
+        -94.3533674,
+        31.008703000000004,
+        -79.76815200000001,
+        44.899819
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "wrecks",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.3533674,31.008703,-79.768152,44.899819",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "wrecks",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "wrecks",
+      "status": "off"
     }
   ],
   "scale": 1,
