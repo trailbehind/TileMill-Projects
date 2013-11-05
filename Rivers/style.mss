@@ -21,23 +21,21 @@ Map {
 
 #beaconlat {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
 
 
-#buoybifurcationchannel {
-  marker-width:6;
-  marker-fill:#f45;
-  marker-line-color:#813;
-  marker-allow-overlap:true;
+#buoybifurcationchannel [zoom > 5] {
+  point-file:url(buoybifurcationchannel.svg);
+  point-allow-overlap:true;
 }
 
 
 #buoydangerpoint {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
@@ -50,14 +48,14 @@ Map {
 
 #submarinecables {
   line-color:#594;
-  line-width:0.5;
+  line-width:2;
   polygon-opacity:1;
   polygon-fill:#ae8;
 }
 
 #daymark {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
@@ -73,7 +71,7 @@ Map {
 
 #bridgelights {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
@@ -85,7 +83,7 @@ Map {
 #m_covr {
   line-color:#594;
   line-width:0.5;
-  polygon-opacity:1;
+  polygon-opacity:0.1;
   polygon-fill:#ae8;
 }
 
@@ -93,7 +91,7 @@ Map {
 #m_npub {
   line-color:#594;
   line-width:0.5;
-  polygon-opacity:1;
+  polygon-opacity:0.1;
   polygon-fill:#ae8;
 }
 
@@ -110,7 +108,7 @@ Map {
 
 #minorlight {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
@@ -130,7 +128,17 @@ Map {
 }
 
 
-
+#airports {
+  ['mapnik::geometry_type'=point] {
+    marker-width:6;
+  	marker-fill:#ff4554;
+    }
+  //text-name: [objnam];
+  //text-face-name: 'Adobe Caslon Pro Italic';
+  
+  polygon-fill:#ff4554;
+  polygon-opacity:0.75;
+  }
 
 
 
@@ -140,8 +148,7 @@ Map {
 
 #rocks {
   marker-width:6;
-  marker-fill:#f45;
+  marker-fill:#ff4554;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
-

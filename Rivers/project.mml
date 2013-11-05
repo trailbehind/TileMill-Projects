@@ -26,7 +26,10 @@
       "geometry": "polygon",
       "Datasource": {
         "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
-        "type": "shape"
+        "type": "shape",
+        "id": "countries",
+        "project": "Rivers",
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
       }
     },
     {
@@ -45,7 +48,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "northamericanrivers"
+      "name": "northamericanrivers",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -74,7 +78,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "administrativearea"
+      "name": "administrativearea",
+      "status": "off"
     },
     {
       "extent": [
@@ -93,16 +98,16 @@
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
-        "id": "airfieldsrailwaysroads",
+        "id": "airports",
         "project": "Rivers",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
-      "id": "airfieldsrailwaysroads",
+      "id": "airports",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "airfieldsrailwaysroads"
+      "name": "airports"
     },
     {
       "geometry": "point",
@@ -131,7 +136,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "beaconlat"
+      "name": "beaconlat",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -177,7 +183,10 @@
         "extent": "-93.2771393,31.49,-81.6221488,45.0185417",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "buoydangerpoint",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "buoydangerpoint",
       "class": "",
@@ -229,7 +238,10 @@
         "extent": "-94.4336496,30.7353225,-79.6835382,45.142195",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "builtuparea",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "builtuparea",
       "class": "",
@@ -282,7 +294,10 @@
         "extent": "-93.107279,34.364745,-85.5550468,44.932584",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "submarinecablearea",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "submarinecablearea",
       "class": "",
