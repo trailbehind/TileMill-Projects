@@ -77,7 +77,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "administrativearea"
+      "name": "administrativearea",
+      "status": "off"
     },
     {
       "extent": [
@@ -192,8 +193,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoydangerpoint",
-      "status": "off"
+      "name": "buoydangerpoint"
     },
     {
       "extent": [
@@ -218,8 +218,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buildingsnavigationalsig",
-      "status": "off"
+      "name": "buildingsnavigationalsig"
     },
     {
       "extent": [

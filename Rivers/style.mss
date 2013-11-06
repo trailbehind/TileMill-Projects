@@ -21,7 +21,7 @@ Map {
 #airports {
   [zoom > 6] {
   ['mapnik::geometry_type'=point] {
-    marker-width:10;
+    marker-width:10; 
   	marker-fill:#505050;
     }
   polygon-fill:#A0A2A5;
@@ -59,10 +59,13 @@ Map {
 
 
 #buoydangerpoint {
-  marker-width:6;
-  marker-fill:#ff4554;
-  marker-line-color:#813;
+  marker-file:url(buoymarkingdangerpoint.svg);
+  marker-width:20;
   marker-allow-overlap:true;
+}
+
+#buildingsnavigationalsig {
+    polygon-pattern-file: url("http://tilemill.com/assets/pages/pattern-stripe.png");
 }
 
 #northamericanrivers {
