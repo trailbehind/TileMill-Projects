@@ -52,8 +52,9 @@ Map {
 
 
 #buoybifurcationchannel [zoom > 5] {
-  point-file:url(buoybifurcationchannel.svg);
-  point-allow-overlap:true;
+  marker-file:url(buoybifurcationchannel.svg);
+  marker-width: 20;
+  marker-allow-overlap:true;
 }
 
 
