@@ -48,8 +48,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "northamericanrivers",
-      "status": "off"
+      "name": "northamericanrivers"
     },
     {
       "geometry": "polygon",
@@ -69,17 +68,16 @@
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
-        "id": "admare",
+        "id": "administrativearea",
         "project": "Rivers",
-        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "administrativearea",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "administrativearea",
-      "status": "off"
+      "name": "administrativearea"
     },
     {
       "extent": [
@@ -127,7 +125,7 @@
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
-        "id": "bcnlat",
+        "id": "beaconlat",
         "project": "Rivers",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
@@ -136,8 +134,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "beaconlat",
-      "status": "off"
+      "name": "beaconlat"
     },
     {
       "geometry": "point",
@@ -156,15 +153,17 @@
         "extent": "-92.332342,40.7473606,-89.5513699,44.538055",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "buoybifurcationchannel",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "buoybifurcationchannel",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoybifurcationchannel",
-      "status": "off"
+      "name": "buoybifurcationchannel"
     },
     {
       "geometry": "point",
@@ -1496,6 +1495,25 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "wrecks",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -178.19451843993755,
+        -43.61945868003225,
+        153.6169609687646,
+        83.11611378149931
+      ],
+      "id": "states",
+      "class": "",
+      "Datasource": {
+        "file": "layers/states/ne_50m_admin_1_states_provinces_lakes.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "states",
       "status": "off"
     }
   ],
