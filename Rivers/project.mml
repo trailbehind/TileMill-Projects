@@ -54,6 +54,24 @@
     {
       "geometry": "polygon",
       "extent": [
+        -178.19451843993755,
+        -43.61945868003225,
+        153.6169609687646,
+        83.11611378149931
+      ],
+      "id": "states",
+      "class": "",
+      "Datasource": {
+        "file": "layers/states/ne_50m_admin_1_states_provinces_lakes.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "states"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
         -92.270833,
         31.022222,
         -79.6520591,
@@ -311,7 +329,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecablearea"
+      "name": "submarinecablearea",
+      "status": "off"
     },
     {
       "extent": [
@@ -339,7 +358,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecable"
+      "name": "submarinecable",
+      "status": "off"
     },
     {
       "extent": [
@@ -385,7 +405,10 @@
         "extent": "-94.354818,31.338065,-79.6746024,42.7233985",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "conveyor",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "conveyor",
       "class": "",
@@ -440,7 +463,10 @@
         "extent": "-94.2100793,30.8166707,-79.6788054,45.0187052",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "ctnare",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "ctnare",
       "class": "",
@@ -473,8 +499,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dam",
-      "status": "off"
+      "name": "dam"
     },
     {
       "geometry": "point",
@@ -500,8 +525,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "daymark",
-      "status": "off"
+      "name": "daymark"
     },
     {
       "extent": [
@@ -1501,24 +1525,6 @@
       "advanced": {},
       "name": "wrecks",
       "status": "off"
-    },
-    {
-      "geometry": "polygon",
-      "extent": [
-        -178.19451843993755,
-        -43.61945868003225,
-        153.6169609687646,
-        83.11611378149931
-      ],
-      "id": "states",
-      "class": "",
-      "Datasource": {
-        "file": "layers/states/ne_50m_admin_1_states_provinces_lakes.shp"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "states"
     }
   ],
   "scale": 1,

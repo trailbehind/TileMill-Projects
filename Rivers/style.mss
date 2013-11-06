@@ -1,5 +1,5 @@
 Map {
-  background-color: #fff;
+  background-color: #b8dee6;
 }
 
 #countries {
@@ -122,6 +122,31 @@ Map {
   line-width:3;
 }
   
+#conveyor {
+  line-color:#46433D;
+  line-width:3;
+  polygon-fill:#A0A2A5;
+  polygon-opacity:0.75;
+} 
+
+#cranes {
+  line-color:#46433D;
+  line-width:20;
+  polygon-fill:#A0A2A5;
+  polygon-opacity:0.75;
+}
+
+#ctnare {
+  polygon-fill:#B8DEE6;
+  polygon-opacity:0.2;
+}  
+  
+#dam {
+ line-color:#000000;
+ line-width:3;
+ polygon-fill:#000000;
+}
+
 #daymark {
   marker-width:6;
   marker-fill:#ff4554;
@@ -195,4 +220,4 @@ Map {
   line-width:0.5;
   polygon-opacity:0;
   polygon-fill:#ae8;
-}
+}      
