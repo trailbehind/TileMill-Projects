@@ -48,7 +48,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "northamericanrivers"
+      "name": "northamericanrivers",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -106,7 +107,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "airports"
+      "name": "airports",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -135,7 +137,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "beaconlat"
+      "name": "beaconlat",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -164,7 +167,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoybifurcationchannel"
+      "name": "buoybifurcationchannel",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -193,7 +197,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoydangerpoint"
+      "name": "buoydangerpoint",
+      "status": "off"
     },
     {
       "extent": [
@@ -218,7 +223,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buildingsnavigationalsig"
+      "name": "buildingsnavigationalsig",
+      "status": "off"
     },
     {
       "extent": [
@@ -265,7 +271,10 @@
         "extent": "-93.5139506,34.3727374,-92.054232,39.2818156",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "canals",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "canals",
       "class": "",
@@ -302,8 +311,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecablearea",
-      "status": "off"
+      "name": "submarinecablearea"
     },
     {
       "extent": [
@@ -331,8 +339,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "submarinecable",
-      "status": "off"
+      "name": "submarinecable"
     },
     {
       "extent": [
@@ -360,8 +367,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "coalne",
-      "status": "off"
+      "name": "coalne"
     },
     {
       "extent": [
@@ -1512,8 +1518,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "states",
-      "status": "off"
+      "name": "states"
     }
   ],
   "scale": 1,

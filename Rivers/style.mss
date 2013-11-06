@@ -1,5 +1,5 @@
 Map {
-  background-color: #b8dee6;
+  background-color: #fff;
 }
 
 #countries {
@@ -9,6 +9,11 @@ Map {
     line-join: round;
   }
   polygon-fill: #D5C2A1;
+}
+
+#northamericanrivers {
+  line-width:0.5;
+  line-color:#168;
 }
 
 #administrativearea {
@@ -65,22 +70,58 @@ Map {
 }
 
 #buildingsnavigationalsig {
-    polygon-pattern-file: url("http://tilemill.com/assets/pages/pattern-stripe.png");
+  polygon-fill: #CBA74C;
+  line-color: #A37B33;
 }
 
-#northamericanrivers {
-  line-width:0.5;
-  line-color:#168;
+#builtuparea {
+  [zoom > 5] {
+  ['mapnik::geometry_type'=point] {
+    marker-width:10; 
+  	marker-fill:#A37B33;
+    }
+    ::outline {
+    line-color: #46433D;
+    line-width: 2;}
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;} 
 }
 
+#canals {
+  line-color:#46433D;
+  line-width:3;
+  polygon-fill:#b8dee6;  
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;   
+}
 
-#submarinecables {
-  line-color:#594;
-  line-width:2;
+#submarinecablearea {
   polygon-opacity:1;
-  polygon-fill:#ae8;
+  polygon-fill:#BD89A9;
 }
 
+#submarinecable {
+  line-color:#BD89A9;
+  line-width:3;
+}
+
+#coalne {
+  line-color:#A5CBD3;
+  line-width:3;
+}
+  
 #daymark {
   marker-width:6;
   marker-fill:#ff4554;
