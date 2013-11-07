@@ -161,7 +161,7 @@ Map {
 
 #depthcontours {
   line-color:#747368;
-  line-width:3;
+  line-width:2;
 }
 
 #dykecoast {
@@ -203,22 +203,56 @@ Map {
 #generic {
   polygon-fill:#B8DEE6;
   polygon-opacity:0.25;
-  line-color:#000;  
-  marker-fill:#000; 
+  line-color:#000000;  
+  marker-fill:#000000; 
+  marker-width:3;
 }
 
-#lakare {
-  line-color:#594;
+#harborfacility {
+  polygon-fill:#A0A2A5;
+  polygon-opacity:1;
+  marker-fill:#EE9A32;
+  marker-width:2;
+}    
+
+#hulkes {
+  polygon-fill:#A37B33;
+  marker-fill:#EE9A32;
+  marker-width:2;
+  [zoom > 18] {
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}   
+}
+
+#lake {
+  line-color:#A0A2A5;
   line-width:0.5;
   polygon-opacity:1;
-  polygon-fill:#ae8;
+  polygon-fill:#C9E4F9;
+  [zoom > 14] {
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}   
 }
 
 
 #bridgelights {
+  [colour='3'] {  
+     marker-fill:#ff4554;}
+  [colour='2'] {
+     marker-fill:#5DC00D;}
   marker-width:6;
-  marker-fill:#ff4554;
-  marker-line-color:#813;
   marker-allow-overlap:true;
 }
 

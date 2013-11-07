@@ -271,8 +271,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "builtuparea",
-      "status": "off"
+      "name": "builtuparea"
     },
     {
       "extent": [
@@ -582,8 +581,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours",
-      "status": "off"
+      "name": "depthcontours"
     },
     {
       "extent": [
@@ -637,7 +635,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ferryroute"
+      "name": "ferryroute",
+      "status": "off"
     },
     {
       "extent": [
@@ -665,7 +664,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "floatingdoc"
+      "name": "floatingdoc",
+      "status": "off"
     },
     {
       "extent": [
@@ -693,7 +693,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "fenceline"
+      "name": "fenceline",
+      "status": "off"
     },
     {
       "extent": [
@@ -718,7 +719,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lockgate"
+      "name": "lockgate",
+      "status": "off"
     },
     {
       "extent": [
@@ -736,14 +738,18 @@
         "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "generic",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "generic",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "generic"
+      "name": "generic",
+      "status": "off"
     },
     {
       "extent": [
@@ -787,7 +793,10 @@
         "extent": "-93.745181,32.349897,-87.0110275,43.0398211",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "hulkes",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "hulkes",
       "class": "",
@@ -815,7 +824,7 @@
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
-        "id": "lakare",
+        "id": "lake",
         "project": "Rivers",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
@@ -824,8 +833,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lake",
-      "status": "off"
+      "name": "lake"
     },
     {
       "geometry": "point",
@@ -844,15 +852,17 @@
         "extent": "-94.43253,30.7710247,-79.6668987,45.05657",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "bridgelights",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "bridgelights",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "bridgelights",
-      "status": "off"
+      "name": "bridgelights"
     },
     {
       "extent": [
