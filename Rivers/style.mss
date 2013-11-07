@@ -250,11 +250,41 @@ Map {
 #bridgelights {
   [colour='3'] {  
      marker-fill:#ff4554;}
-  [colour='2'] {
+  [colour='4'] {
      marker-fill:#5DC00D;}
   marker-width:6;
   marker-allow-overlap:true;
 }
+
+#landarea {
+  polygon-fill:#E3D48A;
+  polygon-opacity:0.35;
+}  
+
+#landmark {
+  polygon-fill: #fff;
+  polygon-opacity:0.3;
+  line-color: #505050;
+  line-width: 2; 
+  marker-fill: #FFF835;
+  marker-width:3;
+}  
+
+#arrivalpoint {
+    [zoom > 14] { 
+    text-name: [objnam];
+    text-face-name: 'Helvetica Regular';
+  	text-placement-type: simple;
+  	text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  	text-dy: 20;
+  	text-dx: 20;
+  	text-halo-fill: fadeout(white, 0%);
+  	text-halo-radius: 2.5;} 
+  polygon-fill:#482475; 
+  polygon-opacity:0.25;
+  marker-fill:#505050;
+  marker-width:4;
+}  
 
 #m_covr {
   line-color:#594;
@@ -263,6 +293,7 @@ Map {
   polygon-fill:#ae8;
 }
 
+//this is the areas of data coverage in map, shown as green transparent rectangles
 
 #m_npub {
   line-color:#594;
@@ -270,14 +301,38 @@ Map {
   polygon-opacity:0.1;
   polygon-fill:#ae8;
 }
-
+ //seems to be redundant with m_covr
 
 #m_qual {
   line-color:#594;
   line-width:0.5;
-  polygon-opacity:1;
+  polygon-opacity:0;
   polygon-fill:#ae8;
 }
+
+//An area within which a uniform assessment of the quality of the data exists, same as m_npub, made fully transparent for this reason
+
+#morfac {
+    [catmor='7'] {
+      marker-file:url(buoymooring.svg);
+    }
+    [catmor='1'] {
+      marker-fill:#505050;
+      marker-width:20;
+    }  
+    [catmor='5'] {
+      marker-fill:#505050;
+      marker-width:20;
+    }
+}
+
+//mooring facilities 1 dolphin, 5 post/pile, 7 mooring buoy, not displaying correctly yet
+
+#obscruction {
+   marker-fill:#505050;
+   marker-width:20; 
+}  
+
 
 #minorlight {
   marker-width:6;

@@ -48,8 +48,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "northamericanrivers",
-      "status": "off"
+      "name": "northamericanrivers"
     },
     {
       "geometry": "polygon",
@@ -67,8 +66,32 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "states",
-      "status": "off"
+      "name": "states"
+    },
+    {
+      "extent": [
+        -94.4432389,
+        30.7353225,
+        -79.6520591,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "lndare",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "landarea",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "landarea"
     },
     {
       "geometry": "polygon",
@@ -271,7 +294,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "builtuparea"
+      "name": "builtuparea",
+      "status": "off"
     },
     {
       "extent": [
@@ -556,7 +580,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthmarkings"
+      "name": "depthmarkings",
+      "status": "off"
     },
     {
       "extent": [
@@ -581,7 +606,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours"
+      "name": "depthcontours",
+      "status": "off"
     },
     {
       "extent": [
@@ -833,7 +859,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lake"
+      "name": "lake",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -862,32 +889,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "bridgelights"
-    },
-    {
-      "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "lndare",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc"
-      },
-      "id": "landarea",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "landarea",
+      "name": "bridgelights",
       "status": "off"
     },
     {
@@ -906,7 +908,10 @@
         "extent": "-91.4361888,32.549702,-80.2282763,42.5001014",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "landmark",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "landmark",
       "class": "",
@@ -932,7 +937,10 @@
         "extent": "-94.4432389,30.800701,-79.7117707,45.07609",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "arrivalpoint",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "arrivalpoint",
       "class": "",
@@ -1039,15 +1047,17 @@
         "extent": "-94.375913,30.74065,-79.6654821,45.037068",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "morfac",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "morfac",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "morfac",
-      "status": "off"
+      "name": "morfac"
     },
     {
       "extent": [
@@ -1072,8 +1082,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "obstruction",
-      "status": "off"
+      "name": "obstruction"
     },
     {
       "geometry": "point",
