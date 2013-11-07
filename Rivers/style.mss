@@ -154,6 +154,22 @@ Map {
   marker-allow-overlap:true;
 }
 
+#depthmarkings {
+  polygon-fill:#8FC7E7;
+  polygon-opacity:1;
+}  
+
+#depthcontours {
+  line-color:#747368;
+  line-width:2;
+}
+
+#dykecoast {
+    line-color:#747368;
+    line-width:1;
+  	polygon-fill:#B68368;
+  	polygon-opacity:1;
+}
 
 #lakare {
   line-color:#594;

@@ -67,7 +67,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "states"
+      "name": "states",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -387,7 +388,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "coalne"
+      "name": "coalne",
+      "status": "off"
     },
     {
       "extent": [
@@ -499,7 +501,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dam"
+      "name": "dam",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -525,7 +528,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "daymark"
+      "name": "daymark",
+      "status": "off"
     },
     {
       "extent": [
@@ -543,15 +547,17 @@
         "extent": "-94.4363234,30.7354803,-79.6641409,45.142195",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "depthmarkings",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
-      "id": "dredgelake",
+      "id": "depthmarkings",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dredgelake",
-      "status": "off"
+      "name": "depthmarkings"
     },
     {
       "extent": [
@@ -576,8 +582,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours",
-      "status": "off"
+      "name": "depthcontours"
     },
     {
       "extent": [
@@ -602,8 +607,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dykecoast",
-      "status": "off"
+      "name": "dykecoast"
     },
     {
       "extent": [
