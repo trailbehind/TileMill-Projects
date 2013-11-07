@@ -582,7 +582,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours"
+      "name": "depthcontours",
+      "status": "off"
     },
     {
       "extent": [
@@ -607,7 +608,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "dykecoast"
+      "name": "dykecoast",
+      "status": "off"
     },
     {
       "extent": [
@@ -625,15 +627,17 @@
         "extent": "-91.9198021,31.9158281,-84.0090232,42.7184972",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "ferryroute",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "ferryroute",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ferryroute",
-      "status": "off"
+      "name": "ferryroute"
     },
     {
       "extent": [
@@ -651,15 +655,17 @@
         "extent": "-90.7638,32.546543,-87.798555,41.828423",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "floatingdoc",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "floatingdoc",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "floatingdoc",
-      "status": "off"
+      "name": "floatingdoc"
     },
     {
       "extent": [
@@ -677,15 +683,17 @@
         "extent": "-94.428924,35.392681,-87.573567,44.946134",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "fenceline",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "fenceline",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "fenceline",
-      "status": "off"
+      "name": "fenceline"
     },
     {
       "extent": [
@@ -710,8 +718,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "lockgate",
-      "status": "off"
+      "name": "lockgate"
     },
     {
       "extent": [
@@ -736,8 +743,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "generic",
-      "status": "off"
+      "name": "generic"
     },
     {
       "extent": [

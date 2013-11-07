@@ -155,13 +155,13 @@ Map {
 }
 
 #depthmarkings {
-  polygon-fill:#8FC7E7;
-  polygon-opacity:1;
+  polygon-fill:#90c8e8;
+  polygon-opacity:0.75;
 }  
 
 #depthcontours {
   line-color:#747368;
-  line-width:2;
+  line-width:3;
 }
 
 #dykecoast {
@@ -169,6 +169,42 @@ Map {
     line-width:1;
   	polygon-fill:#B68368;
   	polygon-opacity:1;
+}
+
+#ferryroute {
+  line-color:#747368;
+  line-width:1;
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;   
+}  
+
+#floatingdoc {
+  polygon-fill:#D5C2A1;
+  line-color:#B68368;
+  line-width:5;
+}
+
+#fenceline {
+  line-color:#000000;
+  line-width:2;
+}
+
+#lockgate {
+  line-color:#000000;
+  line-width:2;
+} 
+
+#generic {
+  polygon-fill:#B8DEE6;
+  polygon-opacity:0.25;
+  line-color:#000;  
+  marker-fill:#000; 
 }
 
 #lakare {
