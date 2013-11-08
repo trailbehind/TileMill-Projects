@@ -580,8 +580,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthmarkings",
-      "status": "off"
+      "name": "depthmarkings"
     },
     {
       "extent": [
@@ -606,8 +605,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours",
-      "status": "off"
+      "name": "depthcontours"
     },
     {
       "extent": [
@@ -1057,7 +1055,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "morfac"
+      "name": "morfac",
+      "status": "off"
     },
     {
       "extent": [
@@ -1082,7 +1081,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "obstruction"
+      "name": "obstruction",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -1127,7 +1127,10 @@
         "extent": "-93.5658615,31.9090824,-81.6398953,44.807108",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "pipeline",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "pipeline",
       "class": "",
@@ -1179,7 +1182,10 @@
         "extent": "-92.336279,33.9783584,-90.5742722,41.5187753",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "landingpontoon",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "landingpontoon",
       "class": "",
@@ -1207,13 +1213,12 @@
         "port": "5432",
         "dbname": "enc"
       },
-      "id": "ladders",
+      "id": "pylons",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "ladders",
-      "status": "off"
+      "name": "pylons"
     },
     {
       "extent": [
@@ -1264,8 +1269,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "sailingline",
-      "status": "off"
+      "name": "sailingline"
     },
     {
       "geometry": "polygon",

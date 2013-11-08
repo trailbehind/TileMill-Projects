@@ -335,12 +335,69 @@ Map {
 
 
 #minorlight {
-  marker-width:6;
-  marker-fill:#ff4554;
-  marker-line-color:#813;
+  [zoom > 10] {
+  marker-file:url(minorlight.svg);
   marker-allow-overlap:true;
+  marker-width:20;}
 }
 
+#pipeline {
+  polygon-opacity:0.0;
+  line-dasharray: 10, 4;
+  line-color: #BD89A9;
+  text-name: "'Pipeline Area'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
+  
+}  
+
+#pipsol {
+  marker-fill:#BD89A9;
+  line-color:#BD89A9;  
+  line-dasharray: 10, 4;
+  text-name: "'Submarine Pipeline'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
+} 
+
+//called submarine pipeline in the i enc manual, not sure if markers are needed, and how this differs from pipeline area
+
+
+#landingpontoon {
+  polygon-fill:#CBA74C;
+  line-color:#A37B33;  
+}  
+
+#pylons {
+  polygon-fill:#EE9A32;
+  line-color:#505050;
+}  
+
+#railway {
+  line-color:#505050; 
+  ::line, ::hatch { line-color: #777; }
+  ::line { line-width:1; }
+  ::hatch {
+    line-width: 4;
+    line-dasharray: 2, 24;}
+}
+
+#sailingline {
+  line-color: #BD89A9;
+  text-name: "'SAILING LINE'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
+}
+  
 #restrictedarea {
   line-color:#594;
   line-width:0.5;
