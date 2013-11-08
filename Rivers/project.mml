@@ -48,7 +48,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "northamericanrivers"
+      "name": "northamericanrivers",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -605,7 +606,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "depthcontours"
+      "name": "depthcontours",
+      "status": "off"
     },
     {
       "extent": [
@@ -940,12 +942,12 @@
         "project": "Rivers",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
-      "id": "arrivalpoint",
+      "id": "arrivalpointland",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "arrivalpoint",
+      "name": "arrivalpointland",
       "status": "off"
     },
     {
@@ -1218,7 +1220,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "pylons"
+      "name": "pylons",
+      "status": "off"
     },
     {
       "extent": [
@@ -1269,7 +1272,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "sailingline"
+      "name": "sailingline",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -1288,7 +1292,10 @@
         "extent": "-94.3003567,30.9129476,-82.183709,44.9875444",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "restrictedarea",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "restrictedarea",
       "class": "",
@@ -1340,7 +1347,10 @@
         "extent": "-94.4431558,30.909245,-79.6530078,45.142195",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "roadway",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "roadway",
       "class": "",
@@ -1366,7 +1376,10 @@
         "extent": "-94.311402,30.7354803,-79.6670237,45.090044",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "seaare",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "seaare",
       "class": "",
@@ -1392,7 +1405,10 @@
         "extent": "-94.342073,32.523497,-79.6754529,45.0482084",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "silotank",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "silotank",
       "class": "",
@@ -1418,7 +1434,10 @@
         "extent": "-94.433944,30.739151,-79.6646864,45.1050279",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "slcons",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "slcons",
       "class": "",
@@ -1451,8 +1470,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "duneridge",
-      "status": "off"
+      "name": "duneridge"
     },
     {
       "extent": [
@@ -1477,8 +1495,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "rockwall",
-      "status": "off"
+      "name": "rockwall"
     },
     {
       "extent": [

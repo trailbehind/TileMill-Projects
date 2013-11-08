@@ -1,14 +1,14 @@
 Map {
-  background-color: #b8dee6;
+  background-color: #fff;
 }
 
 #countries {
   ::outline {
-    line-color: #85c5d4;
+    line-color: #505050;
     line-width: 2;
     line-join: round;
   }
-  polygon-fill: #D5C2A1;
+  polygon-fill: #CDF79F;
 }
 
 #northamericanrivers {
@@ -258,7 +258,7 @@ Map {
 
 #landarea {
   polygon-fill:#E3D48A;
-  polygon-opacity:0.35;
+  polygon-opacity:0.5;
 }  
 
 #landmark {
@@ -270,7 +270,7 @@ Map {
   marker-width:3;
 }  
 
-#arrivalpoint {
+#arrivalpointland {
     [zoom > 14] { 
     text-name: [objnam];
     text-face-name: 'Helvetica Regular';
@@ -398,14 +398,115 @@ Map {
   text-halo-radius: 2.5; 
 }
   
+//reccomended route for pleasure cruisers/sailors
+
 #restrictedarea {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:1;
-  polygon-fill:#ae8;
+  ::line, ::hatch { line-color: #BD89A9; }
+  ::line { line-width:1; }
+  ::hatch {
+    line-width: 4;
+    line-dasharray: 1, 24;
+  }
+  text-name: "'RESTRICTED AREA'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
 }
 
+//label may not be needed
 
+#nonnavrivers {
+  line-color:#C9E4F9;
+  line-width:1;
+  ['mapnik::geometry_type'=polygon] {
+    polygon-fill:#C9E4F9;
+    polygon-opacity:1;
+    }
+    ::outline {
+    line-color: #A37B33;
+    line-width: 1;}
+}
+  
+//should these be labeled?, stand alone small rivers are not changing to blue
+
+#roadway {
+	line-width:2;
+    line-color:#505050;
+  [catrod='1'] {
+    ::case {
+      line-width: 5;
+      line-color:#d83;
+    }
+    ::fill {
+      line-width: 2.5;
+      line-color:#fe3;
+    }
+  }
+  [catrod='2'] {
+    ::case {
+      line-width: 4.5;
+      line-color:#ca8;
+    }
+    ::fill {
+      line-width: 2;
+      line-color:#ffa;
+    }
+   }
+  [catrod='3'] {
+    ::case {
+      line-width: 4.5;
+      line-color:#ca8;
+    }
+    ::fill {
+      line-width: 2;
+      line-color:#ffa;
+    }
+  }
+}
+
+#seaare {
+  text-name:[objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
+  polygon-fill:#fff;
+  polygon-opacity:0.25;
+}
+
+//federal buoys, arrival points in water, lock facility names
+
+#silotank {
+  line-width:2;
+  line-color:#505050;
+}
+
+//oil and silo tanks, just showing outline on map
+
+#slcons {
+ line-width:2;
+ line-color:#505050;   
+ ['mapnik::geometry_type'=polygon] {
+    polygon-fill:#E3D48A;
+    polygon-opacity:1;
+    }
+    ::outline {
+    line-color: #505050;
+    line-width: 1;}
+}  
+
+#duneridge {
+  line-width:2;
+  polygon-fill:#A37B33;
+  line-color:#CBA74C;
+}  
+
+#rockwall {
+  line-pattern-file: url(rockwallline.svg);
+}  
+  
 #rocks {
   marker-width:6;
   marker-fill:#ff4554;
