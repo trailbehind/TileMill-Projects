@@ -67,7 +67,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "states"
+      "name": "states",
+      "status": "off"
     },
     {
       "extent": [
@@ -1470,7 +1471,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "duneridge"
+      "name": "duneridge",
+      "status": "off"
     },
     {
       "extent": [
@@ -1495,7 +1497,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "rockwall"
+      "name": "rockwall",
+      "status": "off"
     },
     {
       "extent": [
@@ -1513,15 +1516,17 @@
         "extent": "-93.709468,31.213741,-79.770635,42.7786986",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "smallcraftfacility",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "smallcraftfacility",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "smallcraftfacility",
-      "status": "off"
+      "name": "smallcraftfacility"
     },
     {
       "geometry": "point",

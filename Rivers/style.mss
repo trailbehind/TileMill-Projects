@@ -50,7 +50,7 @@ Map {
       point-file:url(daybeaconrdb.svg);
     }
     [colour='4'] {
-    	point-file:url(daybeaconldb.svg);
+      point-file:url(daybeaconldb.svg);
     }
   }
 }
@@ -504,12 +504,28 @@ Map {
 }  
 
 #rockwall {
-  line-pattern-file: url(rockwallline.svg);
+  line-pattern-file:url(rockwallline.svg);
+  line-color:#505050;
+  line-width:2;
+}  
+
+#smallcraftfacility {
+  marker-file:url(sailboat.svg);
+  marker-width:11;
+  [zoom < 7] {
+  text-name:[ogc_fid];
+  text-size:80;
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  ['mapnik::geometry_type'=polygon] 
+    ::outline {
+    line-color: purple;
+    line-width: 2;}
+  }  
 }  
   
 #rocks {
-  marker-width:6;
-  marker-fill:#ff4554;
+  marker-fill:#505050;
   marker-line-color:#813;
   marker-allow-overlap:true;
 }
