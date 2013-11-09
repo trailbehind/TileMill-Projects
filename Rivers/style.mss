@@ -37,7 +37,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -86,7 +85,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -100,7 +98,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -177,7 +174,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -223,7 +219,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -239,7 +234,6 @@ Map {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-dy: 20;
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
@@ -275,7 +269,6 @@ Map {
     text-name: [objnam];
     text-face-name: 'Helvetica Regular';
   	text-placement-type: simple;
-  	text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   	text-dy: 20;
   	text-dx: 20;
   	text-halo-fill: fadeout(white, 0%);
@@ -348,7 +341,6 @@ Map {
   text-name: "'Pipeline Area'";
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
   
@@ -361,7 +353,6 @@ Map {
   text-name: "'Submarine Pipeline'";
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
 } 
@@ -393,7 +384,6 @@ Map {
   text-name: "'SAILING LINE'";
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
 }
@@ -410,7 +400,6 @@ Map {
   text-name: "'RESTRICTED AREA'";
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-placements: "N,S,E,W,NE,SE,NW,SW,16,14,12";
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
 }
@@ -510,25 +499,30 @@ Map {
 }  
 
 #smallcraftfacility {
+  [zoom > 11]{
   marker-file:url(sailboat.svg);
   marker-width:11;
-  [zoom < 7] {
   text-name:[ogc_fid];
-  text-size:80;
+  text-size:20;
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
   ['mapnik::geometry_type'=polygon] 
     ::outline {
     line-color: purple;
-    line-width: 2;}
-  }  
+    line-width: 2;} }  
 }  
   
 #rocks {
   marker-fill:#505050;
   marker-line-color:#813;
-  marker-allow-overlap:true;
+  text-name:"'ROCK'";
+  text-face-name: 'Helvetica Regular';
 }
+
+#wrecks {
+  marker-file:url(wrecks.svg);
+  marker-width: 30;
+  }
 
 #states {
   line-color:#505050;
