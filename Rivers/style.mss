@@ -23,37 +23,12 @@ Map {
   polygon-fill:#ae8;
 }
 
-#airports {
-  [zoom > 6] {
-  ['mapnik::geometry_type'=point] {
-    marker-width:10; 
-  	marker-fill:#505050;
-    }
-  polygon-fill:#A0A2A5;
-  polygon-opacity:0.75;
-    ::outline {
-    line-color: #797A7D;
-    line-width: 2;}
-  text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5;}
-}
-
-#beaconlat {
-  [zoom > 6] {
-    [colour='3'] {
-      point-file:url(daybeaconrdb.svg);
-    }
-    [colour='4'] {
-      point-file:url(daybeaconldb.svg);
-    }
-  }
-}
-
+#states {
+  line-color:#505050;
+  line-width:0.5;
+  polygon-opacity:0;
+  polygon-fill:#ae8;
+}  
 
 #buoybifurcationchannel [zoom > 5] {
   marker-file:url(buoybifurcationchannel.svg);
@@ -66,29 +41,6 @@ Map {
   marker-file:url(buoymarkingdangerpoint.svg);
   marker-width:20;
   marker-allow-overlap:true;
-}
-
-#buildingsnavigationalsig {
-  polygon-fill: #CBA74C;
-  line-color: #A37B33;
-}
-
-#builtuparea {
-  [zoom > 5] {
-  ['mapnik::geometry_type'=point] {
-    marker-width:10; 
-  	marker-fill:#A37B33;
-    }
-    ::outline {
-    line-color: #46433D;
-    line-width: 2;}
-  text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5;} 
 }
 
 #canals {
@@ -105,18 +57,13 @@ Map {
 }
 
 #submarinecablearea {
+  line-color:#BD89A9;
   polygon-opacity:1;
   polygon-fill:#BD89A9;
 }
 
 #submarinecable {
-  line-color:#BD89A9;
-  line-width:3;
-}
-
-#coalne {
-  line-color:#A5CBD3;
-  line-width:3;
+  line-pattern-file: url(submarinecable.png);
 }
   
 #conveyor {
@@ -137,6 +84,8 @@ Map {
   polygon-fill:#B8DEE6;
   polygon-opacity:0.2;
 }  
+
+// buffer zones for all?
   
 #dam {
  line-color:#000000;
@@ -144,32 +93,15 @@ Map {
  polygon-fill:#000000;
 }
 
-#daymark {
-  marker-width:6;
-  marker-fill:#ff4554;
-  marker-line-color:#813;
-  marker-allow-overlap:true;
-}
-
-#depthmarkings {
-  polygon-fill:#90c8e8;
-  polygon-opacity:0.75;
-}  
-
-#depthcontours {
-  line-color:#747368;
-  line-width:2;
-}
-
 #dykecoast {
-    line-color:#747368;
+    line-color:#777;
     line-width:1;
   	polygon-fill:#B68368;
   	polygon-opacity:1;
 }
 
 #ferryroute {
-  line-color:#747368;
+  line-color:#777;
   line-width:1;
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
@@ -197,11 +129,19 @@ Map {
 } 
 
 #generic {
-  polygon-fill:#B8DEE6;
-  polygon-opacity:0.25;
   line-color:#000000;  
+  ['mapnik::geometry_type'=point]{
   marker-fill:#000000; 
-  marker-width:3;
+  marker-width:3;}
+  //text-name:[srid];
+  //text-face-name: 'Helvetica Regular';
+  ['mapnik::geometry_type'=polygon] {
+    polygon-fill:#B8DEE6;
+    polygon-opacity:0.25;
+    }
+    ::outline {
+    line-color: #505050;
+    line-width: 1;}
 }
 
 #harborfacility {
@@ -239,30 +179,6 @@ Map {
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;}   
 }
-
-
-#bridgelights {
-  [colour='3'] {  
-     marker-fill:#ff4554;}
-  [colour='4'] {
-     marker-fill:#5DC00D;}
-  marker-width:6;
-  marker-allow-overlap:true;
-}
-
-#landarea {
-  polygon-fill:#E3D48A;
-  polygon-opacity:0.5;
-}  
-
-#landmark {
-  polygon-fill: #fff;
-  polygon-opacity:0.3;
-  line-color: #505050;
-  line-width: 2; 
-  marker-fill: #FFF835;
-  marker-width:3;
-}  
 
 #arrivalpointland {
     [zoom > 14] { 
@@ -326,14 +242,6 @@ Map {
    marker-width:20; 
 }  
 
-
-#minorlight {
-  [zoom > 10] {
-  marker-file:url(minorlight.svg);
-  marker-allow-overlap:true;
-  marker-width:20;}
-}
-
 #pipeline {
   polygon-opacity:0.0;
   line-dasharray: 10, 4;
@@ -369,15 +277,6 @@ Map {
   polygon-fill:#EE9A32;
   line-color:#505050;
 }  
-
-#railway {
-  line-color:#505050; 
-  ::line, ::hatch { line-color: #777; }
-  ::line { line-width:1; }
-  ::hatch {
-    line-width: 4;
-    line-dasharray: 2, 24;}
-}
 
 #sailingline {
   line-color: #BD89A9;
@@ -420,41 +319,6 @@ Map {
   
 //should these be labeled?, stand alone small rivers are not changing to blue
 
-#roadway {
-	line-width:2;
-    line-color:#505050;
-  [catrod='1'] {
-    ::case {
-      line-width: 5;
-      line-color:#d83;
-    }
-    ::fill {
-      line-width: 2.5;
-      line-color:#fe3;
-    }
-  }
-  [catrod='2'] {
-    ::case {
-      line-width: 4.5;
-      line-color:#ca8;
-    }
-    ::fill {
-      line-width: 2;
-      line-color:#ffa;
-    }
-   }
-  [catrod='3'] {
-    ::case {
-      line-width: 4.5;
-      line-color:#ca8;
-    }
-    ::fill {
-      line-width: 2;
-      line-color:#ffa;
-    }
-  }
-}
-
 #seaare {
   text-name:[objnam];
   text-face-name: 'Helvetica Regular';
@@ -466,25 +330,6 @@ Map {
 }
 
 //federal buoys, arrival points in water, lock facility names
-
-#silotank {
-  line-width:2;
-  line-color:#505050;
-}
-
-//oil and silo tanks, just showing outline on map
-
-#slcons {
- line-width:2;
- line-color:#505050;   
- ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#E3D48A;
-    polygon-opacity:1;
-    }
-    ::outline {
-    line-color: #505050;
-    line-width: 1;}
-}  
 
 #duneridge {
   line-width:2;
@@ -522,11 +367,4 @@ Map {
 #wrecks {
   marker-file:url(wrecks.svg);
   marker-width: 30;
-  }
-
-#states {
-  line-color:#505050;
-  line-width:0.5;
-  polygon-opacity:0;
-  polygon-fill:#ae8;
-}      
+}  

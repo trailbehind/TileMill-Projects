@@ -1,0 +1,27 @@
+#coalne {
+  line-color:#777;
+  line-width:3;
+}
+
+//banks of river
+
+#depthmarkings {
+  polygon-fill:#CBE9F9;
+  polygon-opacity:1;
+}  
+
+//whole river, marked in blue
+
+#depthcontours {
+  line-color:#777;
+  line-width:2; 
+}
+
+//need this to be a polygon
+
+#landarea {
+  polygon-fill:#E3D48A;
+  polygon-opacity:1;
+}  
+
+//land area as designated by acoe
