@@ -8,7 +8,7 @@
 
 #bridgelights {
   [colour='3'] { 
-  	[zoom > 13]{
+  	[zoom > 12]{
     marker-file:url(pinkrightlight.svg);}}
   [zoom=13]{
     marker-width:16;}
@@ -21,7 +21,7 @@
   [zoom=17]{
     marker-width:26;}
   [colour='4'] {
-    [zoom > 13]{
+    [zoom > 12]{
      marker-file:url(greenleftlight.svg);}}
   [zoom=13]{
     marker-width:16;}
@@ -33,7 +33,6 @@
     marker-width:22;} 
   [zoom=17]{
     marker-width:26;}
-  marker-allow-overlap:true;
 }
 
 //actually these are the major lights, blue dots associated with this data, what are they?

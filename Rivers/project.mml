@@ -346,6 +346,34 @@
       "name": "landarea"
     },
     {
+      "extent": [
+        -94.433944,
+        30.739151,
+        -79.6646864,
+        45.1050279
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "slcons",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.433944,30.739151,-79.6646864,45.1050279",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc",
+        "id": "slcons",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "id": "slcons",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "slcons"
+    },
+    {
       "geometry": "point",
       "extent": [
         -93.5206652,
@@ -401,8 +429,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoybifurcationchannel",
-      "status": "off"
+      "name": "buoybifurcationchannel"
     },
     {
       "geometry": "point",
@@ -431,8 +458,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "buoydangerpoint",
-      "status": "off"
+      "name": "buoydangerpoint"
     },
     {
       "geometry": "polygon",
@@ -1461,7 +1487,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "roadway"
+      "name": "roadway",
+      "status": "off"
     },
     {
       "extent": [
@@ -1486,7 +1513,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "railway"
+      "name": "railway",
+      "status": "off"
     },
     {
       "extent": [
@@ -1519,35 +1547,6 @@
     },
     {
       "extent": [
-        -94.433944,
-        30.739151,
-        -79.6646864,
-        45.1050279
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "slcons",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-94.433944,30.739151,-79.6646864,45.1050279",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc",
-        "id": "slcons",
-        "project": "Rivers",
-        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-      },
-      "id": "slcons",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "slcons",
-      "status": "off"
-    },
-    {
-      "extent": [
         -94.4336496,
         30.7353225,
         -79.68353820000002,
@@ -1572,7 +1571,8 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "builtuparea"
+      "name": "builtuparea",
+      "status": "off"
     }
   ],
   "scale": 1,

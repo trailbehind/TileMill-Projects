@@ -96,13 +96,15 @@
 
 #slcons {
  line-width:2;
- line-color:#505050;   
+ line-color:#505050;
+ marker-fill:orange;
+ marker-width:20;
  ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#E3D48A;
+    polygon-fill:#A37B33;
     polygon-opacity:1;
     }
     ::outline {
-    line-color: #505050;
+    line-color: #000000;
     line-width: 1;}
 }  
 

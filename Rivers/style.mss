@@ -63,7 +63,8 @@ Map {
 }
 
 #submarinecable {
-  line-pattern-file: url(submarinecable.png);
+  //line-pattern-file: url(submarinecable.png);
+  line-color:#BD89A9;
 }
   
 #conveyor {
@@ -75,14 +76,17 @@ Map {
 
 #cranes {
   line-color:#46433D;
-  line-width:20;
+  line-width:4;
   polygon-fill:#A0A2A5;
   polygon-opacity:0.75;
 }
 
 #ctnare {
-  polygon-fill:#B8DEE6;
-  polygon-opacity:0.2;
+  polygon-pattern-file: url(ctnarepattern.png);
+  polygon-opacity:0.10;
+  line-dasharray: 16,4;
+  line-color:#BD89A9;
+  line-width:3;  
 }  
 
 // buffer zones for all?
