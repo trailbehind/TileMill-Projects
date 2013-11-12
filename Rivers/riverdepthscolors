@@ -1,6 +1,7 @@
 #coalne {
+  [zoom > 11] {
   line-color:#777;
-  line-width:3;
+  line-width:1;}
 }
 
 //banks of river
@@ -14,7 +15,7 @@
 
 #depthcontours {
   line-color:#777;
-  line-width:2; 
+  line-width:1; 
 }
 
 //need this to be a polygon

@@ -25,7 +25,7 @@
 // called lndrgn this area also shows national wildlife refuges, and county names
 
 #airports {
-  [zoom > 6] {
+  [zoom >11] {
   ['mapnik::geometry_type'=point] {
     marker-width:10; 
   	marker-fill:#505050;
@@ -54,15 +54,17 @@
 }  
 
 #railway {
+   [zoom > 11] {
   line-color:#505050; 
   ::line, ::hatch { line-color: #777; }
   ::line { line-width:1; }
   ::hatch {
     line-width: 4;
-    line-dasharray: 2, 24;}
+    line-dasharray: 2, 24;}}
 }
 
 #roadway {
+  [zoom > 11] {
   line-width:1;
   line-color:#000000;
   [catrod='1'] {
@@ -94,7 +96,7 @@
       line-width: 2;
       line-color:#ffa;
     }
-  }
+  }}
 }
 
 #buildingsnavigationalsig {
@@ -134,14 +136,14 @@
 //land area as designated by acoe
 
 #builtuparea {
-  [zoom > 5] {
-  ['mapnik::geometry_type'=point] {
+  [zoom > 8] {
+  ['mapnik::geometry_type'=point] { [zoom > 11] {
     marker-width:10; 
   	marker-fill:#A37B33;
     }
     ::outline {
     line-color: #46433D;
-    line-width: 2;}
+    line-width: 2;} } 
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;

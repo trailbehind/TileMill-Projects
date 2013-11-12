@@ -48,8 +48,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_qual",
-      "status": "off"
+      "name": "m_qual"
     },
     {
       "geometry": "polygon",
@@ -75,8 +74,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_npub",
-      "status": "off"
+      "name": "m_npub"
     },
     {
       "geometry": "polygon",
@@ -102,8 +100,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "m_covr",
-      "status": "off"
+      "name": "m_covr"
     },
     {
       "geometry": "polygon",
@@ -132,8 +129,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "administrativearea",
-      "status": "off"
+      "name": "administrativearea"
     },
     {
       "id": "countries",
@@ -1300,8 +1296,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "duneridge",
-      "status": "off"
+      "name": "duneridge"
     },
     {
       "extent": [
@@ -1354,8 +1349,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "landmark",
-      "status": "off"
+      "name": "landmark"
     },
     {
       "extent": [
@@ -1489,8 +1483,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "silotank",
-      "status": "off"
+      "name": "silotank"
     },
     {
       "extent": [
