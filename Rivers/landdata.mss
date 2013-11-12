@@ -1,3 +1,29 @@
+#arrivalpointland { 
+  marker-fill:#505050;
+  marker-width:4;
+     [zoom > 14] { 
+     text-name: [objnam];
+     text-face-name: 'Helvetica Regular';
+    	text-placement-type: simple;
+    	text-dy: 20;
+    	text-dx: 20;
+     	text-halo-fill: fadeout(white, 0%);
+    	text-halo-radius: 2.5;
+  		text-allow-overlap: false;}
+  ['mapnik::geometry_type'=polygon]{
+  ::shape {polygon-fill:#594; 
+  polygon-opacity:0.5;}}  
+  ::label {text-name:[objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}  
+} 
+
+// called lndrgn this area also shows national wildlife refuges, and county names
+
 #airports {
   [zoom > 6] {
   ['mapnik::geometry_type'=point] {
@@ -16,24 +42,6 @@
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;}
-}
-
-#builtuparea {
-  [zoom > 5] {
-  ['mapnik::geometry_type'=point] {
-    marker-width:10; 
-  	marker-fill:#A37B33;
-    }
-    ::outline {
-    line-color: #46433D;
-    line-width: 2;}
-  text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5;} 
 }
 
 #landmark {
@@ -55,8 +63,8 @@
 }
 
 #roadway {
-	line-width:2;
-    line-color:#505050;
+  line-width:1;
+  line-color:#000000;
   [catrod='1'] {
     ::case {
       line-width: 5;
@@ -97,8 +105,8 @@
 #slcons {
  line-width:2;
  line-color:#505050;
- marker-fill:orange;
- marker-width:20;
+ //marker-fill:orange;
+ //marker-width:2;
  ['mapnik::geometry_type'=polygon] {
     polygon-fill:#A37B33;
     polygon-opacity:1;
@@ -115,4 +123,30 @@
   line-color:#505050;
 }
 
-//oil and silo tanks, just showing outline on map
+//oil and silo tanks, just showing outline on map 
+
+#landarea {
+  polygon-fill:#E3D48A;
+  polygon-opacity:1;
+}  
+
+
+//land area as designated by acoe
+
+#builtuparea {
+  [zoom > 5] {
+  ['mapnik::geometry_type'=point] {
+    marker-width:10; 
+  	marker-fill:#A37B33;
+    }
+    ::outline {
+    line-color: #46433D;
+    line-width: 2;}
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;} 
+}

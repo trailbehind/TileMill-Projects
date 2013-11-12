@@ -1,48 +1,3 @@
-Map {
-  background-color: #fff;
-}
-
-#countries {
-  ::outline {
-    line-color: #505050;
-    line-width: 2;
-    line-join: round;
-  }
-  polygon-fill: #CDF79F;
-}
-
-#northamericanrivers {
-  line-width:0.5;
-  line-color:#168;
-}
-
-#administrativearea {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:1;
-  polygon-fill:#ae8;
-}
-
-#states {
-  line-color:#505050;
-  line-width:0.5;
-  polygon-opacity:0;
-  polygon-fill:#ae8;
-}  
-
-#buoybifurcationchannel [zoom > 5] {
-  marker-file:url(buoybifurcationchannel.svg);
-  marker-width: 20;
-  marker-allow-overlap:true;
-}
-
-
-#buoydangerpoint {
-  marker-file:url(buoymarkingdangerpoint.svg);
-  marker-width:20;
-  marker-allow-overlap:true;
-}
-
 #canals {
   line-color:#46433D;
   line-width:3;
@@ -82,11 +37,16 @@ Map {
 }
 
 #ctnare {
-  polygon-pattern-file: url(ctnarepattern.png);
-  polygon-opacity:0.10;
-  line-dasharray: 16,4;
-  line-color:#BD89A9;
-  line-width:3;  
+  //polygon-pattern-file: url(ctnarepattern.png);
+  //polygon-opacity:0.10;
+  line-width:2;  
+  line-color: #BD89A9;
+  line-dasharray: 16, 2;
+  text-name: "'Caution Area'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; 
 }  
 
 // buffer zones for all?
@@ -184,47 +144,6 @@ Map {
   text-halo-radius: 2.5;}   
 }
 
-#arrivalpointland {
-    [zoom > 14] { 
-    text-name: [objnam];
-    text-face-name: 'Helvetica Regular';
-  	text-placement-type: simple;
-  	text-dy: 20;
-  	text-dx: 20;
-  	text-halo-fill: fadeout(white, 0%);
-  	text-halo-radius: 2.5;} 
-  polygon-fill:#482475; 
-  polygon-opacity:0.25;
-  marker-fill:#505050;
-  marker-width:4;
-}  
-
-#m_covr {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:0.1;
-  polygon-fill:#ae8;
-}
-
-//this is the areas of data coverage in map, shown as green transparent rectangles
-
-#m_npub {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:0.1;
-  polygon-fill:#ae8;
-}
- //seems to be redundant with m_covr
-
-#m_qual {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:0;
-  polygon-fill:#ae8;
-}
-
-//An area within which a uniform assessment of the quality of the data exists, same as m_npub, made fully transparent for this reason
-
 #morfac {
     [catmor='7'] {
       marker-file:url(buoymooring.svg);
@@ -252,6 +171,7 @@ Map {
   line-color: #BD89A9;
   text-name: "'Pipeline Area'";
   text-face-name: 'Helvetica Regular';
+  text-spacing: 30;
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
@@ -259,12 +179,12 @@ Map {
 }  
 
 #pipsol {
-  marker-fill:#BD89A9;
   line-color:#BD89A9;  
   line-dasharray: 10, 4;
   text-name: "'Submarine Pipeline'";
   text-face-name: 'Helvetica Regular';
   text-placement: line;
+  text-spacing: 1000;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 
 } 
@@ -309,32 +229,6 @@ Map {
 
 //label may not be needed
 
-#nonnavrivers {
-  line-color:#C9E4F9;
-  line-width:1;
-  ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#C9E4F9;
-    polygon-opacity:1;
-    }
-    ::outline {
-    line-color: #A37B33;
-    line-width: 1;}
-}
-  
-//should these be labeled?, stand alone small rivers are not changing to blue
-
-#seaare {
-  text-name:[objnam];
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5; 
-  polygon-fill:#fff;
-  polygon-opacity:0.25;
-}
-
-//federal buoys, arrival points in water, lock facility names
-
 #duneridge {
   line-width:2;
   polygon-fill:#A37B33;
@@ -369,6 +263,16 @@ Map {
 }
 
 #wrecks {
+  [zoom > 12]{
   marker-file:url(wrecks.svg);
-  marker-width: 30;
+  [zoom=13]{
+    marker-width:16;}
+  [zoom=14]{
+    marker-width:18;}  
+  [zoom=15]{
+    marker-width:20;}
+  [zoom=16]{
+    marker-width:22;} 
+  [zoom=17]{
+    marker-width:26;} } 
 }  

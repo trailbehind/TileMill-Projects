@@ -18,10 +18,3 @@
 }
 
 //need this to be a polygon
-
-#landarea {
-  polygon-fill:#E3D48A;
-  polygon-opacity:1;
-}  
-
-//land area as designated by acoe
