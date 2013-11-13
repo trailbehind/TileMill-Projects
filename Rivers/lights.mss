@@ -6,24 +6,6 @@
 
 //bcn lights are all  under other 'lights'
 
-#minorlight {
-  [zoom > 12] {
-  marker-file:url(gage.svg);
-  marker-allow-overlap:true;
-  marker-width:20;}
-    [zoom=13]{
-    marker-width:16;}
-  [zoom=14]{
-    marker-width:18;}  
-  [zoom=15]{
-    marker-width:20;}
-  [zoom=16]{
-    marker-width:22;} 
-  [zoom=17]{
-    marker-width:26;}
-}
-//seems these may be gage stations
-
 #bridgelights {
   [colour='3'] { 
   	[zoom > 12]{
@@ -54,6 +36,25 @@
 }
 
 //actually these are the major lights, blue dots associated with this data, what are they?
+
+#minorlight {
+  [zoom > 10] {
+  marker-file:url(gage.svg);
+  marker-allow-overlap:true;
+  marker-width:20;}
+    [zoom=13]{
+    marker-width:16;}
+  [zoom=14]{
+    marker-width:18;}  
+  [zoom=15]{
+    marker-width:20;}
+  [zoom=16]{
+    marker-width:22;} 
+  [zoom=17]{
+    marker-width:26;}
+}
+//seems these may be gage stations
+
 
 #daymark {
   [zoom>12]{

@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100"
@@ -25,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="268.42857"
-     inkscape:cy="240"
+     inkscape:zoom="3.959798"
+     inkscape:cx="64.662544"
+     inkscape:cy="34.279609"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2995"
      showgrid="true"
      inkscape:window-width="1336"
-     inkscape:window-height="905"
-     inkscape:window-x="0"
+     inkscape:window-height="856"
+     inkscape:window-x="26"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -68,33 +67,33 @@
     <g
        id="g2995">
       <rect
-         y="717.79968"
+         y="718.36218"
          x="106.57143"
-         height="10.812507"
+         height="8"
          width="100"
          id="rect2985"
          style="fill:#000000;fill-opacity:1;stroke:none" />
       <rect
          y="672.36218"
-         x="152.63203"
+         x="152.57143"
          height="100"
-         width="7.2727232"
+         width="8"
          id="rect2987"
          style="fill:#000000;fill-opacity:1;stroke:none" />
       <rect
          y="689.86218"
-         x="177.29871"
+         x="177.57143"
          height="65.000008"
-         width="8.484848"
+         width="8"
          id="rect2989"
          style="fill:#000000;fill-opacity:1;stroke:none" />
-      <image
-         width="8.484849"
-         height="65.390633"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAEnCAYAAACpEGO6AAAABHNCSVQICAgIfAhkiAAAAHdJREFU eJztzEENADAIBLBjcvEw7ZsJPiStgFaSl0FnMhMKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgU CoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqF+8Lq7jsZ fnV2BQeoTmNuAAAAAElFTkSuQmCC "
-         id="image3012"
-         x="126.38961"
-         y="689.47156" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect5268"
+         width="8"
+         height="65"
+         x="127.57143"
+         y="689.86218" />
     </g>
   </g>
 </svg>

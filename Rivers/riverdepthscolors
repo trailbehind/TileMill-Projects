@@ -14,8 +14,11 @@
 //whole river, marked in blue
 
 #depthcontours {
+  [zoom > 9] {
   line-color:#777;
-  line-width:1; 
+  line-width:1;
+  //polygon-fill: #fff
+  }
 }
 
 //need this to be a polygon

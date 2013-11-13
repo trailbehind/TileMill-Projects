@@ -305,7 +305,10 @@
         "extent": "-94.4346809,30.7362831,-79.664396,45.064979",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "depthcontours",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "depthcontours",
       "class": "",

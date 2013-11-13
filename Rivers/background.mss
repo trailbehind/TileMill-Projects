@@ -1,4 +1,5 @@
 #nonnavrivers {
+  [zoom > 4] {
   line-color:#C9E4F9;
   line-width:1;
   ['mapnik::geometry_type'=polygon] {
@@ -11,7 +12,7 @@
     }
      ::fill {
       line-width: 2.5;
-      line-color:#C9E4F9;}
+      line-color:#C9E4F9;}}
 }
   
 //rivers that are not deep enough to use
@@ -28,7 +29,7 @@
   line-color:#168;
 }
 
-#states {
+#states { 
   line-color:#505050;
   line-width:0.5;
   polygon-opacity:0;
