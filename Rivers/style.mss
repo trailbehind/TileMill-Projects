@@ -1,21 +1,6 @@
-#obscruction {
-  [zoom > 5] {
-    ['mapnik::geometry_type'=1] 
-    {
-    marker-fill: orange;
-    marker-opacity: 1;
-    line-color:orange;
-    marker-width: 20}
-    ['mapnik::geometry_type'=polygon] 
-    {
-    polygon-pattern-file: url(obstruction.svg);
-    }
-  }
-}  
-
 #obstruction {
-  polygon-fill: orange;
-  polygon-opacity: 1;
+  polygon-pattern-file: url(obstruction.png);
+  line-color:#000000;
   marker-fill: orange;
   marker-opacity:1;
   marker-width:20;
