@@ -1,3 +1,16 @@
+#sailingline {
+  [zoom > 12] {
+  line-color: magenta;
+  text-name: "'SAILING LINE'";
+  text-face-name: 'Helvetica Regular';
+  text-placement: line;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5; }
+}
+  
+//reccomended route for pleasure cruisers/sailors
+
+
 #coalne {
   [zoom > 11] {
   line-color:#777;
@@ -7,7 +20,7 @@
 //banks of river
 
 #depthmarkings {
-  polygon-fill:#CBE9F9;
+  polygon-fill:#C9E4F9;
   polygon-opacity:1;
 }  
 
@@ -17,7 +30,8 @@
   [zoom > 9] {
   line-color:#777;
   line-width:1;
-  //polygon-fill: #fff
+  //polygon-fill: #fff;
+  //polygon-opacity:1;    
   }
 }
 

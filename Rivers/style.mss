@@ -1,5 +1,51 @@
+#obscruction {
+  [zoom > 5] {
+    ['mapnik::geometry_type'=1] 
+    {
+    marker-fill: orange;
+    marker-opacity: 1;
+    line-color:orange;
+    marker-width: 20}
+    ['mapnik::geometry_type'=polygon] 
+    {
+    polygon-pattern-file: url(obstruction.svg);
+    }
+  }
+}  
+
+#obstruction {
+  polygon-fill: orange;
+  polygon-opacity: 1;
+  marker-fill: orange;
+  marker-opacity:1;
+  marker-width:20;
+  
+  }
+
+#generic {
+  [zoom > 12] {
+  line-color:#000000;  
+  ['mapnik::geometry_type'=point]{
+  marker-fill:#000000; 
+  marker-width:3;}
+  //text-name:[fids];
+  //text-face-name: 'Helvetica Regular';
+  //text-placement-type: simple;
+  //text-dy: 20;
+  //text-dx: 20;
+  //text-halo-fill: fadeout(white, 0%);
+  //text-halo-radius: 2.5;
+  ['mapnik::geometry_type'=polygon] {
+    polygon-fill:#B8DEE6;
+    polygon-opacity:0.25;
+    }
+    ::outline {
+      line-color: #505050;} }
+}
+
+
 #canals {
-  line-color:#46433D;
+  line-color:#000000;
   line-width:3;
   polygon-fill:#b8dee6;  
   text-name: [objnam];
@@ -25,7 +71,7 @@
   
 #conveyor {
   [zoom > 12] {
-  line-color:#46433D;
+  line-color:#000000;
   line-width:3;
   polygon-fill:#A0A2A5;
   polygon-opacity:0.75;}
@@ -33,7 +79,7 @@
 
 #cranes {
   [zoom > 12] {
-  line-color:#46433D;
+  line-color:#000000;
   line-width:4;
   polygon-fill:#A0A2A5;
   polygon-opacity:0.75; }
@@ -62,14 +108,6 @@
  polygon-fill:#000000; }
 }
 
-#dykecoast {
-  [zoom > 12] {
-    line-color:#777;
-    line-width:1;
-  	polygon-fill:#B68368;
-  	polygon-opacity:1; }
-}
-
 #ferryroute {
   [zoom > 12] {
   line-color:#777;
@@ -86,7 +124,7 @@
 #floatingdoc {
   [zoom > 12] {
   polygon-fill:#D5C2A1;
-  line-color:#B68368;
+  line-color:#613f2c;
   line-width:5; }
 }
 
@@ -102,21 +140,6 @@
   line-width:2; }
 } 
 
-#generic {
-  [zoom > 12] {
-  line-color:#000000;  
-  ['mapnik::geometry_type'=point]{
-  marker-fill:#000000; 
-  marker-width:3;}
-  //text-name:[srid];
-  //text-face-name: 'Helvetica Regular';
-  ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#B8DEE6;
-    polygon-opacity:0.25;
-    }
-    ::outline {
-      line-color: #505050;} }
-}
 
 #harborfacility {
   [zoom > 12] {
@@ -158,26 +181,56 @@
 
 #morfac {
     [zoom > 12] {
-    [catmor='7'] {
+    ['mapnik::geometry_type'=3] 
+    {
+    polygon-fill: #A0A2A5;
+    polygon-opacity: 1;
+    line-color:#A0A2A5;}
+    [catmor=7] {
       marker-file:url(buoymooring.svg);
+        [zoom=13]{
+   		marker-width:16;}
+  		[zoom=14]{
+    	marker-width:18;}  
+  		[zoom=15]{
+    	marker-width:20;}
+  		[zoom=16]{
+    	marker-width:22;} 
+  		[zoom=17]{
+    	marker-width:26;}
+      	marker-allow-overlap:false;
     }
-    [catmor='1'] {
-      marker-fill:#505050;
-      marker-width:20;
+    [catmor=1] {
+      marker-fill:#613f2c;
+        [zoom=13]{
+   		marker-width:1;}
+  		[zoom=14]{
+    	marker-width:2;}  
+  		[zoom=15]{
+    	marker-width:3;}
+  		[zoom=16]{
+    	marker-width:4;} 
+  		[zoom=17]{
+    	marker-width:5;}
+      	marker-allow-overlap:false;
     }  
-    [catmor='5'] {
-      marker-fill:#505050;
-      marker-width:20;
+    [catmor=5] {
+      marker-fill:#000000;
+        [zoom=13]{
+   		marker-width:1;}
+  		[zoom=14]{
+    	marker-width:2;}  
+  		[zoom=15]{
+    	marker-width:3;}
+  		[zoom=16]{
+    	marker-width:4;} 
+  		[zoom=17]{
+    	marker-width:5;}
+      	marker-allow-overlap:false;
     } }
 }
 
 //mooring facilities 1 dolphin, 5 post/pile, 7 mooring buoy, not displaying correctly yet
-
-#obscruction {
-  [zoom > 12] {
-   marker-fill:#505050;
-   marker-width:20; }
-}  
 
 #pipeline {
   [zoom > 12] {
@@ -207,7 +260,6 @@
 
 //called submarine pipeline in the i enc manual, not sure if markers are needed, and how this differs from pipeline area
 
-
 #landingpontoon {
   [zoom > 12] {
   polygon-fill:#CBA74C;
@@ -219,18 +271,6 @@
   polygon-fill:#EE9A32;
   line-color:#505050; }
 }  
-
-#sailingline {
-  [zoom > 12] {
-  line-color: #BD89A9;
-  text-name: "'SAILING LINE'";
-  text-face-name: 'Helvetica Regular';
-  text-placement: line;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5; }
-}
-  
-//reccomended route for pleasure cruisers/sailors
 
 #restrictedarea {
   [zoom > 12] {
@@ -259,7 +299,7 @@
 #rockwall {
   [zoom > 12] {
   line-pattern-file:url(rockwallline.svg);
-  line-color:#505050;
+  line-color:#000000;
   line-width:2; }
 }  
 
@@ -279,15 +319,17 @@
   
 #rocks {
   [zoom > 12] {
-  marker-fill:#505050;
+  marker-fill:#000000;
   marker-line-color:#813;
   text-name:"'ROCK'";
   text-face-name: 'Helvetica Regular'; }
 }
 
 #wrecks {
-  [zoom > 12]{ 
+  [zoom > 11]{ 
   marker-file:url(wreckss.svg);
+  [zoom=12] {
+    marker-width:20;}  
   [zoom=13]{
     marker-width:16;}
   [zoom=14]{

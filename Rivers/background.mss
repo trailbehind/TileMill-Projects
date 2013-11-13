@@ -21,7 +21,7 @@
   line-color:#594;
   line-width:0.5;
   polygon-opacity:1;
-  polygon-fill:#ae8;
+  polygon-fill:#b9e2a4;
 }
 
 #northamericanrivers {
@@ -30,26 +30,26 @@
 }
 
 #states { 
-  line-color:#505050;
+  line-color:#000000;
   line-width:0.5;
   polygon-opacity:0;
-  polygon-fill:#ae8;
+  polygon-fill:#b9e2a4;
 } 
 
 #countries {
   ::outline {
-    line-color: #505050;
+    line-color: #000000;
     line-width: 2;
     line-join: round;
   }
-  polygon-fill: #CDF79F;
+  polygon-fill: #b9e2a4;
 }
 
 #m_covr {
   line-color:#594;
   line-width:0.5;
   polygon-opacity:0.1;
-  polygon-fill:#ae8;
+  polygon-fill:#b9e2a4;
 }
 
 //this is the areas of data coverage in map, shown as green transparent rectangles
@@ -58,7 +58,7 @@
   line-color:#594;
   line-width:0.5;
   polygon-opacity:0.1;
-  polygon-fill:#ae8;
+  polygon-fill:#b9e2a4;
 }
  //seems to be redundant with m_covr
 
@@ -66,7 +66,7 @@
   line-color:#594;
   line-width:0.5;
   polygon-opacity:0;
-  polygon-fill:#ae8;
+  polygon-fill:#b9e2a4;
 }
 
 //An area within which a uniform assessment of the quality of the data exists, same as m_npub, made fully transparent for this reason

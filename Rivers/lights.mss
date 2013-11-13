@@ -38,11 +38,10 @@
 //actually these are the major lights, blue dots associated with this data, what are they?
 
 #minorlight {
-  [zoom > 10] {
+  [zoom > 12] {
   marker-file:url(gage.svg);
-  marker-allow-overlap:true;
-  marker-width:20;}
-    [zoom=13]{
+  marker-allow-overlap:false;
+  [zoom=13]{
     marker-width:16;}
   [zoom=14]{
     marker-width:18;}  
@@ -51,7 +50,7 @@
   [zoom=16]{
     marker-width:22;} 
   [zoom=17]{
-    marker-width:26;}
+    marker-width:26;} }
 }
 //seems these may be gage stations
 
