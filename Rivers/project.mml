@@ -1172,8 +1172,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "seaare",
-      "status": "off"
+      "name": "seaare"
     },
     {
       "extent": [
@@ -1506,8 +1505,7 @@
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "builtuparea",
-      "status": "off"
+      "name": "builtuparea"
     },
     {
       "geometry": "polygon",
