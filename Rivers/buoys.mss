@@ -29,21 +29,6 @@
   marker-allow-overlap:true;
 }
 
-#seaare {
-  [zoom > 5]{
-  text-name:[objnam];
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5; 
-  polygon-fill:#fff;
-  polygon-opacity:0.25;
-  marker-fill: orange;
-  marker-width: 20;}
-}
-
-//federal buoys, arrival points in water, lock facility names
-
 
 #morfac {
     [zoom > 12] {

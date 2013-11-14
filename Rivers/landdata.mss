@@ -161,8 +161,8 @@
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
+  text-dy: 1;
+  text-dx: 10;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;} 
 }

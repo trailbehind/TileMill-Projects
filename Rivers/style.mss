@@ -9,6 +9,23 @@
   }
 }
 
+#seaare {
+  [zoom > 12] {
+  marker-fill: #000000;
+  marker-width: 6;
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 1;
+  text-dx: 11;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;   
+ }
+}
+
+//federal buoys, arrival points in water, lock facility names
+
+
 #generic {
   [zoom > 12] {
   line-color:#000000;  
@@ -92,7 +109,7 @@
   [zoom > 12] {
  line-color:#000000;
  line-width:3;
- polygon-fill:#000000; }
+ polygon-fill:#995E35; }
 }
 
 #ferryroute {
