@@ -69,7 +69,7 @@
 }
 
 #submarinecable {
-  [zoom > 12] {
+  [zoom > 5] {
   line-pattern-file: url(submarinecablesgood.png);}
 }
   
@@ -219,9 +219,11 @@
 
 #pylons {
   [zoom > 12] {
-  polygon-fill:#EE9A32;
+  polygon-fill:#777;
   line-color:#505050; }
 }  
+
+//things that support bridges
 
 #restrictedarea {
   [zoom > 12] {
@@ -248,10 +250,9 @@
 }  
 
 #rockwall {
-  [zoom > 12] {
-  line-pattern-file:url(rockwallline.svg);
-  line-color:#000000;
-  line-width:2; }
+ [zoom > 14] {
+  line-pattern-file:url(rockwallline.png); 
+ }
 }  
 
 #smallcraftfacility {
@@ -277,18 +278,80 @@
 }
 
 #wrecks {
-  [zoom > 11]{ 
-  marker-file:url(wreckss.svg);
-  [zoom=12] {
-    marker-width:20;}  
-  [zoom=13]{
-    marker-width:16;}
-  [zoom=14]{
-    marker-width:18;}  
-  [zoom=15]{
-    marker-width:20;}
-  [zoom=16]{
-    marker-width:22;} 
-  [zoom=17]{
-    marker-width:26;} } 
+  [zoom > 11] {
+  [catwrk = 1] {
+   	marker-file:url(partiallysubmergedwrecks.svg);
+   		[zoom=12] {
+    		marker-width:14;}  
+  		[zoom=13]{
+    		marker-width:16;}
+  		[zoom=14]{
+   			marker-width:18;}  
+  		[zoom=15]{
+    		marker-width:20;}
+  		[zoom=16]{
+    		marker-width:22;} 
+  		[zoom=17]{
+   		    marker-width:26;} 
+    }
+  [catwrk = 2] {
+    marker-file:url(abovewaterwreck.svg);
+   		[zoom=12] {
+    		marker-width:14;}  
+  		[zoom=13]{
+    		marker-width:16;}
+  		[zoom=14]{
+   			marker-width:18;}  
+  		[zoom=15]{
+    		marker-width:20;}
+  		[zoom=16]{
+    		marker-width:22;} 
+  		[zoom=17]{
+   		    marker-width:26;} 
+    }
+  [catwrk = 3]{ 
+  	marker-file:url(wreckss.svg);
+  		[zoom=12] {
+    		marker-width:14;}  
+  		[zoom=13]{
+    		marker-width:16;}
+  		[zoom=14]{
+    		marker-width:18;}  
+  		[zoom=15]{
+    		marker-width:20;}
+  		[zoom=16]{
+    		marker-width:22;} 
+  		[zoom=17]{
+    		marker-width:26;} 
+     } 
+   [catwrk = 4] {
+    marker-file:url(partiallysubmergedwrecks.svg);
+   		[zoom=12] {
+    		marker-width:18;}  
+  		[zoom=13]{
+    		marker-width:20;}
+  		[zoom=14]{
+   			 marker-width:26;}  
+  		[zoom=15]{
+    		marker-width:28;}
+  		[zoom=16]{
+    		marker-width:32;} 
+  		[zoom=17]{
+   		    marker-width:34;} 
+    }
+  [catwrk = 5]{ 
+  	marker-file:url(wreckss.svg);
+  		[zoom=12] {
+    		marker-width:14;}  
+  		[zoom=13]{
+    		marker-width:16;}
+  		[zoom=14]{
+    		marker-width:18;}  
+  		[zoom=15]{
+    		marker-width:20;}
+  		[zoom=16]{
+    		marker-width:22;} 
+  		[zoom=17]{
+    		marker-width:26;} 
+     } }
 }  

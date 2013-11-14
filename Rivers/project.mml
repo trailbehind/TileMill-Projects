@@ -1186,7 +1186,10 @@
         "extent": "-94.3533674,31.008703,-79.768152,44.899819",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "wrecks",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "wrecks",
       "class": "",

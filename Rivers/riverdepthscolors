@@ -17,7 +17,7 @@
   line-width:1;}
 }
 
-//banks of river
+//banks of river, aka coastline
 
 #depthmarkings {
   polygon-fill:#C9E4F9;
@@ -29,7 +29,7 @@
 #depthcontours {
   [zoom > 9] {
   line-color:#777;
-  line-width:1;
+  line-width:2;
   //polygon-fill: #fff;
   //polygon-opacity:1;    
   }
