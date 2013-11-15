@@ -210,31 +210,6 @@
     },
     {
       "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "lndare",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc"
-      },
-      "id": "landarea",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "landarea"
-    },
-    {
-      "extent": [
         -94.4258715,
         31.153654,
         -79.6605021,
@@ -316,6 +291,31 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "depthcontours"
+    },
+    {
+      "extent": [
+        -94.4432389,
+        30.7353225,
+        -79.6520591,
+        45.142195
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "lndare",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc"
+      },
+      "id": "landarea",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "landarea"
     },
     {
       "extent": [
@@ -897,35 +897,6 @@
       "name": "minorlight"
     },
     {
-      "geometry": "point",
-      "extent": [
-        -94.4269436,
-        30.7710247,
-        -79.679402,
-        45.054260000000006
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "daymar",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-94.4269436,30.7710247,-79.679402,45.05426",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc",
-        "id": "daymark",
-        "project": "Rivers",
-        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-      },
-      "id": "daymark",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "daymark"
-    },
-    {
       "extent": [
         -94.37591300000001,
         30.740649999999995,
@@ -1466,6 +1437,35 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "lake"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -94.4269436,
+        30.7710247,
+        -79.679402,
+        45.054260000000006
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "daymar",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4269436,30.7710247,-79.679402,45.05426",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc",
+        "id": "daymark",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "id": "daymark",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "daymark"
     },
     {
       "extent": [

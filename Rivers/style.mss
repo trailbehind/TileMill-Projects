@@ -1,11 +1,71 @@
 #obstruction {
   [zoom > 12] {
-  polygon-pattern-file: url(obstruction2.png);
-  line-color:#000000;
-  marker-fill: orange;
-  marker-opacity:1;
-  marker-width:20;
-  marker-allow-overlap:false;
+  ['mapnik::geometry_type'=polygon] {
+  	polygon-pattern-file: url(obstruction2.png);
+  	line-color:#000000;}
+  	line-width:1;  
+  ['mapnik::geometry_type'=point]{   
+  	[zoom > 13]{    
+  	marker-file: url(obstructionmarker.svg);}
+  	[zoom < 14]{
+  	marker-file: url(obstructionmarker1213.svg);}      
+  	marker-allow-overlap:false; }
+    	[catobs= 1]{
+      		text-name: "'Snag or Stump'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5; }
+      	[catobs= 3]{
+      		text-name: "'Diffuser'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
+    	[catobs= 4]{
+      		text-name: "'Crib'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
+    	[catobs= 6]{
+      		text-name: "'Foul Area'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
+    	[catobs= 7]{
+      		text-name: "'Foul Ground'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
+    	[catobs= 8]{
+      		text-name: "'Ice Boom'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
+    	[catobs= 10]{
+      		text-name: "'Boom'";
+   			text-face-name: 'Helvetica Regular';
+  			text-placement-type: simple;
+  			text-dy: 8;
+  			text-dx: 8;
+  			text-halo-fill: fadeout(white, 0%);
+  			text-halo-radius: 2.5;}
   }
 }
 
