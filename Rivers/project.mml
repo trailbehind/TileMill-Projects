@@ -6,22 +6,22 @@
     45.4447
   ],
   "center": [
-    -88.0664,
-    37.0201,
-    2
+    -88.1653,
+    37.1428,
+    6
   ],
   "format": "png8",
   "interactivity": false,
-  "minzoom": 0,
-  "maxzoom": 15,
+  "minzoom": 6,
+  "maxzoom": 17,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
     "background.mss",
     "riverdepthscolors",
     "landdata.mss",
-    "lights.mss",
     "buoys.mss",
-    "style.mss"
+    "style.mss",
+    "lights.mss"
   ],
   "Layer": [
     {
@@ -655,35 +655,6 @@
       "name": "dam"
     },
     {
-      "geometry": "point",
-      "extent": [
-        -94.4269436,
-        30.7710247,
-        -79.679402,
-        45.054260000000006
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "daymar",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-94.4269436,30.7710247,-79.679402,45.05426",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc",
-        "id": "daymark",
-        "project": "Rivers",
-        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-      },
-      "id": "daymark",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "daymark"
-    },
-    {
       "extent": [
         -94.4324513,
         31.110054,
@@ -924,6 +895,35 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "minorlight"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -94.4269436,
+        30.7710247,
+        -79.679402,
+        45.054260000000006
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "daymar",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-94.4269436,30.7710247,-79.679402,45.05426",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc",
+        "id": "daymark",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "id": "daymark",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "daymark"
     },
     {
       "extent": [
@@ -1554,7 +1554,7 @@
   ],
   "scale": 1,
   "metatile": 2,
-  "name": "ENC River Charts",
+  "name": "ENC River Charts 2",
   "description": "",
   "attribution": ""
 }
