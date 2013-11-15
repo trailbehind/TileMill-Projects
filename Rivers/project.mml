@@ -155,7 +155,7 @@
       "id": "northamericanrivers",
       "class": "",
       "Datasource": {
-        "file": "/Users/Savannah/Downloads/10m-rivers-north-america.shp"
+        "file": "layers/northamericanrivers/10m-rivers-north-america.shp"
       },
       "srs-name": "autodetect",
       "srs": "",
