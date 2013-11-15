@@ -63,38 +63,36 @@
 
 #roadway {
   [zoom > 12] {
-  line-width:1;
-  line-color:#000000;
   [catrod=1] {
     ::case {
-      line-width: 5;
-      line-color:#d83;
-    }
-    ::fill {
-      line-width: 2.5;
-      line-color:#fe3;
-    }
-  }
-  [catrod=2] {
-    ::case {
-      line-width: 4.5;
-      line-color:#ca8;
+      line-width: 4;
+      line-color:#000000;
     }
     ::fill {
       line-width: 2;
-      line-color:#ffa;
+      line-color:red;
+    } }
+  [catrod=2] {
+    ::line {
+    line-width: 2;
+    line-color: red;
+  }
+  ::dash {
+    line-color: #fff;
+    line-width: 1.5;
+    line-dasharray: 6, 6;
     }
    }
   [catrod=3] {
     ::case {
-      line-width: 4.5;
-      line-color:#ca8;
+      line-width: 3;
+      line-color:#000000;
     }
     ::fill {
       line-width: 2;
-      line-color:#ffa;
-    }
-  }}
+      line-color:#fff;
+    } }
+  }
 }
 
 #buildingsnavigationalsig {

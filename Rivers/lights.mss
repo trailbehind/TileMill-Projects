@@ -57,17 +57,18 @@
 
 #daymark {
   [zoom>12]{
-  marker-file:url(daybeaconldb.svg);
-  [zoom=13]{
-    marker-width:16;}
-  [zoom=14]{
-    marker-width:18;}  
-  [zoom=15]{
-    marker-width:20;}
-  [zoom=16]{
-    marker-width:22;} 
-  [zoom=17]{
-    marker-width:26;}
-  marker-allow-overlap:false;
-  marker-opacity:1;}
+    [colpat='6'] {
+  		marker-file:url(daybeaconrdb.svg);
+  			[zoom=13]{
+    			marker-width:16;}
+  			[zoom=14]{
+    			marker-width:18;}  
+  			[zoom=15]{
+    			marker-width:20;}
+  			[zoom=16]{
+    			marker-width:22;} 
+  			[zoom=17]{
+    			marker-width:26;}
+ 		 }
+  }
 }
