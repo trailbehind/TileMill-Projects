@@ -105,8 +105,8 @@
  [zoom > 12] { 
  line-width:2;
  line-color:#000000;
- //marker-fill:orange;
- //marker-width:2;
+ [catslc = 12]{ 
+      marker-file: url(boatramp.svg);}
  ['mapnik::geometry_type'=polygon] {
     polygon-fill:#A37B33;
     polygon-opacity:1;
@@ -116,7 +116,8 @@
     line-width: 1;} }
 }  
 
-//dykes, levees, looks like a thick brown wall
+//dykes, levees, looks like a thick brown wall, revetments, training walls, 
+//ramps, piers, jetties, wharfs, fenders, slipways, steps, ice breakers 
 
 #silotank {
   [zoom > 12] {

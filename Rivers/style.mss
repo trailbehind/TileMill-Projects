@@ -174,8 +174,7 @@
 
 #ferryroute {
   [zoom > 12] {
-  line-color:#777;
-  line-width:1;
+  line-pattern-file: url(ferryroute.png);
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement: line;

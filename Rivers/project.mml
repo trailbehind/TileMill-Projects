@@ -887,7 +887,10 @@
         "extent": "-94.432857,30.803108,-79.7142754,45.12797",
         "host": "localhost",
         "port": "5432",
-        "dbname": "enc"
+        "dbname": "enc",
+        "id": "minorlight",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "minorlight",
       "class": "",
@@ -1221,34 +1224,6 @@
     },
     {
       "extent": [
-        -91.4361888,
-        32.549702,
-        -80.2282763,
-        42.5001014
-      ],
-      "Datasource": {
-        "type": "postgis",
-        "table": "lndmrk",
-        "key_field": "",
-        "geometry_field": "",
-        "extent_cache": "auto",
-        "extent": "-91.4361888,32.549702,-80.2282763,42.5001014",
-        "host": "localhost",
-        "port": "5432",
-        "dbname": "enc",
-        "id": "landmark",
-        "project": "Rivers",
-        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-      },
-      "id": "landmark",
-      "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "landmark"
-    },
-    {
-      "extent": [
         -85.3595121,
         35.0189564,
         -83.8442469,
@@ -1466,6 +1441,34 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "daymark"
+    },
+    {
+      "extent": [
+        -91.4361888,
+        32.549702,
+        -80.2282763,
+        42.5001014
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "lndmrk",
+        "key_field": "",
+        "geometry_field": "",
+        "extent_cache": "auto",
+        "extent": "-91.4361888,32.549702,-80.2282763,42.5001014",
+        "host": "localhost",
+        "port": "5432",
+        "dbname": "enc",
+        "id": "landmark",
+        "project": "Rivers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "id": "landmark",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "landmark"
     },
     {
       "extent": [
