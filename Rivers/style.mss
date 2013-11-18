@@ -107,6 +107,24 @@
       line-color: #505050;} }
 }
 
+#smallcraftfacility {
+  [zoom > 12]{
+  ['mapnik::geometry_type'=point] {
+  marker-file:url(sailboat.svg);
+  marker-allow-overlap:true;    
+  text-name:[objnam];
+  text-size:10;
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 10;
+  text-dx: 10;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}
+  ['mapnik::geometry_type'=polygon] 
+    ::outline {
+    line-color: purple;
+    line-width: 2;} }  
+} 
 
 #canals {
   line-color:#000000;
@@ -178,8 +196,6 @@
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement: line;
-  text-dy: 20;
-  text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;    }
 }  
@@ -221,8 +237,8 @@
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
+  text-dy: 10;
+  text-dx: 10;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;}  } 
 }
@@ -313,20 +329,7 @@
   line-pattern-file:url(rockwallline.png); 
  }
 }  
-
-#smallcraftfacility {
-  [zoom > 12]{
-  marker-file:url(sailboat.svg);
-  marker-width:11;
-  text-name:[ogc_fid];
-  text-size:20;
-  text-face-name: 'Helvetica Regular';
-  text-placement-type: simple;
-  ['mapnik::geometry_type'=polygon] 
-    ::outline {
-    line-color: purple;
-    line-width: 2;} }  
-}  
+ 
   
 #rocks {
   [zoom > 12] {

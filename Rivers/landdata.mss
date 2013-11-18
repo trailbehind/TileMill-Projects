@@ -106,7 +106,8 @@
  line-width:2;
  line-color:#000000;
  [catslc = 12]{ 
-      marker-file: url(boatramp.svg);}
+      marker-file: url(boatramp.svg);
+      marker-allow-overlap:true;}
  ['mapnik::geometry_type'=polygon] {
     polygon-fill:#A37B33;
     polygon-opacity:1;

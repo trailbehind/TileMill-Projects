@@ -1,20 +1,28 @@
 #buoybifurcationchannel [zoom > 12] {
-  marker-file:url(buoybifurcationchannel.svg);
-  [zoom=13]{
-    marker-width:16;}
-  [zoom=14]{
-    marker-width:18;}  
-  [zoom=15]{
-    marker-width:20;}
-  [zoom=16]{
-    marker-width:22;} 
-  [zoom=17]{
-    marker-width:26;}
-  marker-allow-overlap:true;
+  marker-allow-overlap: false;
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 20;
+  text-dx: 20;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;
+  [colour = '4'] {
+  marker-file:url(buoylitgreen.svg);}
+  [colour = '3'] {
+  marker-file:url(buoylitpink.svg);}
 }
 
 
-#buoydangerpoint [zoom >12] {
+#buoydangerpoint [zoom > 5] {
+  [zoom > 14]{
+  text-name: "'Buoy Marking Danger Point'";
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 10;
+  text-dx: 10;
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}
   marker-file:url(buoymarkingdangerpoint.svg);
   [zoom=13]{
     marker-width:14;}
@@ -28,6 +36,8 @@
     marker-width:26;}
   marker-allow-overlap:true;
 }
+
+//boyspp
 
 
 #morfac {
