@@ -14,7 +14,7 @@
 }
 
 
-#buoydangerpoint [zoom > 5] {
+#buoydangerpoint [zoom > 12] {
   [zoom > 14]{
   text-name: "'Buoy Marking Danger Point'";
   text-face-name: 'Helvetica Regular';

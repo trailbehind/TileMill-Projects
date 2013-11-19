@@ -67,11 +67,11 @@
   [zoom=14]{
     marker-width:18;}  
   [zoom=15]{
-    marker-width:20;}
+    marker-width:18;}
   [zoom=16]{
-    marker-width:22;} 
+    marker-width:18;} 
   [zoom=17]{
-    marker-width:26;} }
+    marker-width:18;} }
 }
 //seems these may be gage stations
 

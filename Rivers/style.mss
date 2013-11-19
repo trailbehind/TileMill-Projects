@@ -10,62 +10,7 @@
   	[zoom < 14]{
   	marker-file: url(obstructionmarker1213.svg);}      
   	marker-allow-overlap:false; }
-    	[catobs= 1]{
-      		text-name: "'Snag or Stump'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5; }
-      	[catobs= 3]{
-      		text-name: "'Diffuser'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
-    	[catobs= 4]{
-      		text-name: "'Crib'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
-    	[catobs= 6]{
-      		text-name: "'Foul Area'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
-    	[catobs= 7]{
-      		text-name: "'Foul Ground'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
-    	[catobs= 8]{
-      		text-name: "'Ice Boom'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
-    	[catobs= 10]{
-      		text-name: "'Boom'";
-   			text-face-name: 'Helvetica Regular';
-  			text-placement-type: simple;
-  			text-dy: 8;
-  			text-dx: 8;
-  			text-halo-fill: fadeout(white, 0%);
-  			text-halo-radius: 2.5;}
+   
   }
 }
 
@@ -100,11 +45,11 @@
   //text-halo-fill: fadeout(white, 0%);
   //text-halo-radius: 2.5;
   ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#B8DEE6;
+    polygon-fill:#C9E4F9;
     polygon-opacity:0.25;
     }
     ::outline {
-      line-color: #505050;} }
+      line-color: #000000;} }
 }
 
 #smallcraftfacility {
@@ -129,7 +74,7 @@
 #canals {
   line-color:#000000;
   line-width:3;
-  polygon-fill:#b8dee6;  
+  polygon-fill:#C9E4F9;  
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
@@ -169,16 +114,11 @@
 
 #ctnare {
   [zoom > 12] {
-  //polygon-pattern-file: url(ctnarepattern.png);
-  //polygon-opacity:0.10;
+  polygon-pattern-file: url(cautionarea.png);
+  polygon-opacity:0.10;
   line-width:2;  
   line-color: #BD89A9;
-  line-dasharray: 16, 2;
-  text-name: "'Caution Area'";
-  text-face-name: 'Helvetica Regular';
-  text-placement: line;
-  text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5;  }
+  line-dasharray: 16, 2;  }
 }  
 
 // buffer zones for all?
@@ -295,7 +235,7 @@
 #pylons {
   [zoom > 12] {
   polygon-fill:#777;
-  line-color:#505050; }
+  line-color:#000000; }
 }  
 
 //things that support bridges
@@ -333,10 +273,8 @@
   
 #rocks {
   [zoom > 12] {
-  marker-fill:#000000;
-  marker-line-color:#813;
-  text-name:"'ROCK'";
-  text-face-name: 'Helvetica Regular'; }
+  marker-fill:#813; 
+  marker-width: 10;}
 }
 
 #wrecks {
