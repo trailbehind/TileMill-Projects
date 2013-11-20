@@ -5,7 +5,8 @@
   text-face-name: 'Helvetica Regular';
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5; }
+  text-halo-radius: 2.5; 
+  text-spacing: 1000000;}
 }
   
 //reccomended route for pleasure cruisers/sailors

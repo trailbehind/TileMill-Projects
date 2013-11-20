@@ -5,15 +5,16 @@
      [zoom > 14] { 
      text-name: [objnam];
      text-face-name: 'Helvetica Regular';
-    	text-placement-type: simple;
-    	text-dy: 20;
-    	text-dx: 20;
-     	text-halo-fill: fadeout(white, 0%);
-    	text-halo-radius: 2.5;
-  		text-allow-overlap: false;}
-  ['mapnik::geometry_type'=polygon]{
-  ::shape {polygon-fill:#594; 
-  polygon-opacity:0.5;}}  
+            text-placement-type: simple;
+            text-dy: 20;
+            text-dx: 20;
+             text-halo-fill: fadeout(white, 0%);
+            text-halo-radius: 2.5;
+                  text-allow-overlap: false;}
+  //['mapnik::geometry_type'=polygon]{
+  //::shape {polygon-fill:#594; 
+  //polygon-opacity:0.5;}
+  }  
   ::label {text-name:[objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
@@ -21,26 +22,22 @@
   text-dx: 20;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;}   }
-} 
 
 // called lndrgn this area also shows national wildlife refuges, and county names
 
 #airports {
   [zoom >12] {
-  ['mapnik::geometry_type'=point] {
-    marker-width:10; 
-  	marker-fill:#000000;
-    }
   polygon-fill:#A0A2A5;
-  polygon-opacity:0.75;
-    ::outline {
-    line-color: #777;
-    line-width: 2;}
+  polygon-opacity:0.75;}
+  //  ::outline {
+  //  line-color: #777;
+  //  line-width: 2;} 
+  [zoom > 14] {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
-  text-dy: 20;
-  text-dx: 20;
+  text-dy: 10;
+  text-dx: 10;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;}
 }
@@ -97,7 +94,7 @@
 
 #buildingsnavigationalsig {
   [zoom > 12] {
-  polygon-fill: #CBA74C;
+  polygon-fill: #dac38b;
   line-color: #A37B33; }
 }
 
@@ -123,7 +120,8 @@
 #silotank {
   [zoom > 12] {
   line-width:2;
-  line-color:#000000; }
+  line-color:#000000;
+ }
 }
 
 //oil and silo tanks, just showing outline on map 
@@ -142,7 +140,7 @@
 }
 
 #landarea {
-  polygon-fill:#E3D48A;
+  polygon-fill:#dac38b;
   polygon-opacity:1;
 }  
 

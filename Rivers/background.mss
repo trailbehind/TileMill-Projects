@@ -8,7 +8,7 @@
     }
      ::case {
       line-width: 5;
-      line-color:#CBA74C; 
+      line-color:#dac38b; 
     }
      ::fill {
       line-width: 2.5;

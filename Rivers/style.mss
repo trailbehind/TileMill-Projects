@@ -1,7 +1,7 @@
 #obstruction {
   [zoom > 12] {
   ['mapnik::geometry_type'=polygon] {
-  	polygon-pattern-file: url(obstruction2.png);
+  	polygon-pattern-file: url(obstructionpattern.png);
   	line-color:#000000;}
   	line-width:1;  
   ['mapnik::geometry_type'=point]{   
@@ -44,10 +44,6 @@
   //text-dx: 20;
   //text-halo-fill: fadeout(white, 0%);
   //text-halo-radius: 2.5;
-  ['mapnik::geometry_type'=polygon] {
-    polygon-fill:#C9E4F9;
-    polygon-opacity:0.25;
-    }
     ::outline {
       line-color: #000000;} }
 }
@@ -86,13 +82,15 @@
 
 #submarinecablearea {
   [zoom > 12] {
-  line-color:#BD89A9;
-  polygon-opacity:1;
-  polygon-fill:#BD89A9; }
+  polygon-pattern-file: url(cautionarea.png);
+  polygon-opacity:0.10;
+  line-width:2;  
+  line-color: #BD89A9;
+  line-dasharray: 16, 2; }
 }
 
 #submarinecable {
-  [zoom > 5] {
+  [zoom > 12] {
   line-pattern-file: url(submarinecablesgood.png);}
 }
   
@@ -127,7 +125,7 @@
   [zoom > 12] {
  line-color:#000000;
  line-width:3;
- polygon-fill:#995E35; }
+ polygon-fill:#A37B33; }
 }
 
 #ferryroute {
@@ -142,7 +140,7 @@
 
 #floatingdoc {
   [zoom > 12] {
-  polygon-fill:#D5C2A1;
+  polygon-fill:#dac38b;
   line-color:#613f2c;
   line-width:5; }
 }
@@ -150,7 +148,8 @@
 #fenceline {
   [zoom > 12] {
   line-color:#000000;
-  line-width:2; }
+  line-width:2; 
+  }
 }
 
 #lockgate {
@@ -162,25 +161,28 @@
 
 #harborfacility {
   [zoom > 12] {
-  polygon-fill:#A0A2A5;
+  polygon-fill:#C9E4F9;
   polygon-opacity:1;
-  marker-fill:#EE9A32;
-  marker-width:2; }
+  marker-file:url(sailboat.svg); 
+  text-name: [objnam];
+  text-face-name: 'Helvetica Regular';
+  text-placement-type: simple;
+  text-dy: 10;
+  text-dx: 10;    
+  text-halo-fill: fadeout(white, 0%);
+  text-halo-radius: 2.5;}
 }    
 
 #hulkes {
   [zoom > 12] {
   polygon-fill:#A37B33;
-  marker-fill:#EE9A32;
-  marker-width:2;
-  [zoom > 18] {
   text-name: [objnam];
   text-face-name: 'Helvetica Regular';
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;
   text-halo-fill: fadeout(white, 0%);
-  text-halo-radius: 2.5;}  } 
+  text-halo-radius: 2.5;}  
 }
 
 #lake {
@@ -228,7 +230,7 @@
 
 #landingpontoon {
   [zoom > 12] {
-  polygon-fill:#CBA74C;
+  polygon-fill:#dac38b;
   line-color:#A37B33;   }
 }  
 
@@ -261,7 +263,7 @@
   [zoom > 12] {
   line-width:2;
   polygon-fill:#A37B33;
-  line-color:#CBA74C; }
+  line-color:#dac38b; }
 }  
 
 #rockwall {
@@ -273,7 +275,7 @@
   
 #rocks {
   [zoom > 12] {
-  marker-fill:#813; 
+  marker-fill:#BD89A9; 
   marker-width: 10;}
 }
 
