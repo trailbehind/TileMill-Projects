@@ -76,7 +76,77 @@ Map {
   [ROCKDESC = 'Triassic granitic group'] {
     polygon-fill:#BAF6A6;
   }
+  [ROCKDESC = 'Lower Cretaceous'] {
+    polygon-fill:#397A06;
+  }
+  [ROCKDESC = 'Lower Tertiary volcanic rocks'] {
+    polygon-fill:#F6AF32;
+  }
+  [ROCKDESC = 'Lower Paleozoic'] {
+    polygon-fill:#DB74B7;
+  }
+  [ROCKDESC = 'Upper Paleozoic'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'Wallace, Siyeh and Helena Formations'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'Ravalli Group and Prichard Formation'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'schist and phyllite'] {
+    polygon-fill:#D2D2D2;
+  }
+  [ROCKDESC = 'Austin and Eagle Ford Groups'] {
+    polygon-fill:#72F3AA;
+  }
+  [ROCKDESC = 'Missoula group'] {
+    polygon-fill:#D2D2D2;
+  }
+  [ROCKDESC = 'Eocene continental'] {
+    polygon-fill:#F6AF32;
+  }
+  [ROCKDESC = 'Z sedimentary rocks'] {
+    polygon-fill:#BAA223;
+  }
+  [ROCKDESC = 'Ultramafic rocks'] {
+    polygon-fill:#1D3292;
+  }
+  [ROCKDESC = 'Y sedimentary rocks'] {
+    polygon-fill:#A5A5A5;
+  }
+  [ROCKDESC = 'felsic orthogneiss (=granite gneiss)'] {
+    polygon-fill:#DDC92C;
+  }
+  [ROCKDESC = 'Quaternary volcanic rocks'] {
+    polygon-fill:#F4ACA9;
+  }
+  [ROCKDESC = 'felsic paragneiss and schist'] {
+    polygon-fill:#B5F6FD;
+  }
+  [ROCKDESC = 'Cretaceous border gneiss of Idaho batholith'] {
+    polygon-fill:#496407;
+  }
+  [ROCKDESC = 'Upper Cretaceous'] {
+    polygon-fill:#76F014;
+  }
+  [ROCKDESC = 'Cretaceous volcanic rocks'] {
+    polygon-fill:#60D3AF;
+  }
+  [ROCKDESC = 'Lower Paleozoic granitic rocks'] {
+    polygon-fill:#F4ACA9;
+  }
+  [ROCKDESC = 'W metasedimentary rocks'] {
+    polygon-fill:#771E13;
+  }
+  [ROCKDESC = 'Upper Mesozoic eugeosynclinal'] {
+    polygon-fill:#85A498;
+  }
+  [ROCKDESC = 'Oligocene'] {
+    polygon-fill:#F8BD32;
+  }
 }  
+
   
 #faultlines {
   line-width:1;
