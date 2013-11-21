@@ -143,7 +143,7 @@ Map {
     polygon-fill:#85A498;
   }
   [ROCKDESC = 'Oligocene'] {
-    polygon-fill:#F8BD32;
+    polygon-fill:#F8BD32; 
   }
 }  
 

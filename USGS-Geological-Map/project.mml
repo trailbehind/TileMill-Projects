@@ -40,7 +40,7 @@
       "id": "regions",
       "class": "",
       "Datasource": {
-        "file": "/Users/Savannah/Downloads/kbgeology/kbge.shp",
+        "file": "kbgeology/kbge.shp",
         "id": "regions",
         "project": "USGS-Geological-Map",
         "srs": ""
@@ -61,7 +61,7 @@
       "id": "faultlines",
       "class": "",
       "Datasource": {
-        "file": "/Users/Savannah/Downloads/kbgeology/kbf.shp",
+        "file": "kbgeology/kbf.shp",
         "id": "faultlines",
         "project": "USGS-Geological-Map",
         "srs": ""

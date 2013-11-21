@@ -1,0 +1,627 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Schruben, Paul G.
+      Originator: Arndt, Raymond E.
+      Originator: Bawiec, Walter J.
+      Originator: King, Philip B.
+      Originator: Beikman, Helen M.
+      Publication_Date: 1994
+      Title:
+        Geology of the Conterminous United States at 1:2,500,000 Scale --
+        A Digital Representation of the 1974 P.B. King and H.M. Beikman Map
+      Edition: unprojected
+      Geospatial_Data_Presentation_Form: Map
+      Series_Information:
+        Series_Name: U.S. Geological Survey Digital Data Series
+        Issue_Identification: DDS-11
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://pubs.usgs.gov/dds/dds11/
+  Description:
+    Abstract:
+      This CD-ROM contains a digital version of the Geologic Map of the
+      United States, originally published at a scale of 1:2,500,000 (King
+      and Beikman, 1974b).  It excludes Alaska and Hawaii.  In addition to
+      the graphical formats, the map key is included in ASCII text.
+
+      A geographic information system (GIS) allows combining and
+      overlaying of layers for analysis of spatial relations not readily
+      apparent in the standard paper publication.  This disc contains only
+      geology.  However, digital data on geology, geophysics, and
+      geochemistry can be combined to create useful derivative products--
+      for example, see Phillips and others (1993).
+
+      This CD-ROM contains a copy of the text and figures from
+      Professional Paper 901 by King and Beikman (1974a).  This text
+      describes the historical background of the map, details of the
+      compilation process, and limitations to interpretation.  The digital
+      version of the text can be searched for keywords or phrases.
+    Purpose:
+      Conversion of the geologic map of the U.S. to a digital format
+      was undertaken to facilitate the presentation and analysis of
+      earth-science data.  Digital maps can be displayed at any scale
+      or projection, whereas a paper map has a fixed scale and
+      projection.  However, the geology on this disc is not intended to
+      be used at any scale finer than 1:2,500,000.
+    Supplemental_Information:
+      For DOS users, the CD-ROM contains menu-driven analytical software,
+      in which the user selects from an array of topics.  The CD-ROM also
+      contains MAPPER display software, a user-friendly package that
+      displays the interactive vector map.  The raster image of the
+      geologic map can be displayed with VIEWLBL.
+
+      For other types of computer users, the map must be converted from
+      one of the following formats included on the CD-ROM:
+
+      ARC/INFO 6.1.1 Export
+      Digital Line Graph (DLG) Optional
+      Drawing Exchange File (DXF)
+      Map Overlay Statistical System (MOSS)
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Multiple_Dates/Times:
+        Single_Date/Time:
+          Calendar_Date: 1974
+        Single_Date/Time:
+          Calendar_Date: 1994
+    Currentness_Reference: Publication date of the original work (1974) and the CD-ROM (1994)
+  Status:
+    Progress: complete
+    Maintenance_and_Update_Frequency: not planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -162.0
+      East_Bounding_Coordinate: -66.0
+      North_Bounding_Coordinate: 60.0
+      South_Bounding_Coordinate: 24.0
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Geology
+      Theme_Keyword: Bedrock
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Conterminous United States
+    Theme:
+      Theme_Keyword_Thesaurus: National Geologic Map Database Catalog themes, augmented
+      Theme_Keyword: 1100 - Geology
+      Theme_Keyword: 1101 - General
+    Place:
+      Place_Keyword_Thesaurus: Augmented FIPS 10-4 and FIPS 6-4, version 1.0
+      Place_Keyword: US01 = Alabama
+      Place_Keyword: US04 = Arizona
+      Place_Keyword: US05 = Arkansas
+      Place_Keyword: US06 = California
+      Place_Keyword: US08 = Colorado
+      Place_Keyword: US09 = Connecticut
+      Place_Keyword: US10 = Delaware
+      Place_Keyword: US11 = District of Columbia
+      Place_Keyword: US12 = Florida
+      Place_Keyword: US13 = Georgia
+      Place_Keyword: US16 = Idaho
+      Place_Keyword: US17 = Illinois
+      Place_Keyword: US18 = Indiana
+      Place_Keyword: US19 = Iowa
+      Place_Keyword: US20 = Kansas
+      Place_Keyword: US21 = Kentucky
+      Place_Keyword: US22 = Louisiana
+      Place_Keyword: US23 = Maine
+      Place_Keyword: US24 = Maryland
+      Place_Keyword: US25 = Massachusetts
+      Place_Keyword: US26 = Michigan
+      Place_Keyword: US27 = Minnesota
+      Place_Keyword: US28 = Mississippi
+      Place_Keyword: US29 = Missouri
+      Place_Keyword: US30 = Montana
+      Place_Keyword: US31 = Nebraska
+      Place_Keyword: US32 = Nevada
+      Place_Keyword: US33 = New Hampshire
+      Place_Keyword: US34 = New Jersey
+      Place_Keyword: US35 = New Mexico
+      Place_Keyword: US36 = New York
+      Place_Keyword: US37 = North Carolina
+      Place_Keyword: US38 = North Dakota
+      Place_Keyword: US39 = Ohio
+      Place_Keyword: US40 = Oklahoma
+      Place_Keyword: US41 = Oregon
+      Place_Keyword: US42 = Pennsylvania
+      Place_Keyword: US44 = Rhode Island
+      Place_Keyword: US45 = South Carolina
+      Place_Keyword: US46 = South Dakota
+      Place_Keyword: US47 = Tennessee
+      Place_Keyword: US48 = Texas
+      Place_Keyword: US49 = Utah
+      Place_Keyword: US50 = Vermont
+      Place_Keyword: US51 = Virginia
+      Place_Keyword: US53 = Washington
+      Place_Keyword: US54 = West Virginia
+      Place_Keyword: US55 = Wisconsin
+    Theme:
+      Theme_Keyword_Thesaurus: Gateway to the Earth (USGS) draft 6
+      Theme_Keyword: geology
+      Theme_Keyword: geologic maps
+      Theme_Keyword: lithostratigraphy
+      Theme_Keyword: faults
+      Theme_Keyword: folds (geologic)
+  Access_Constraints: none
+  Use_Constraints: none
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Schruben, Paul G.
+        Contact_Organization: Minerals Information Office
+      Contact_Address:
+        Address_Type: mailing address
+        Address:
+          Mail Stop 920, National Center
+          U.S. Geological Survey
+          12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: (703) 648-6142
+      Contact_Facsimile_Telephone: (703) 648-6057
+      Contact_Electronic_Mail_Address: pschruben@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/dds/dds11/kb.gif
+    Browse_Graphic_File_Description: Bedrock geologic map units of the conterminous United States
+    Browse_Graphic_File_Type: GIF
+  Native_Data_Set_Environment:
+    Data General AViiON 6220 computer system running
+    the DG/UX version of UNIX.
+  Cross_Reference:
+    Citation_Information:
+      Originator: King, Philip B.
+      Originator: Beikman, Helen M.
+      Publication_Date: 1974
+      Title: Explanatory text to accompany the geologic map of the United States
+      Series_Information:
+        Series_Name: U.S. Geological Survey Professional Paper
+        Issue_Identification: 901
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The linework was captured by hand digitizing as well as scanning from
+      the paper map and negatives.  The digital map was assembled and edited in
+      ARC/INFO on a State-by-State basis, which caused some edge-matching
+      problems.  The final mosaic was adjusted several times to correct for
+      registration problems.  The coastline was taken from the 1:2,000,000 scale
+      Digital Line Graph data (U.S. Geological Survey, 1987), generalized to 1 km.
+
+      Construction of a geologic map of an area as large and complex as the
+      conterminous United States requires a great deal of generalization: geologic
+      units shown on larger scale maps are combined into broader map units and
+      their contacts are simplified to produce a pattern that is legible at the
+      scale of publication.  The process of generalization used in the compilation
+      of the Geologic Map of the United States is described in King and Beikman
+      (1974a, p. 20).
+
+      Furthermore, the Geologic Map of the United States is primarily a bedrock
+      map, which depicts geologic materials present beneath the soil or relatively
+      thin mantles of surficial deposits, not necessarily the surficial materials
+      themselves.  For example, the map does not depict the glacial deposits in
+      the northern States, the widespread eolian deposits in the High Plains, and
+      the high-level gravels that mantle older Tertiary and pre-Tertiary units in
+      much of the Atlantic and Gulf Coastal Plains.
+  Logical_Consistency_Report:
+    The coverages on this disc for the digital geologic map of the conterminous
+    United States differ in several ways from the published map.  The county
+    outlines, cities, drainage, and other base-map information are not present
+    on the digital version except as overlays in MAPPER.  Only the larger water
+    bodies are included.
+
+    The larger geology polygons are split into several smaller polygons to avoid
+    problems with color and pattern fill on screen plots and paper plotters.
+    The maximum polygon size is 1476 vertices, which is PostScript compatible.
+
+    The rock-unit names are stored in uppercase letters as well as the published
+    mixed case.  For instance:
+
+    > TMC   Tmc
+    > TMOE  Tmoe
+    > UTA   uTa
+
+    The uppercase names are used in the coverage because an INFO sort in
+    ARC/INFO is case sensitive.  The lookup tables must be sorted to work
+    correctly.  The mixed-case rock-unit names are in the kbcolor.lut lookup
+    table.  Longer rock-unit descriptions such as:
+
+    > Cretaceous granitic rocks
+    > Washita Group
+
+    are in the ROCKDESC column of the .pat file of the KBLEG coverage.  Some of
+    the unit names have been modified to avoid ambiguity.
+
+    The Pennsylvanian symbol is stored as PP in:
+    >     PP
+    >     PP1
+    >     PP1a
+    >     PP2
+    >     PP3
+    >     PP4
+
+    The Triassic symbol is stored as Tr in:
+    >     JTr
+    >     Tr
+    >     TrPe
+    >     Trv
+    >     Tri
+    >     Trg
+
+    The Cambrian symbol is stored as C in:
+    >     C
+    >     Cq
+    >     OC
+    >     Ce
+    >     Cv
+    >     Cg
+
+    > m1 is replaced with mm1 to avoid confusion with M1
+    > m2 is replaced with mm2 to avoid confusion with M2
+    > m3 is replaced with mm3 to avoid confusion with M3
+    > m4 is replaced with mm4 for consistency
+
+    The extent of glaciation appears in the legend but is not present in the
+    coverage.
+  Completeness_Report:
+    The map does not include coverage of Alaska, Hawaii, or territories.
+
+    The Geologic Map of the United States is primarily a bedrock map, which
+    depicts geologic materials present beneath the soil or relatively thin mantles
+    of surficial deposits, not necessarily the surficial materials themselves.
+    For example, the map does not depict the glacial deposits in the northern
+    States, the widespread eolian deposits in the High Plains, and the high-level
+    gravels that mantle older Tertiary and pre-Tertiary units in much of the
+    Atlantic and Gulf Coastal Plains.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The users of the geologic map on this disc should respect the intentions of
+        the compilers of the map and some of its limitations.  The Geologic Map of
+        the United States (King and Beikman, 1974b) is intended to be used at a
+        scale of 1:2,500,000; it is not intended to be used at a more detailed
+        scale.  For instance, Colorado is about 10 inches wide at the published
+        scale of the King and Beikman map.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Philip B. King
+          Originator: Helen M. Beikman
+          Publication_Date: 1974
+          Title: Explanatory text to accompany the geologic map of the United States
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 901
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Other_Citation_Details: Library of Congress catalog - card No. 74-600169
+      Source_Scale_Denominator: 2500000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1974
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: King and Beikman (1974)
+      Source_Contribution: Data presented on USGS DDS-11 were produced by scanning this printed map.
+    Process_Step:
+      Process_Description:
+        The linework was captured by hand digitizing as well as scanning from the
+        paper map and negatives.  The digital map was assembled and edited in
+        ARC/INFO on a State-by-State basis, which caused some edge-matching
+        problems.  The final mosaic was adjusted several times to correct for
+        registration problems.  The coastline was taken from the 1:2,000,000 scale
+        Digital Line Graph data (U.S. Geological Survey, 1987), generalized to 1 km.
+
+        The ARC/INFO version of the Geologic Map of the United States consists
+        of three coverages:
+
+        1) geology - 12,800 polygons
+        2) faults  - 3 fault types and hidden contacts
+        3) legend  - 164 rock units
+
+        The fault coverage has four line types:
+
+        1) faults
+        2) dashed faults
+        3) dotted faults
+        4) hidden contacts
+
+        The DESC field descriptors are FAULT, DASH, DOT, CONTAC, respectively.
+      Source_Used_Citation_Abbreviation: King and Beikman (1974)
+      Process_Date: 1993
+    Process_Step:
+      Process_Description: Unprojected vector data repackaged using EPSG 4269 coordinate system (geographic, NAD83, decimal degrees) as on http://mrdata.usgs.gov/
+      Process_Date: 20071009
+      Source_Produced_Citation_Abbreviation: http://tin.er.usgs.gov/geology/kbgeology.zip
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Peter N Schweitzer
+            Contact_Organization: USGS ER GD
+          Contact_Position: Geologist
+          Contact_Address:
+            Address_Type: mailing address
+            Address: 12201 Sunrise Valley Drive
+            City: Reston
+            State_or_Province: VA
+            Postal_Code: 20192-0002
+            Country: USA
+          Contact_Voice_Telephone: 703-648-6533
+          Contact_Facsimile_Telephone: 703-648-6252
+          Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 21465
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 29972
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 12860
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Geologic unit
+      Entity_Type_Definition:
+        Bedrock formations that are, wherever possible, time-stratigraphic--that
+        is, units which are approximately the same geologic ages at all places,
+        such as systems, series, and stages.
+      Entity_Type_Definition_Source: U.S. Geological Survey Professional Paper 901
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Fault
+      Entity_Type_Definition:
+        Faults are shown not only to explain offsets of map units, but for their own
+        sake, to express the structural grain of the area.  The density of faults
+        represented on the geologic map thus equals that which would appear on a
+        tectonic map of the country, but they are marked simply as faults, not as
+        low-angle or high- angle thrust faults, normal faults, or strike-slip faults;
+        for this information the user should consult the appro- priate tectonic map.
+      Entity_Type_Definition_Source: U.S. Geological Survey Professional Paper 901
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Labels of the mapped units described by polygons in the data
+      set are as follows:
+
+      C,cat,Ce,Cg,Cq,Cv,D,D1,D2,D2c,D3,D3c,De,dike,DS,DSe,DSv,Dv,J,
+      Jc,Jg,Jmi,JTr,Kc,Ke,Kg,Kg1,Kg2,Kg3,Kgn,Ki,Kv,lK,lK1,lK2,lK3,
+      lMz,lMze,lMzv,lPz,lPze,lTa,lTf,lTv,M,M1,M2,M3,mm1,mm2,mm3,mm4,
+      Ms,O,O1,O1a,O1b,O2,O3,OC,Oe,Ov,P,P1,P1c,P2,P2a,P2ac,P2b,P3,P3a,
+      P3b,P4,Pe,PP,PP1,PP1a,PP2,PP3,PP4,Pza,Pzg1,Pzg2,Pzg3,Pzmi,Q,
+      Qf,Qh,Qp,Qv,S,S1,S2,S3,Se,SOe,Sv,Ta,Te,Te1,Te2,Te3,Teb,Tec,Tee,
+      Tel,Ti,Tm,Tmc,Tmf,Tmoe,Tmv,To,Toc,Toee,Tp,Tpc,Tpf,Tpv,Tr,Trg,
+      Tri,TrPe,Trv,Tx,Txc,uK,uK1,uK2,uK3,uK3a,uK3b,uK4,uM,uMze,uPz,
+      uPzc,uPze,uTa,W,Wg,Wgn,Wmi,WTER,Wv,X,Xg,Xm,Xv,Y,Y1,Y2,Y3,Ya,
+      Yg1,Yg2,Ygn,Ym,Ymi,Ys,Yv,Z,Zg,Zv
+
+      Each line object in the fault coverage has one of four attribute
+      values:
+
+      1) faults (label FAULT)
+      2) dashed fault (label DASH)
+      3) dotted fault (label DOT)
+      4) hidden contact (label CONTAC)
+
+      Full details of the meanings of the attributes are given in USGS
+      Professional Paper 901, whose text is provided with this data set.
+
+    Entity_and_Attribute_Detail_Citation:
+      U.S. Geological Survey Professional Paper 901 is included with this data
+      set (when distributed in CD-ROM format) in ASCII, with figures in TIFF.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey Information Services
+      Contact_Address:
+        Address_Type: mailing address
+        Address: Box 25286, Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0286
+      Contact_Voice_Telephone: 1-888-ASK-USGS
+      Contact_Facsimile_Telephone: 1-303-202-4693
+  Resource_Description: USGS DDS-11
+  Distribution_Liability:
+    This Compact Disc-Read Only Memory (CD-ROM) publication was prepared
+    by an agency of the United States Government.  Neither the United
+    States Government nor any agency thereof, nor any of their employees,
+    make any warranty, expressed or implied, or assumes any legal
+    liability or responsibility for the accuracy, completeness,  or
+    usefulness of any information, apparatus, product, or process
+    disclosed in this report, or represents that its use would not
+    infringe privately owned rights.  Reference therein to any specific
+    commercial product, process, or service by trade name, trademark,
+    manufacturer, or otherwise does not necessarily constitute or imply
+    its endorsement, recommendation, or favoring by the United States
+    Government or any agency thereof.  Any views and opinions of authors
+    expressed herein do not necessarily state or reflect those of the
+    United States Government or any agency thereof.
+
+    Although all data and software published on this CD-ROM have been used
+    by the USGS, no warranty, expressed or implied, is made by the U.S.
+    Geological Survey as to the accuracy of the data and related materials
+    and/or the functioning of the software. The act of distribution shall
+    not constitute any such warranty, and no responsibility is assumed by
+    the USGS in the use of this data, software, or related materials.
+
+    Graphical map depictions on this disc are intended to be used within
+    the map scale limits applicable to the source data. Although software
+    enables the user to show images on the disc at various scales, the
+    user is cautioned to refer to the source documentation for the
+    appropriate map scale limitations.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+        Format_Information_Content:
+          Geological bedrock units and faults, also state outlines including
+          coastlines (from 1:2,000,000-scale DLG of USGS).
+        Transfer_Size: 17 Mb
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO-9660
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Digital Line Graph Optional format
+        Format_Version_Number: DLG-3
+        Format_Information_Content: Geological bedrock units and faults
+        Transfer_Size: 25 Mb
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO-9660
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Drawing Exchange File (DXF)
+        Format_Information_Content: Geological bedrock units and faults
+        Transfer_Size: 20 Mb
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO-9660
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Map Overlay Statistical System (MOSS)
+        Format_Information_Content: Geological bedrock units and faults
+        Transfer_Size: 17 Mb
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO-9660
+    Fees: See http://mapping.usgs.gov/esic/prices/index.html
+  Technical_Prerequisites:
+    Geographic data included in DDS-11 are intended for use in a Geographic
+    Information System (GIS).
+
+    This CD-ROM was produced in accordance with the ISO 9660 standard and
+    thus allows access to the map data files and MAPPER by computers with
+    ISO 9660 software drivers.
+
+    In addition, the disc contains menu and display programs that operate
+    on DOS-compatible computers with the following configuration:
+
+    > IBM or compatible personal computer
+    > 640 kb RAM (at least 540 kb free memory)
+    > Math coprocessor
+    > MS- or PC-DOS version 5.0 or later
+    > Microsoft MSCDEX version 2.1 or later
+    > CD-ROM drive with ISO 9660 software driver
+    > Hard disk drive (5 Mb free)
+    > Super VGA graphics card (640x480 pixels with 256 colors)
+    > VGA color monitor
+    > Mouse
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Mineral Resource Surveys Program
+        Contact_Person: Paul G. Schruben
+      Contact_Address:
+        Address_Type: mailing address
+        Address:
+          Mail Stop 920, National Center
+          U.S. Geological Survey
+          12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703-648-6142
+      Contact_Facsimile_Telephone: 703-648-6057
+      Contact_Electronic_Mail_Address: pschruben@usgs.gov
+  Distribution_Liability:
+    This Compact Disc-Read Only Memory (CD-ROM) publication was prepared
+    by an agency of the United States Government.  Neither the United
+    States Government nor any agency thereof, nor any of their employees,
+    make any warranty, expressed or implied, or assumes any legal
+    liability or responsibility for the accuracy, completeness,  or
+    usefulness of any information, apparatus, product, or process
+    disclosed in this report, or represents that its use would not
+    infringe privately owned rights.  Reference therein to any specific
+    commercial product, process, or service by trade name, trademark,
+    manufacturer, or otherwise does not necessarily constitute or imply
+    its endorsement, recommendation, or favoring by the United States
+    Government or any agency thereof.  Any views and opinions of authors
+    expressed herein do not necessarily state or reflect those of the
+    United States Government or any agency thereof.
+
+    Although all data and software published on this CD-ROM have been used
+    by the USGS, no warranty, expressed or implied, is made by the U.S.
+    Geological Survey as to the accuracy of the data and related materials
+    and/or the functioning of the software. The act of distribution shall
+    not constitute any such warranty, and no responsibility is assumed by
+    the USGS in the use of this data, software, or related materials.
+
+    Graphical map depictions on this disc are intended to be used within
+    the map scale limits applicable to the source data. Although software
+    enables the user to show images on the disc at various scales, the
+    user is cautioned to refer to the source documentation for the
+    appropriate map scale limitations.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ArcInfo export
+        Format_Version_Number: 7.1.1
+        Format_Information_Content: Geology and fault coverages
+        File_Decompression_Technique: tar xzvfo kbexport.tar.gz
+        Transfer_Size: 22
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/dds/dds11/kbexport.tar.gz
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARC/INFO coverage
+        Format_Version_Number: 7.1.1
+        Format_Information_Content: Bedrock map unit and fault coverages
+        File_Decompression_Technique: tar xzvfo kb.tar.gz
+        Transfer_Size: 16
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/dds/dds11/kb.tar.gz
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20071009
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peter N. Schweitzer
+      Contact_Address:
+        Address_Type: mailing address
+        Address:
+          Mail Stop 954 National Center
+          U.S. Geological Survey
+          12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: (703) 648-6533
+      Contact_Facsimile_Telephone: (703) 648-6252
+      Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+  Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
