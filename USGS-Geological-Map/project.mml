@@ -1,0 +1,80 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.76215268615493,
+        24.54521812183117,
+        -66.95721574319879,
+        49.3717377732176
+      ],
+      "id": "regions",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/kbgeology/kbge.shp",
+        "id": "regions",
+        "project": "USGS-Geological-Map",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "regions"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -124.69445813167648,
+        27.227947475280914,
+        -67.02516637913475,
+        49.03129799096749
+      ],
+      "id": "faultlines",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/kbgeology/kbf.shp",
+        "id": "faultlines",
+        "project": "USGS-Geological-Map",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "faultlines",
+      "status": "off"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": ""
+}
