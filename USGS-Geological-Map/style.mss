@@ -11,8 +11,6 @@ Map {
   polygon-fill: #fff;
 }
 
-
-
 #regions {
   line-color:grey;
   line-width:0.5;
@@ -195,6 +193,156 @@ Map {
   }
   [ROCKDESC = 'Woodbine and Tuscaloosa groups'] {
     polygon-fill:#98A738;
+  }
+  [UNIT = 'cat'] {
+    polygon-fill:#F6AF32;
+  }
+  [UNIT = 'Ce'] {
+    polygon-fill:#DA5BA5;
+  }
+  [UNIT = 'Cg'] {
+    polygon-fill:#DA5BA5;
+  }
+  [UNIT = 'Cq'] {
+    polygon-fill:#DA5BA5;
+  }
+  [UNIT = 'Cv'] {
+    polygon-fill:#DA5BA5;
+  }
+  [UNIT = 'D'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'D1'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'D2'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'D2c'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'D3'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'D3c'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'De'] {
+    polygon-fill:#A9ADFC;
+  }
+ // [UNIT = 'dike'] {
+ //   polygon-fill:yellow;
+ // }
+  [UNIT = 'DS'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'DSe'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'DSv'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'Dv'] {
+    polygon-fill:#A9ADFC;
+  }
+  [UNIT = 'J'] {
+    polygon-fill:#85A498;
+  }
+  [UNIT = 'Jg'] {
+    polygon-fill:#85A498;
+  }
+  [UNIT = 'Jmi'] {
+    polygon-fill:#46A0AA;
+  }
+  [UNIT = 'JTr'] {
+    polygon-fill:#85A498;
+  }
+  [UNIT = 'Ke'] {
+    polygon-fill:#397A06;
+  }
+  [UNIT = 'Kg2'] {
+    polygon-fill:#C8F427;
+  }
+  [UNIT = 'Kg3'] {
+    polygon-fill:#BAF6A6;
+  }
+ // [UNIT = 'Ki'] {
+ //   polygon-fill:yellow;
+ // }
+  [UNIT = 'lK1'] {
+    polygon-fill:#C8F427;
+  }
+  [UNIT = 'lK3'] {
+    polygon-fill:#72F3AA;
+  }
+  [UNIT = 'lMzv'] {
+    polygon-fill:#98A738;
+  }
+  [UNIT = 'lPze'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'lTf'] {
+    polygon-fill:#F4ACA9;
+  }
+  [UNIT = 'M'] {
+    polygon-fill:#6CF8FC;
+  }
+  [UNIT = 'M1'] {
+    polygon-fill:#B5F6FD;
+  }
+  [UNIT = 'M2'] {
+    polygon-fill:#46A0AA;
+  }
+  [UNIT = 'M3'] {
+    polygon-fill:#58D8FC;
+  }
+  [UNIT = 'mm2'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'mm3'] {
+    polygon-fill:#F8BD32;
+  }
+  [UNIT = 'O'] {
+    polygon-fill:#DB74B7;
+  }
+  [UNIT = 'O1'] {
+    polygon-fill:#DB74B7;
+  }
+  [UNIT = 'O1a'] {
+    polygon-fill:#DB74B7;
+  }
+  [UNIT = 'O1b'] {
+    polygon-fill:#F4ACA9;
+  }
+  [UNIT = 'O3'] {
+    polygon-fill:#F4ACA9;
+  }
+  [UNIT = 'OC'] {
+    polygon-fill:#DA5BA5;
+  }
+  [UNIT = 'Oe'] {
+    polygon-fill:#DB74B7;
+  }
+  [UNIT = 'Ov'] {
+    polygon-fill:#DB74B7;
+  }
+  [UNIT = 'P'] {
+    polygon-fill:#5E8DC2;
+  }
+  [UNIT = 'P1'] {
+    polygon-fill:#0048FA;
+  }
+  [UNIT = 'P1c'] {
+    polygon-fill:#0048FA;
+  }
+  [UNIT = 'P2'] {
+    polygon-fill:#447ADB;
+  }
+  [UNIT = 'P2a'] {
+    polygon-fill:#58D8FC;
+  }
+  [UNIT = 'P2ac'] {
+    polygon-fill:#85A498;
   }
 }  
 
