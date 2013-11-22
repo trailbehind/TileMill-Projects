@@ -8,7 +8,7 @@ Map {
     line-width: 2;
     line-join: round;
   }
-  polygon-fill: #fff;
+  polygon-fill: #000000;
 }
 
 #regions {
@@ -230,9 +230,9 @@ Map {
   [UNIT = 'De'] {
     polygon-fill:#A9ADFC;
   }
- // [UNIT = 'dike'] {
- //   polygon-fill:yellow;
- // }
+  [UNIT = 'dike'] {
+    polygon-fill:white;
+  }
   [UNIT = 'DS'] {
     polygon-fill:#A857FD;
   }
@@ -266,9 +266,9 @@ Map {
   [UNIT = 'Kg3'] {
     polygon-fill:#BAF6A6;
   }
- // [UNIT = 'Ki'] {
- //   polygon-fill:yellow;
- // }
+  [UNIT = 'Ki'] {
+    polygon-fill:white;
+  }
   [UNIT = 'lK1'] {
     polygon-fill:#C8F427;
   }
@@ -343,6 +343,168 @@ Map {
   }
   [UNIT = 'P2ac'] {
     polygon-fill:#85A498;
+  }
+  [UNIT = 'P2b'] {
+    polygon-fill:#1A8BFA;
+  }
+  [UNIT = 'P3'] {
+    polygon-fill:#6CF8FC;
+  }
+  [UNIT = 'P3a'] {
+    polygon-fill:#58D8FC;
+  }
+  [UNIT = 'P3b'] {
+    polygon-fill:#B5F6FD;
+  }
+  [UNIT = 'P4'] {
+    polygon-fill:#58D8FC;
+  }
+  [UNIT = 'Pe'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'PP'] {
+    polygon-fill:#D2D2D2;
+  }
+  [UNIT = 'PP1'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'PP1a'] {
+    polygon-fill:#D2D2D2;
+  }
+  [UNIT = 'PP2'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'PP3'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'PP4'] {
+    polygon-fill:#D2D2D2;
+  }
+  [UNIT = 'Pza'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'Pzg2'] {
+    polygon-fill:#AAAEFD;
+  }
+  [UNIT = 'Pzg3'] {
+    polygon-fill:#CCF9FC;
+  }
+  [UNIT = 'Pzmi'] {
+    polygon-fill:#76F014;
+  }
+  [UNIT = 'Qf'] {
+    polygon-fill:#F8BD32;
+  }
+  [UNIT = 'Qh'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'Qp'] {
+    polygon-fill:#FFF8C5;
+  }
+  [UNIT = 'S'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'S1'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'S2'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'S3'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'Se'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'SOe'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'Sv'] {
+    polygon-fill:#A857FD;
+  }
+  [UNIT = 'Ta'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'Te1'] {
+    polygon-fill:#F8BD32;
+  }
+  [UNIT = 'Te2'] {
+    polygon-fill:#F8CAB1;
+  }
+  [UNIT = 'Te3'] {
+    polygon-fill:#F8BD32;
+  }
+  [UNIT = 'Tel'] {
+    polygon-fill:#F8BD32;
+  }
+  [UNIT = 'Tmf'] {
+    polygon-fill:#FFF835;
+  } 
+  [UNIT = 'Toc'] {
+    polygon-fill:#FFF5A9;
+  }
+  [UNIT = 'Tp'] {
+    polygon-fill:#FFF835;
+  } 
+  [UNIT = 'Tpc'] {
+    polygon-fill:#FFF5A9;
+  }
+  [UNIT = 'Tpf'] {
+    polygon-fill:#F6AF32;
+  }
+  [UNIT = 'Tpv'] {
+    polygon-fill:#F6AF32;
+  }
+  [UNIT = 'Tr'] {
+    polygon-fill:#85A498;
+  }
+  [UNIT = 'Tri'] {
+    polygon-fill:#781F13;
+  }
+  [UNIT = 'TrPe'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'Trv'] {
+    polygon-fill:#BAA223;
+  }
+  [UNIT = 'uPzc'] {
+    polygon-fill:#787878;
+  }
+  [UNIT = 'Wmi'] {
+    polygon-fill:white;
+  }
+   [UNIT = 'WTER'] {
+    polygon-fill:white;
+  }
+  [UNIT = 'Xg'] {
+    polygon-fill:#496407;
+  }
+  [UNIT = 'Xm'] {
+    polygon-fill:#496407;
+  }
+  [UNIT = 'Xv'] {
+    polygon-fill:#496407;
+  }
+  [UNIT = 'Ya'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'Yg1'] {
+    polygon-fill:#D2D2D2;
+  }
+  [UNIT = 'Yg2'] {
+    polygon-fill:#A5A5A5;
+  }
+  [UNIT = 'Ygn'] {
+    polygon-fill:#BAA223;
+  }
+  [UNIT = 'Ys'] {
+    polygon-fill:#D2D2D2;
+  }
+  [UNIT = 'Zg'] {
+    polygon-fill:#BAA223;
+  }
+  [UNIT = 'Zv'] {
+    polygon-fill:#BAA223;
   }
 }  
 
