@@ -8,12 +8,12 @@ Map {
     line-width: 2;
     line-join: round;
   }
-  polygon-fill: #000000;
+  polygon-fill:white;
+  [SOVEREIGNT = 'United States of America']{
+  polygon-fill: #85A498;}
 }
 
 #regions {
-  line-color:grey;
-  line-width:0.5;
   [ROCKDESC = 'W granitic rocks'] {
     polygon-fill:#771E13;
   } 
@@ -230,9 +230,6 @@ Map {
   [UNIT = 'De'] {
     polygon-fill:#A9ADFC;
   }
-  [UNIT = 'dike'] {
-    polygon-fill:white;
-  }
   [UNIT = 'DS'] {
     polygon-fill:#A857FD;
   }
@@ -265,9 +262,6 @@ Map {
   }
   [UNIT = 'Kg3'] {
     polygon-fill:#BAF6A6;
-  }
-  [UNIT = 'Ki'] {
-    polygon-fill:white;
   }
   [UNIT = 'lK1'] {
     polygon-fill:#C8F427;
@@ -359,9 +353,6 @@ Map {
   [UNIT = 'P4'] {
     polygon-fill:#58D8FC;
   }
-  [UNIT = 'Pe'] {
-    polygon-fill:white;
-  }
   [UNIT = 'PP'] {
     polygon-fill:#D2D2D2;
   }
@@ -379,9 +370,6 @@ Map {
   }
   [UNIT = 'PP4'] {
     polygon-fill:#D2D2D2;
-  }
-  [UNIT = 'Pza'] {
-    polygon-fill:white;
   }
   [UNIT = 'Pzg2'] {
     polygon-fill:#AAAEFD;
@@ -404,9 +392,6 @@ Map {
   [UNIT = 'S'] {
     polygon-fill:#A857FD;
   }
-  [UNIT = 'S1'] {
-    polygon-fill:white;
-  }
   [UNIT = 'S2'] {
     polygon-fill:#A857FD;
   }
@@ -421,9 +406,6 @@ Map {
   }
   [UNIT = 'Sv'] {
     polygon-fill:#A857FD;
-  }
-  [UNIT = 'Ta'] {
-    polygon-fill:white;
   }
   [UNIT = 'Te1'] {
     polygon-fill:#F8BD32;
@@ -461,20 +443,11 @@ Map {
   [UNIT = 'Tri'] {
     polygon-fill:#781F13;
   }
-  [UNIT = 'TrPe'] {
-    polygon-fill:white;
-  }
   [UNIT = 'Trv'] {
     polygon-fill:#BAA223;
   }
   [UNIT = 'uPzc'] {
     polygon-fill:#787878;
-  }
-  [UNIT = 'Wmi'] {
-    polygon-fill:white;
-  }
-   [UNIT = 'WTER'] {
-    polygon-fill:white;
   }
   [UNIT = 'Xg'] {
     polygon-fill:#496407;
@@ -506,10 +479,66 @@ Map {
   [UNIT = 'Zv'] {
     polygon-fill:#BAA223;
   }
+  [UNIT = 'TrPe'] {
+    polygon-fill:#85A498;
+  }
+//  [UNIT = 'Pe'] {
+//    polygon-fill:#58D8FC;
+//  }
+//   [UNIT = 'Ki'] {
+//    polygon-fill:white;
+//  }
+   [UNIT = 'WTER'] {
+    polygon-fill:white;
+  }
+//   [UNIT = 'Wmi'] {
+//    polygon-fill:white;
+//  }
+//   [UNIT = 'Ta'] {
+//    polygon-fill:white;
+//  }
+//   [UNIT = 'S1'] {
+//    polygon-fill:white;
+//  }
+//   [UNIT = 'Pza'] {
+//   polygon-fill:white;
+//  }
+//   [UNIT = 'dike'] {
+//    polygon-fill:white;
+//  }
 }  
 
   
 #faultlines {
   line-width:1;
   line-color:#000000;
+}
+
+
+#lakes { 
+  [name = 'Lake Huron']{
+  line-color:grey;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:white;}
+  [name = 'Lake Superior']{
+  line-color:grey;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:white;}
+  [name = 'Lake Michigan']{
+  line-color:grey;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:white;}
+  [name = 'Lake Erie']{
+  line-color:grey;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:white;}
+  [name = 'Lake Ontario']{
+  line-color:grey;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:white;}
 }
