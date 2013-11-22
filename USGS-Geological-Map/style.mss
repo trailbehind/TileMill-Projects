@@ -64,9 +64,6 @@ Map {
   [ROCKDESC = 'Quaternary'] {
     polygon-fill:#D2D2D2;
   }
-  [ROCKDESC = 'felsic paragneiss and schist'] {
-    polygon-fill:#B5F6FD;
-  }
   [ROCKDESC = 'Lower Mesozoic eugeosynclinal'] {
     polygon-fill:#397A06;
   }
@@ -97,14 +94,8 @@ Map {
   [ROCKDESC = 'schist and phyllite'] {
     polygon-fill:#D2D2D2;
   }
-  [ROCKDESC = 'Austin and Eagle Ford Groups'] {
-    polygon-fill:#72F3AA;
-  }
   [ROCKDESC = 'Missoula group'] {
     polygon-fill:#D2D2D2;
-  }
-  [ROCKDESC = 'Eocene continental'] {
-    polygon-fill:#F6AF32;
   }
   [ROCKDESC = 'Z sedimentary rocks'] {
     polygon-fill:#BAA223;
@@ -136,14 +127,74 @@ Map {
   [ROCKDESC = 'Lower Paleozoic granitic rocks'] {
     polygon-fill:#F4ACA9;
   }
-  [ROCKDESC = 'W metasedimentary rocks'] {
-    polygon-fill:#771E13;
-  }
   [ROCKDESC = 'Upper Mesozoic eugeosynclinal'] {
     polygon-fill:#85A498;
   }
   [ROCKDESC = 'Oligocene'] {
     polygon-fill:#F8BD32; 
+  }
+  [ROCKDESC = 'Eocene Marine pillow basalt'] {
+    polygon-fill:#F4ACA9; 
+  }
+  [ROCKDESC = 'Eocene eugeosynclinal'] {
+    polygon-fill:#F6AF32;
+  }
+  [ROCKDESC = 'Eocene continental'] {
+    polygon-fill:#F6AF32;
+  }
+  [ROCKDESC = 'water'] {
+    polygon-fill:#fff;
+  }
+  [ROCKDESC = 'Miocene'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'Miocene volcanic rocks'] {
+    polygon-fill:#EF6930;
+  }
+  [ROCKDESC = 'Paragneiss and schist'] {
+    polygon-fill:#D2D2D2;
+  }
+  [ROCKDESC = 'Oligocene and Eocene eugeosynclinal'] {
+    polygon-fill:#F4ACA9;
+  }
+  [ROCKDESC = 'Y volcanic rocks'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'Fredericksburg Group'] {
+    polygon-fill:#72F3AA;
+  }
+  [ROCKDESC = 'X metasedimentary rocks'] {
+    polygon-fill:#496407;
+  }
+  [ROCKDESC = 'Miocene and Oligocene eugeosynclinal'] {
+    polygon-fill:#A5A5A5;
+  }
+  [ROCKDESC = 'Mafic intrusives'] {
+    polygon-fill:#787878;
+  }
+  [ROCKDESC = 'Orthogneiss and paragneiss'] {
+    polygon-fill:#771E13;
+  }
+  [ROCKDESC = 'Lower Cretaceous granitic rocks'] {
+    polygon-fill:#397A06;
+  }
+  [ROCKDESC = 'Lower Tertiary andesite'] {
+    polygon-fill:#F4ACA9;
+  }
+  [ROCKDESC = 'Upper Tertiary andesite'] {
+    polygon-fill:#F6AF32;
+  }
+  [ROCKDESC = 'Miocene volcanic rocks'] {
+    polygon-fill:#EF6930;
+  }
+  [ROCKDESC = 'Eocene'] {
+    polygon-fill:#F8BD32;
+  }
+  [ROCKDESC = 'Washita Group'] {
+    polygon-fill:#72F3AA;
+  }
+  [ROCKDESC = 'Woodbine and Tuscaloosa groups'] {
+    polygon-fill:#98A738;
   }
 }  
 
