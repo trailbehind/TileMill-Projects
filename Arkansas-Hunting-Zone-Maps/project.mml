@@ -40,7 +40,7 @@
       "id": "zones",
       "class": "",
       "Datasource": {
-        "file": "/Users/Savannah/Downloads/agfcdboagfcwmaboundary.kml",
+        "file": "layers/zones.kml",
         "id": "zones",
         "project": "Arkansas-Hunting-Zone-Maps",
         "srs": ""

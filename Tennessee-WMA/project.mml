@@ -1,0 +1,48 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -90.16707128980362,
+        34.9158687517751,
+        -81.65279277648271,
+        36.61758804653883
+      ],
+      "id": "tnwmas",
+      "class": "",
+      "Datasource": {
+        "file": "layers/TWRA_Huntable_Lands_DEC_2012/TWRA_HuntableLands_Dec2012.shp",
+        "id": "tnwmas",
+        "project": "Tennessee-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "tnwmas"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": ""
+}
