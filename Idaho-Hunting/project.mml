@@ -1,0 +1,142 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -117.11632117101453,
+        41.945913320284916,
+        -110.65620554796341,
+        48.99076568648184
+      ],
+      "id": "elk",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/ElkManagementZones.shp/ElkManagementZones.shp",
+        "id": "elk",
+        "project": "Idaho-Hunting",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "elk",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -117.11632117062834,
+        41.94591330947608,
+        -110.6562055463811,
+        48.9907657124805
+      ],
+      "id": "elkcontrolledhunts",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/2013ElkControlledHunts.shp/2013ElkControlledHunts.shp",
+        "id": "elkcontrolledhunts",
+        "project": "Idaho-Hunting",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "elkcontrolledhunts",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -116.86833699020964,
+        41.959647685939665,
+        -110.72781655063268,
+        48.48519758393242
+      ],
+      "id": "accessyes",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/2013AccessYes.shp/2013AccessYes.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "accessyes",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -117.11632117145884,
+        41.94591331878138,
+        -110.65620554991055,
+        48.9907656875701
+      ],
+      "id": "GMU",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/GameManagementUnits.shp/GameManagementUnits.shp",
+        "id": "GMU",
+        "project": "Idaho-Hunting",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "GMU"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -109.04888221579166,
+        31.30934655524524,
+        -102.94401783212517,
+        37.04977316431837
+      ],
+      "id": "nmgmu",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Downloads/NM_GMU_Shapefile201208/NM_GMU.shp",
+        "id": "nmgmu",
+        "project": "Idaho-Hunting",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "nmgmu"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": ""
+}
