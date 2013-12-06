@@ -1,0 +1,266 @@
+{
+  "bounds": [
+    -180,
+    -85.0511,
+    180,
+    85.0511
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -171.50848142292793,
+        57.830199517073055,
+        -155.08032188388293,
+        63.536540867642785
+      ],
+      "id": "wstarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_wst/wst_arc.shp",
+        "id": "wstarc",
+        "project": "Alaska",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wstarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -171.50848142292793,
+        57.830199517073055,
+        -154.9016985276995,
+        63.53772529010373
+      ],
+      "id": "wstpoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_wst/wst_point.shp",
+        "id": "wstpoint",
+        "project": "Alaska",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wstpoint"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -168.60161162316027,
+        62.48383702295784,
+        -139.80452682222375,
+        70.71565575232033
+      ],
+      "id": "arcarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_arc/arc_arc.shp",
+        "id": "arcarc",
+        "project": "Alaska",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "arcarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -168.60161162316027,
+        62.48383702295784,
+        -139.7998286949844,
+        70.72311366496463
+      ],
+      "id": "arcpoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_arc/arc_point.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "arcpoint"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -160.9142933617132,
+        60.76173595481974,
+        -138.84369413291012,
+        67.46830989965616
+      ],
+      "id": "intarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_int/int_arc.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "intarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -161.49298081486376,
+        60.73813037580369,
+        -138.88825753001407,
+        67.47232268431412
+      ],
+      "id": "intpoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_int/int_point.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "intpoint"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -154.48703606310295,
+        58.788748900525924,
+        -141.33887566200616,
+        62.876134440959646
+      ],
+      "id": "scnarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_scn/scn_arc.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "scnarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -154.48703606310295,
+        58.788748900525924,
+        -141.3388756620062,
+        62.876134440959646
+      ],
+      "id": "scnpoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_scn/scn_point.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "scnpoint"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -144.92346046925985,
+        56.28573433783285,
+        -127.88200122575415,
+        58.282116522102356
+      ],
+      "id": "seaarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_sea/sea_arc.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "seaarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -144.92346046925985,
+        56.28573433783285,
+        -127.88321697630404,
+        58.28238051059935
+      ],
+      "id": "seapoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_sea/sea_point.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "seapoint"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -151.89356919174008,
+        49.23080404861264,
+        175.65213475997405,
+        60.88132631086675
+      ],
+      "id": "swtarc",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_swt/swt_arc.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "swtarc"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -151.8939943616769,
+        49.23080404861264,
+        175.65213475997405,
+        60.874842835374295
+      ],
+      "id": "swtpoint",
+      "class": "",
+      "Datasource": {
+        "file": "layers/2013reg_swt/swt_point.shp",
+        "id": "swtpoint",
+        "project": "Alaska",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "swtpoint"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Alaska-Rivers",
+  "description": "",
+  "attribution": ""
+}

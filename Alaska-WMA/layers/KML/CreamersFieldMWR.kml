@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Creamers Field MWR</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Creamers Field Migratory Waterfowl Refuge</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.039</p>
+Est. 1991</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=creamersfield.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Creamers Field Migratory Waterfowl Refuge</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.039</p>
+Est. 1991</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=creamersfield.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>CREAMER&apos;S FIELD MIGRATORY WATERFOWL REFUGE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">7171944.30497</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">CREAMER'S FIELD MIGRATORY WATERFOWL REFUGE</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1979-07-18</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-147.7448559241,64.885119471,0 -147.7363639723,64.8851196283,0 -147.7363510443,64.88151102250001,0 -147.7278602998,64.8815111807,0 -147.7278485144,64.8779025739,0 -147.7193589087,64.8779027329,0 -147.710869303,64.87790289190001,0 -147.7023796292,64.8779030509,0 -147.6938900235,64.8779032099,0 -147.6854004178,64.87790336889999,0 -147.6853943285,64.87429473500001,0 -147.6853882493,64.87068612349999,0 -147.6853821719,64.86707751030001,0 -147.6853760962,64.8634688953,0 -147.6938611495,64.86346873479999,0 -147.7023462029,64.8634685744,0 -147.7108313247,64.863468414,0 -147.7145378583,64.8634687193,0 -147.7144969283,64.86282466590001,0 -147.7177191,64.8632553913,0 -147.7182685783,64.8632556828,0 -147.7196072186,64.86319490539999,0 -147.7209055759,64.8629562415,0 -147.7234118035,64.8624309847,0 -147.7296592216,64.860377626,0 -147.730721921,64.85969301030001,0 -147.7348751875,64.8596482352,0 -147.7391146399,64.86018358280001,0 -147.7390923685,64.8602149916,0 -147.7414865015,64.8607182555,0 -147.7430720752,64.8610515228,0 -147.7430435998,64.8610760322,0 -147.7459524529,64.8617974731,0 -147.7460574369,64.8634678887,0 -147.7496826659,64.8634681572,0 -147.7496866903,64.86403362830001,0 -147.7504283493,64.8640308799,0 -147.7506122325,64.8688796853,0 -147.7490327358,64.8688795865,0 -147.7447926657,64.8688805666,0 -147.7447996882,64.8706850035,0 -147.7448137354,64.8742936165,0 -147.7448277939,64.8779022559,0 -147.7533174082,64.8779020944,0 -147.7618070959,64.8779019119,0 -147.7702967837,64.87790172930001,0 -147.7787865396,64.8779015467,0 -147.7872762273,64.8779013642,0 -147.7957659151,64.8779011816,0 -147.7957867996,64.88150979930001,0 -147.7872959753,64.88150998010001,0 -147.7809289406,64.881510159,0 -147.7809325818,64.8824122692,0 -147.7788098047,64.8824123143,0 -147.7788237679,64.8851187736,0 -147.7703317385,64.8851189528,0 -147.7618397773,64.8851191321,0 -147.7533478161,64.8851193113,0 -147.7448559241,64.885119471,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-147.7405814479,64.8723839318,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: CreamersFieldMWR.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

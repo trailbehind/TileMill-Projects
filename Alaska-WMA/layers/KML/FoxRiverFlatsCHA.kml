@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Fox River Flats CHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Fox River Flats Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.580</p>
+Est. 1972</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=foxriverflats.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Fox River Flats Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.580</p>
+Est. 1972</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=foxriverflats.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>FOX RIVER FLATS CHA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">FOX RIVER FLATS CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1987-12-05</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1899-12-30</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>SHAPE_AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">29127237.5641</font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-150.8928692837,59.80165539379999,0 -150.8928692639,59.8016345349,0 -150.8928669237,59.8011655652,0 -150.8928662442,59.8010330565,0 -150.8928599255,59.7997277703,0 -150.8928535699,59.7984554264,0 -150.8928492161,59.7975541971,0 -150.8928428727,59.79628364289999,0 -150.8928315189,59.79394273530001,0 -150.8993476079,59.7939424853,0 -150.899997062,59.7939425177,0 -150.9003875616,59.7939425014,0 -150.9032121395,59.7939424185,0 -150.9051589046,59.7939423235,0 -150.9060637415,59.7939422792,0 -150.9067001359,59.7939422428,0 -150.9070884825,59.7939422461,0 -150.9070884141,59.7936852292,0 -150.907088085,59.79259619600001,0 -150.9070876783,59.7903307626,0 -150.9070873834,59.7886777444,0 -150.9070871341,59.7878513669,0 -150.9070870428,59.7867193673,0 -150.90708689,59.7858977361,0 -150.9070862289,59.7831079636,0 -150.9070855955,59.7794965607,0 -150.9142479646,59.7794962842,0 -150.9214104806,59.7794959826,0 -150.9285729634,59.7794956517,0 -150.9357354047,59.7794953818,0 -150.9408029292,59.7794952533,0 -150.9428979897,59.7794950858,0 -150.9500603567,59.7794948458,0 -150.9572228776,59.7794944914,0 -150.9592751547,59.7794944274,0 -150.9611698342,59.77949439430001,0 -150.9632088689,59.779494325,0 -150.9632111977,59.7794942888,0 -150.9643853573,59.779494197,0 -150.9715477979,59.7794939628,0 -150.9787103907,59.77949361410001,0 -150.9858727641,59.7794933213,0 -150.9930352755,59.7794930928,0 -151.0001977642,59.7794927457,0 -151.007360442,59.7794925909,0 -151.0145231761,59.77949245639999,0 -151.0216860469,59.779492385,0 -151.0216991227,59.7831038005,0 -151.0217121995,59.7867152126,0 -151.021725281,59.79032661949999,0 -151.0217383573,59.79393811230001,0 -151.0289043335,59.7939380155,0 -151.0360702776,59.79393788929999,0 -151.0432361817,59.7939378239,0 -151.050402062,59.7939376388,0 -151.0504182804,59.797549131,0 -151.0504345086,59.8011605287,0 -151.05043771,59.801892994,0 -151.0504377872,59.8018981873,0 -151.0504395723,59.8022936042,0 -151.0504505633,59.804771919,0 -151.0504550368,59.8057401875,0 -151.0504669692,59.80838340150001,0 -151.043297778,59.8083834899,0 -151.0420610162,59.80838350279999,0 -151.0361289122,59.8083835567,0 -151.0361435728,59.8119950297,0 -151.0361582429,59.8156064092,0 -151.0289875883,59.8156065295,0 -151.0218168998,59.81560662,0 -151.0146463598,59.8156066849,0 -151.0074757777,59.8156068094,0 -151.0003052664,59.81560695209999,0 -150.9955366778,59.8156071872,0 -150.9951300205,59.8156071234,0 -150.9951298418,59.8156071194,0 -150.9931385986,59.8156071969,0 -150.9931350163,59.8156072053,0 -150.985964906,59.8156075231,0 -150.9787945845,59.8156078063,0 -150.9716244091,59.81560806390001,0 -150.9644542009,59.8156082918,0 -150.9572841304,59.8156085835,0 -150.9501138401,59.81560893080001,0 -150.9493302153,59.8156089367,0 -150.9492786437,59.81560891720001,0 -150.9492738023,59.815608985,0 -150.9438550117,59.8156091766,0 -150.9431197318,59.8156091837,0 -150.9429437039,59.8156091623,0 -150.9408401071,59.8156092732,0 -150.9407641761,59.8156093157,0 -150.9378278764,59.8156094534,0 -150.9374597044,59.8156093838,0 -150.9366239536,59.8156094568,0 -150.9364216006,59.8156094469,0 -150.9357735263,59.8156094544,0 -150.9357728885,59.8151776013,0 -150.9357729656,59.815174828,0 -150.9357729386,59.8151207578,0 -150.935772248,59.8145787946,0 -150.9357716315,59.8139117749,0 -150.935771515,59.8137208288,0 -150.9357712876,59.813639809,0 -150.9357712943,59.8136339001,0 -150.9357696024,59.81199808190001,0 -150.9357688683,59.8112974001,0 -150.9357689961,59.81128630290001,0 -150.935768879,59.8111769075,0 -150.935765858,59.8083867093,0 -150.9288620041,59.80838691720001,0 -150.9285972033,59.8083869731,0 -150.9248667623,59.8083871591,0 -150.9247661429,59.80838715720001,0 -150.9214285153,59.8083872072,0 -150.9211701611,59.8083872188,0 -150.9211685448,59.8083872708,0 -150.9183504742,59.8083873755,0 -150.9142599645,59.8083875053,0 -150.9141960433,59.8083875429,0 -150.9139017072,59.80838751029999,0 -150.9070965697,59.8083878052,0 -150.9070912015,59.8083877705,0 -150.9000711804,59.8083880746,0 -150.8929025227,59.8083883813,0 -150.8929005953,59.80799730620001,0 -150.8928846353,59.8047769281,0 -150.8928831028,59.8044410075,0 -150.8928814617,59.80411582590001,0 -150.8928802451,59.8038645992,0 -150.8928772368,59.8032610634,0 -150.8928769271,59.80318970719999,0 -150.8928749411,59.8027935273,0 -150.8928724526,59.8023031579,0 -150.8928692837,59.80165539379999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-150.9716492441,59.79755092090001,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: FoxRiverFlatsCHA.shp<br>Legend: Single Symbol<br>Label: NAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

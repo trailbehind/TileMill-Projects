@@ -1,0 +1,386 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "extent": [
+        -150.1290515543,
+        61.050750299200004,
+        -149.7959414447,
+        61.20601026240001
+      ],
+      "id": "anchoragecoastalwr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/AnchorageCoastalWR.kml",
+        "id": "anchoragecoastalwr",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "anchoragecoastalwr"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -151.700900342205,
+        59.71448412920011,
+        -151.346242918795,
+        59.8083788149253
+      ],
+      "id": "anchorriverfritzcree",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/AnchorRiverFritzCreekCHA.kml",
+        "id": "anchorriverfritzcree",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "anchorriverfritzcree"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -162.237480346536,
+        58.479261352413985,
+        -161.281745808871,
+        59.042734271329714
+      ],
+      "id": "capenewenhamsgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/CapeNewenhamSGR.kml",
+        "id": "capenewenhamsgr",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "capenewenhamsgr"
+    },
+    {
+      "extent": [
+        -135.9237128353,
+        59.33735929360001,
+        -135.8094047837,
+        59.3951077511
+      ],
+      "id": "chilkatrivercha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/ChilkatRiverCHA.kml",
+        "id": "chilkatrivercha",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "chilkatrivercha"
+    },
+    {
+      "extent": [
+        -158.3677923213,
+        57.250060001800016,
+        -158.0231723573,
+        57.39457677940001
+      ],
+      "id": "cinderrivercha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/CinderRiverCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "cinderrivercha"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -151.751247260983,
+        59.93431068271761,
+        -151.368001643419,
+        60.37195898189349
+      ],
+      "id": "clamgulchcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/ClamGulchCHA.kml",
+        "id": "clamgulchcha",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "clamgulchcha"
+    },
+    {
+      "extent": [
+        -146.1939259128,
+        60.0872146609,
+        -144.4273649511,
+        60.5361259451
+      ],
+      "id": "copperrivercha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/CopperRiverCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "copperrivercha"
+    },
+    {
+      "extent": [
+        -147.7957867996,
+        64.8596482352,
+        -147.6853760962,
+        64.8851196283
+      ],
+      "id": "creamersfieldmwr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/CreamersFieldMWR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "creamersfieldmwr"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -145.584667208953,
+        63.72310207547841,
+        -144.802214755267,
+        63.93212515242
+      ],
+      "id": "deltajunctionbisonra",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/DeltaJunctionBisonRange.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "deltajunctionbisonra"
+    },
+    {
+      "extent": [
+        -135.8581107968,
+        58.3981941717,
+        -135.782355231,
+        58.44153833819998
+      ],
+      "id": "dudecreekcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/DudeCreekCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "dudecreekcha"
+    },
+    {
+      "extent": [
+        -157.5890628786,
+        58.1036562307,
+        -157.5074868551,
+        58.2047998439
+      ],
+      "id": "egegikcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/EgegikCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "egegikcha"
+    },
+    {
+      "extent": [
+        -151.0504669692,
+        59.779492385,
+        -150.8928315189,
+        59.815609456800004
+      ],
+      "id": "foxriverflatscha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/FoxRiverFlatsCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "foxriverflatscha"
+    },
+    {
+      "extent": [
+        -150.0181365839,
+        61.35404063410001,
+        -149.8385716243,
+        61.426249007
+      ],
+      "id": "goosebaysgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/GooseBaySGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "goosebaysgr"
+    },
+    {
+      "extent": [
+        -151.5089923529,
+        59.644145729,
+        -151.459061396,
+        59.6567059625
+      ],
+      "id": "homercha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/HomerCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "homercha"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -151.508526407681,
+        59.6442072898673,
+        -151.458579483731,
+        59.6567719382027
+      ],
+      "id": "homerchasp4",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/HomerCHASP4.kml",
+        "id": "homerchasp4",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "homerchasp4",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -163.424118730016,
+        55.0360847266755,
+        -162.120712459554,
+        55.54872344157051
+      ],
+      "id": "izembekcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/IzembekCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "izembekcha"
+    },
+    {
+      "extent": [
+        -152.0234176609,
+        60.357457202899994,
+        -151.9517616794,
+        60.40079116950001
+      ],
+      "id": "kalgincha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/KalginCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "kalgincha"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -149.208503254318,
+        61.67176257417311,
+        -148.136564207928,
+        61.9894595808433
+      ],
+      "id": "matanuskavalleymoose",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/MatanuskaValleyMooseRange.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "matanuskavalleymoose"
+    },
+    {
+      "extent": [
+        -154.6951267213,
+        58.92724507230001,
+        -154.0751656724,
+        59.1728499402
+      ],
+      "id": "mcneilsgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/McNeilSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mcneilsgr"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": ""
+}

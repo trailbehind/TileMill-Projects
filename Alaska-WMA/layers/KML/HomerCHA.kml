@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Homer Airport CHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Homer Airport Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.630</p>
+Est. 1996</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=homerairport.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Homer Airport Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.630</p>
+Est. 1996</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=homerairport.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>HOMER AIRPORT CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1199829.91407</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">HOMER AIRPORT CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.630</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1996-08-21</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-151.459061396,59.65434713280001,0 -151.4875784723,59.644145729,0 -151.4875816766,59.6453237865,0 -151.4947559522,59.64532422089999,0 -151.4945627593,59.6453737302,0 -151.4941110089,59.645477893,0 -151.4934659612,59.6456337632,0 -151.492984559,59.6458042684,0 -151.4926957153,59.6459065707,0 -151.4926378928,59.6460722504,0 -151.4926763523,59.64620382930001,0 -151.4931043495,59.6462979675,0 -151.4935960471,59.6463583743,0 -151.4939574105,59.6464202647,0 -151.494743103,59.6464938182,0 -151.4951992793,59.6464886155,0 -151.4960856729,59.64662702070001,0 -151.4965092666,59.6466221854,0 -151.4969624979,59.64655100169999,0 -151.497420885,59.6465952724,0 -151.4975563795,59.6467092394,0 -151.4977614654,59.6469214239,0 -151.497967291,59.6471501017,0 -151.4986226702,59.6472251212,0 -151.4991114403,59.6472195323,0 -151.4999949164,59.6472919362,0 -151.5008399034,59.6472327577,0 -151.501388671,59.6471109584,0 -151.5018550163,59.6468422133,0 -151.5021483059,59.6466731937,0 -151.502869374,59.6467474353,0 -151.5034240388,59.6467575692,0 -151.5041031185,59.6466342544,0 -151.5048147767,59.6465105615,0 -151.5054208847,59.646410871,0 -151.5054620035,59.6464041078,0 -151.5063091732,59.6463943635,0 -151.5066949849,59.6462744089,0 -151.5072755514,59.64613570900001,0 -151.5080493852,59.6459452739,0 -151.5082279963,59.6458704926,0 -151.5089862924,59.6458704578,0 -151.5089923529,59.6476761718,0 -151.5054249973,59.64767629760001,0 -151.5018576389,59.6476764195,0 -151.5018633163,59.6494821616,0 -151.4947281531,59.6494823168,0 -151.4875929899,59.64948247200001,0 -151.4876028171,59.6530939009,0 -151.4804668318,59.6530940579,0 -151.4733309039,59.65309421480001,0 -151.466194976,59.65309437169999,0 -151.4662025106,59.6567058039,0 -151.4590658178,59.6567059625,0 -151.459061396,59.65434713280001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-151.4840268744,59.65042584580001,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: HomerCHA.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

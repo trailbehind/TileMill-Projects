@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Homer Airport CHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<StyleMap id="FEATURES">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#FEATURES0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#FEATURES1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="FEATURES1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Homer Airport Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.630</p>
+Est. 1996</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=homerairport.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="FEATURES0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Homer Airport Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.630</p>
+Est. 1996</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=homerairport.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Placemark>
+			<name>HOMER AIRPORT CRITICAL HABITAT AREA</name>
+			<description><![CDATA[FID = 0<br />OBJECTID = 11496<br />PARCEL_ID = 6109<br />NAME = HOMER AIRPORT CHA<br />LONGNAME = HOMER AIRPORT CRITICAL HABITAT AREA<br />ADMIN = 6000<br />GNCYTMS = 207-2703AS16.20.630<br />PARCELTYPE = STATE CRITICAL HABITAT AREA<br />SCALE = 31680<br />EFF_DATE = 1995-12-08<br />AMEND_DATE = 1996-12-08<br />DSCRPTND = AS16.20.630<br />Shape_Leng = 7963.67557601<br />Shape_Area = 1199827.95446<br />]]></description>
+			<styleUrl>#FEATURES</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-151.494140325739,59.645377444631,0 -151.487101727242,59.645376975945,0 -151.487102063611,59.6442072898673,0 -151.458581337842,59.6544002519897,0 -151.458579483731,59.6567719382027,0 -151.465716925613,59.6567713544269,0 -151.465709504464,59.6531564859458,0 -151.472850851331,59.6531473566683,0 -151.479984703607,59.65315404202931,0 -151.487099506404,59.6531523171931,0 -151.48711394625,59.6495370143119,0 -151.494252521622,59.6495361739644,0 -151.501391633893,59.6495352333453,0 -151.501401736927,59.6477141210674,0 -151.504945179715,59.6477295549926,0 -151.508526407681,59.64771253996361,0 -151.508521611218,59.64591887330389,0 -151.50774816175,59.6459237767039,0 -151.507526516107,59.6459272723841,0 -151.506663563247,59.64614588756781,0 -151.505904619751,59.6463421656865,0 -151.505459558445,59.6464098390916,0 -151.504982151924,59.6464573374335,0 -151.504941031703,59.6464641684756,0 -151.504334951204,59.6465637897886,0 -151.503920674205,59.6465651324225,0 -151.503117881241,59.6466020206957,0 -151.502517342199,59.6465744349927,0 -151.501735645056,59.6464315238349,0 -151.501243791096,59.6463550208917,0 -151.500606734761,59.6462317281055,0 -151.5000090276,59.646030461837,0 -151.499755552208,59.6458201040557,0 -151.499228727063,59.645671481451,0 -151.498318680602,59.6456676614518,0 -151.497608703057,59.6456854818735,0 -151.496680852322,59.6456342639124,0 -151.495825654022,59.64559349583839,0 -151.494879364371,59.6455702201113,0 -151.494140325739,59.645377444631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Feature Labels (LONGNAME)</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>HOMER AIRPORT CRITICAL HABITAT AREA</name>
+			<visibility>0</visibility>
+			<styleUrl>#FEATURES</styleUrl>
+			<Point>
+				<coordinates>-151.482416656519,59.64985481315541,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
