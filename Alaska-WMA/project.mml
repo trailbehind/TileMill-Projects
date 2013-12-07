@@ -371,12 +371,300 @@
       "id": "mcneilsgr",
       "class": "",
       "Datasource": {
-        "file": "layers/KML/McNeilSGR.kml"
+        "file": "layers/KML/McNeilSGR.kml",
+        "id": "mcneilsgr",
+        "project": "Alaska-WMA",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
       "name": "mcneilsgr"
+    },
+    {
+      "extent": [
+        -154.6951267213,
+        58.92724507230001,
+        -154.0751656724,
+        59.1728499402
+      ],
+      "id": "mcneilsgs",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/McNeilSGS.kml",
+        "id": "mcneilsgs",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mcneilsgs"
+    },
+    {
+      "extent": [
+        -134.6293911062,
+        58.32270329360001,
+        -134.4727336635,
+        58.363398415900015
+      ],
+      "id": "mendenhallsgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/MendenhallSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mendenhallsgr"
+    },
+    {
+      "extent": [
+        -149.9220780124,
+        64.6035987151,
+        -148.6576173938,
+        65.2964793587
+      ],
+      "id": "mintoflatssgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/MintoFlatsSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mintoflatssgr"
+    },
+    {
+      "extent": [
+        -179.1422126523,
+        51.217292768,
+        179.7776639334,
+        66.2454292589
+      ],
+      "id": "otherlda",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/OtherLDA.kml",
+        "id": "otherlda",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "otherlda"
+    },
+    {
+      "extent": [
+        -149.5408337414,
+        61.4695794465,
+        -149.1780470361,
+        61.5543740755
+      ],
+      "id": "palmerflatssgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/PalmerFlatsSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "palmerflatssgr"
+    },
+    {
+      "extent": [
+        -157.9702912243,
+        57.3656763804,
+        -157.4621345305,
+        57.6257978188
+      ],
+      "id": "pilotpointcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/PilotPointCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "pilotpointcha"
+    },
+    {
+      "extent": [
+        -159.18270756300004,
+        56.75439934029999,
+        -158.5786506468,
+        56.8989323272
+      ],
+      "id": "portheidencha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/PortHeidenCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "portheidencha"
+    },
+    {
+      "extent": [
+        -161.507626954,
+        55.757093201,
+        -160.2002105454,
+        56.03171347280001
+      ],
+      "id": "portmollercha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/PortMollerCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "portmollercha"
+    },
+    {
+      "extent": [
+        -152.5194952712,
+        60.5885601083,
+        -151.759609688,
+        60.8629893909
+      ],
+      "id": "redoubtbaycha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/RedoubtBayCHA.kml",
+        "id": "redoubtbaycha",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "redoubtbaycha"
+    },
+    {
+      "extent": [
+        -134.2911454456,
+        57.8920052291,
+        -134.2666587502,
+        57.9172917704
+      ],
+      "id": "stanpricesws",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/StanPriceSWS.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "stanpricesws"
+    },
+    {
+      "extent": [
+        -151.0641031979,
+        61.16628800560001,
+        -150.0474999405,
+        61.46957832470001
+      ],
+      "id": "susitnasgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/SusitnaSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "susitnasgr"
+    },
+    {
+      "extent": [
+        -152.0212754306,
+        60.81965938810001,
+        -151.4888171171,
+        61.1229648821
+      ],
+      "id": "tradingbaysgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/TradingBaySGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "tradingbaysgr"
+    },
+    {
+      "extent": [
+        -154.82014098670004,
+        56.3983992378,
+        -154.3521095561,
+        56.6585470338
+      ],
+      "id": "tugidakislandcha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/TugidakIslandCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "tugidakislandcha"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -160.536564468968,
+        58.53919393923841,
+        -159.862941135507,
+        58.90494836636099
+      ],
+      "id": "walrusislandsgs",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/WalrusIslandSGS.kml",
+        "id": "walrusislandsgs",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "walrusislandsgs"
+    },
+    {
+      "extent": [
+        -149.7876155435,
+        61.80174151620002,
+        -149.6348206331,
+        61.98947671349999
+      ],
+      "id": "willowmountaincha",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/WillowMountainCHA.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "willowmountaincha"
+    },
+    {
+      "extent": [
+        -143.4598987465,
+        60.05119477440001,
+        -142.59824881570003,
+        60.1965698291
+      ],
+      "id": "yakatagesgr",
+      "class": "",
+      "Datasource": {
+        "file": "layers/KML/YakatageSGR.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "yakatagesgr"
     }
   ],
   "scale": 1,
