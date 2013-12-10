@@ -1,1 +1,147 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/StanPriceSWS.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>StanPriceSWS</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Stan Price State Wildlife Sanctuary</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.150</p>
+Est. 1990</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=stanprice.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Stan Price State Wildlife Sanctuary</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.150</p>
+Est. 1990</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=stanprice.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>STAN PRICE STATE WILDLIFE SANCTUARY</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">2451041.2755</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">STAN PRICE STATE WILDLIFE SANCTUARY</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.150</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1990-06-15</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-134.2667286221,57.9172917704,0 -134.26671696,57.9136795116,0 -134.2667053125,57.9100671416,0 -134.2666936678,57.90645476950001,0 -134.2666820259,57.9028423953,0 -134.2666703866,57.8992299902,0 -134.2666587502,57.8956176118,0 -134.2734432037,57.8956176092,0 -134.2734308909,57.8920052302,0 -134.2802146652,57.8920052291,0 -134.2820572947,57.892005265,0 -134.2820766616,57.8923113016,0 -134.2822763755,57.892626062,0 -134.2824103352,57.8930757048,0 -134.2821958079,57.8936098275,0 -134.2819786507,57.89398869179999,0 -134.281763587,57.894491762,0 -134.2817021946,57.8948854075,0 -134.2819818627,57.89532917770001,0 -134.2822528678,57.89583509689999,0 -134.2823078545,57.8962126582,0 -134.2821701048,57.8966894802,0 -134.2821978564,57.8971810367,0 -134.2824156382,57.8974128993,0 -134.2827218684,57.8977012702,0 -134.2828506845,57.8978455719,0 -134.2829415838,57.8980469876,0 -134.2824517088,57.89839610519999,0 -134.2816018136,57.8987262407,0 -134.2810331905,57.8990187969,0 -134.2805716608,57.8993211906,0 -134.2802679239,57.8997573972,0 -134.2802472213,57.9002595363,0 -134.2802766937,57.9008545981,0 -134.2804414799,57.9014024329,0 -134.280655402,57.90198108679999,0 -134.280926176,57.9024714823,0 -134.2812808705,57.90274927360001,0 -134.2815861752,57.9029807191,0 -134.2819686456,57.9031755649,0 -134.2822633613,57.9033553027,0 -134.2825283015,57.90349895280001,0 -134.2834112258,57.9028167078,0 -134.2843883717,57.9025325306,0 -134.2853673493,57.90235702620001,0 -134.2863483435,57.902300545,0 -134.2878540237,57.9027953194,0 -134.2891524016,57.9031047557,0 -134.2901988325,57.90346198209999,0 -134.2907974543,57.90378514490001,0 -134.2911454456,57.9042337389,0 -134.2904112707,57.9045116136,0 -134.2904147293,57.90471344809999,0 -134.2901432177,57.9047561705,0 -134.2894061913,57.90486843159999,0 -134.2885107755,57.9048158331,0 -134.2877416623,57.90475744260001,0 -134.2871211187,57.9048587764,0 -134.2863848738,57.9050175972,0 -134.2856502945,57.9052747436,0 -134.2848882954,57.9056355308,0 -134.284261255,57.9059283816,0 -134.283500719,57.9063771397,0 -134.2828937131,57.9067061172,0 -134.2822984319,57.9071540759,0 -134.2820508,57.90746062549999,0 -134.2817578719,57.9079640666,0 -134.2815930855,57.9085704075,0 -134.28135173,57.90924957350001,0 -134.2812117329,57.90959701200001,0 -134.2811826241,57.91017682539999,0 -134.2809388046,57.9107110835,0 -134.2806730857,57.911100527,0 -134.2805579342,57.91176873700001,0 -134.280702365,57.9122597353,0 -134.2807305441,57.9127771668,0 -134.280913879,57.913267979,0 -134.2808050441,57.913734308,0 -134.2806761457,57.91416450309999,0 -134.2804510431,57.9146572651,0 -134.2807872765,57.9149869021,0 -134.2808644335,57.915524802,0 -134.2809230157,57.9161145471,0 -134.2811934615,57.9165790643,0 -134.2813257471,57.91692520120001,0 -134.281263866,57.9172917679,0 -134.2803056733,57.9172917473,0 -134.2735171415,57.9172917588,0 -134.2667286221,57.9172917704,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-134.2789020979,57.9046484997,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: StanPriceSWS.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

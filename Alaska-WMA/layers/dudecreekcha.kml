@@ -1,1 +1,147 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/DudeCreekCHA.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dude Creek CHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Dude Creek Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.610</p>
+Est. 1988</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=dudecreek.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Dude Creek Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.610</p>
+Est. 1988</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=dudecreek.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>DUDE CREEK CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">16517532.8931</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">DUDE CREEK CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.610</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1988-05-13</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-135.7892682983,58.44153833819999,0 -135.7892635688,58.4379264431,0 -135.7892588284,58.43431452779999,0 -135.7892541126,58.43070262530001,0 -135.7892493786,58.427090683,0 -135.7823632495,58.4270908619,0 -135.7823592422,58.42347894229999,0 -135.782355231,58.41986702220001,0 -135.789239921,58.41986685560001,0 -135.7892351949,58.41625494220001,0 -135.7892304835,58.4126429937,0 -135.7892257499,58.409031079,0 -135.7892210336,58.4054191575,0 -135.7892163017,58.40180722429999,0 -135.7892150352,58.4008359583,0 -135.7892150422,58.4008142348,0 -135.7902515927,58.40108452000001,0 -135.7903131215,58.40081126250001,0 -135.7892081373,58.4004392691,0 -135.7886737871,58.40025937349999,0 -135.7883925143,58.39935060269999,0 -135.7882608994,58.3989253483,0 -135.7882130454,58.39877072699999,0 -135.7892115919,58.3981952756,0 -135.7960920066,58.3981951329,0 -135.8029724832,58.3981949994,0 -135.809852885,58.3981948642,0 -135.8167333041,58.39819472220001,0 -135.8236137312,58.39819459069999,0 -135.8304941967,58.3981944462,0 -135.8373746162,58.39819431350001,0 -135.8442550367,58.3981941717,0 -135.844265448,58.40180609099999,0 -135.8442758753,58.4054179751,0 -135.8511577201,58.405417837,0 -135.8580396203,58.4054176883,0 -135.8580514285,58.4090295601,0 -135.8580633383,58.4126414372,0 -135.8580751989,58.4162533347,0 -135.8580870545,58.4198652032,0 -135.8580989245,58.4234770736,0 -135.8581107968,58.4270889347,0 -135.8512246236,58.4270891101,0 -135.844338501,58.4270892833,0 -135.8374523703,58.4270894642,0 -135.8305662405,58.42708963569999,0 -135.8305752011,58.43070154549999,0 -135.8305842105,58.4343134251,0 -135.8305932336,58.4379253065,0 -135.8306023127,58.44153717739999,0 -135.8237132827,58.44153737109999,0 -135.816824282,58.4415375685,0 -135.8099352985,58.4415377588,0 -135.803046323,58.441537959,0 -135.7961572773,58.44153814860001,0 -135.7892682983,58.44153833819999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-135.8202330139,58.419866255,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: DudeCreekCHA.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

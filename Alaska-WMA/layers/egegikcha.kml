@@ -1,1 +1,167 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/EgegikCHA.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EgegikCHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Egegik Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.565</p>
+Est. 1972</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=bristolbay.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Egegik Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.565</p>
+Est. 1972</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=bristolbay.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>EGEGIK CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">32107837.7971</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">EGEGIK CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.565</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1972-09-24</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-157.5617059021,58.1108813151,0 -157.5617088625,58.11449356899999,0 -157.5617118236,58.11810584989999,0 -157.5685382201,58.1181057068,0 -157.5753646166,58.1181055637,0 -157.5821910131,58.11810542060001,0 -157.5855981842,58.11810539529999,0 -157.5890174644,58.11810527749999,0 -157.5890231991,58.1217175267,0 -157.5890289115,58.1253297663,0 -157.5890345694,58.1289419857,0 -157.5890402283,58.1325540265,0 -157.5890458888,58.1361662418,0 -157.5890515507,58.139778455,0 -157.589057214,58.1433906661,0 -157.5890628786,58.1470029038,0 -157.5822308554,58.1470030485,0 -157.575398887,58.1470031932,0 -157.5685669186,58.14700333799999,0 -157.5617349503,58.14700348269999,0 -157.5617378243,58.1506156905,0 -157.561740699,58.1542278962,0 -157.5617435744,58.1578400999,0 -157.5617464504,58.1614523308,0 -157.5617493272,58.1650645303,0 -157.5617522046,58.1686767277,0 -157.5617550827,58.1722889231,0 -157.5617579616,58.1759011452,0 -157.561760841,58.1795133363,0 -157.5617637212,58.1831255254,0 -157.561766602,58.1867377124,0 -157.5617694837,58.19034992630001,0 -157.5549290733,58.19035007370001,0 -157.5480887181,58.190350221,0 -157.5412483629,58.19035036839999,0 -157.5344080077,58.19035051579999,0 -157.5344080899,58.1939626995,0 -157.534408172,58.1975748812,0 -157.5344082542,58.2011870607,0 -157.5344083364,58.20479926669999,0 -157.528294689,58.2047993991,0 -157.5214515327,58.2047995474,0 -157.5146083765,58.2047996957,0 -157.5077652203,58.20479984389999,0 -157.5077512702,58.2011876375,0 -157.5077373233,58.1975754574,0 -157.5077233797,58.19396327530001,0 -157.5077094395,58.19035109099999,0 -157.5076955024,58.18673887580001,0 -157.507681569,58.18312668739999,0 -157.5076676389,58.1795144969,0 -157.5076537123,58.1759023043,0 -157.507639789,58.1722900808,0 -157.507625869,58.1686778841,0 -157.5076119525,58.16506568530001,0 -157.5075980393,58.1614534844,0 -157.5075841292,58.157841252,0 -157.5075702228,58.154229047,0 -157.5075563198,58.15061683980001,0 -157.5075424201,58.1470046306,0 -157.5075285238,58.14339239060001,0 -157.5075146308,58.1397801772,0 -157.5075007413,58.1361679617,0 -157.5074868551,58.1325557441,0 -157.5143160332,58.13255560030001,0 -157.5211452114,58.13255545650001,0 -157.5279743896,58.13255531270001,0 -157.5344066932,58.1325551772,0 -157.5344066111,58.1289431346,0 -157.5344065289,58.12533091339999,0 -157.5344063716,58.1217186726,0 -157.5344061827,58.1181064223,0 -157.5344059938,58.1144941409,0 -157.5344058049,58.1108818864,0 -157.5412308154,58.1108817436,0 -157.548055826,58.1108816008,0 -157.5548808366,58.11088145789999,0 -157.5617059021,58.1108813151,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-157.5482748669,58.1578405795,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>EGEGIK CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1294975.81592</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">EGEGIK CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.565</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1972-09-24</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-157.5617059021,58.1108813151,0 -157.5617029423,58.1072690591,0 -157.5616999832,58.103656801,0 -157.5685236086,58.10365665839999,0 -157.5753472339,58.10365651579999,0 -157.5821708593,58.1036563732,0 -157.5889945395,58.1036562307,0 -157.5890002687,58.1072684882,0 -157.5890011242,58.1078077561,0 -157.5890059993,58.11088074369999,0 -157.5879150964,58.1108807913,0 -157.5821809339,58.1108808866,0 -157.5753559233,58.1108810294,0 -157.5685309127,58.1108811722,0 -157.5617059021,58.1108813151,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-157.5753529913,58.1072687729,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: EgegikCHA.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

@@ -1,1 +1,148 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/WillowMountainCHA.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>WillowMountainCHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>
+]]></description>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Willow Mountain Critical Habitat Area </p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.620</p>
+Est. 1989</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=willowmountain.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Willow Mountain Critical Habitat Area </p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.620</p>
+Est. 1989</p>
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=willowmountain.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>WILLOW MOUNTAIN CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">91218081.9001</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">WILLOW MOUNTAIN CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.620</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1989-05-12</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-149.7833804376,61.8595065248,0 -149.7874705375,61.8595063913,0 -149.787477724,61.8631166903,0 -149.7874849134,61.8667269847,0 -149.7874921057,61.8703372746,0 -149.7874992972,61.8739475868,0 -149.7875064862,61.8775578713,0 -149.7875138007,61.88116815419999,0 -149.7875209848,61.8847784286,0 -149.7875283002,61.88838873819999,0 -149.787535565,61.891999015,0 -149.7875428328,61.8956092873,0 -149.7875500843,61.8992195547,0 -149.787557353,61.9028298539,0 -149.787564552,61.9064401198,0 -149.7875718872,61.9100503853,0 -149.7875790907,61.91366065140001,0 -149.7875864281,61.917270935,0 -149.7875937137,61.9208811948,0 -149.7876009818,61.9244914587,0 -149.7876038972,61.9259350982,0 -149.7876082732,61.9281017099,0 -149.7876155435,61.93171199209999,0 -149.7810753653,61.9317121198,0 -149.7799541204,61.9317121118,0 -149.7722927571,61.9317122228,0 -149.764631395,61.93171233250001,0 -149.7569700329,61.9317124497,0 -149.7569736827,61.93532269309999,0 -149.7569773345,61.9389329323,0 -149.7569809299,61.9425431745,0 -149.7569846504,61.9461533535,0 -149.7493196098,61.9461534304,0 -149.7416546373,61.9461534602,0 -149.7339896656,61.94615348839999,0 -149.7263246756,61.9461535144,0 -149.7263247209,61.9497637579,0 -149.7263247496,61.9533739879,0 -149.7263247783,61.9569842226,0 -149.7263248045,61.96059448,0 -149.7263248344,61.9642047155,0 -149.7263248668,61.9678149379,0 -149.7263248992,61.9714251653,0 -149.7263249291,61.9750354153,0 -149.7263249639,61.9786456346,0 -149.7263249988,61.9822558587,0 -149.7263250361,61.98586607,0 -149.7263250684,61.9894763219,0 -149.7194295018,61.98947635119999,0 -149.7117536168,61.9894763775,0 -149.70407775,61.9894764112,0 -149.6964018645,61.989476442,0 -149.6887259207,61.98947647790001,0 -149.6810500535,61.98947651390001,0 -149.6733741672,61.9894765471,0 -149.6656982809,61.9894765781,0 -149.658022355,61.9894766147,0 -149.6503464682,61.98947664129999,0 -149.642670599,61.9894766752,0 -149.6349946516,61.98947671349999,0 -149.6349838252,61.9858664653,0 -149.6349729223,61.9822562375,0 -149.634962022,61.9786460147,0 -149.6349511434,61.9750357973,0 -149.6349401971,61.9714255379,0 -149.634929307,61.9678153119,0 -149.6349184206,61.9642050818,0 -149.6349076144,61.96059484999999,0 -149.6348967394,61.956984585,0 -149.6348858631,61.9533743516,0 -149.6348749906,61.949764114,0 -149.634864122,61.9461538723,0 -149.6348532089,61.9425436966,0 -149.6348423478,61.9389334466,0 -149.6348314892,61.93532320129999,0 -149.6348206331,61.9317129607,0 -149.6424820522,61.9317129294,0 -149.6501433932,61.9317129032,0 -149.6578047352,61.9317128668,0 -149.6654660947,61.9317128384,0 -149.6731275112,61.9317128104,0 -149.6807888502,61.9317127876,0 -149.6884502096,61.931712755,0 -149.6961115488,61.9317127294,0 -149.69609351,61.9281024465,0 -149.6960754133,61.9244922023,0 -149.6960573221,61.9208819538,0 -149.6960392363,61.91727170109999,0 -149.7036969723,61.917271669,0 -149.7113547075,61.9172716447,0 -149.7113348105,61.9136613623,0 -149.7113149347,61.9100511029,0 -149.7112950445,61.9064408475,0 -149.7112751791,61.90283058840001,0 -149.7189292766,61.9028305571,0 -149.7263243055,61.9028305332,0 -149.726324275,61.89922024319999,0 -149.726324242,61.8956099755,0 -149.726324209,61.8919997124,0 -149.7263241772,61.88838944479999,0 -149.7263241504,61.88477914609999,0 -149.7263241198,61.8811688786,0 -149.7263240917,61.8775585977,0 -149.7263240718,61.87394833049999,0 -149.7263240937,61.8703380242,0 -149.726324131,61.8667277496,0 -149.7263241694,61.8631174705,0 -149.7263241901,61.8595071863,0 -149.7222340936,61.8595072473,0 -149.7222341271,61.85589697980001,0 -149.7222341606,61.8522866944,0 -149.7222341941,61.8486764071,0 -149.7222342276,61.8450661179,0 -149.7165530624,61.8450661302,0 -149.7089133829,61.8450661467,0 -149.7012737035,61.84506616329999,0 -149.693634024,61.8450661798,0 -149.6936161029,61.84145585659999,0 -149.6935981867,61.8378455599,0 -149.6935802753,61.8342352612,0 -149.6935623688,61.83062496069999,0 -149.6935444672,61.8270146291,0 -149.6935265703,61.8234043246,0 -149.6935086783,61.8197940182,0 -149.693490791,61.8161837099,0 -149.6934729085,61.8125733705,0 -149.6934550309,61.8089630583,0 -149.6934371581,61.8053527442,0 -149.6934192902,61.80174242810001,0 -149.701048193,61.80174242330001,0 -149.7086770959,61.8017424184,0 -149.7163059988,61.8017424136,0 -149.7222346297,61.8017424098,0 -149.7298635325,61.8017424049,0 -149.7374924354,61.8017424001,0 -149.7451213383,61.8017423952,0 -149.752750299,61.8017423761,0 -149.7603791497,61.8017421611,0 -149.7680080004,61.8017419462,0 -149.7756368511,61.8017417312,0 -149.7832657632,61.80174151620001,0 -149.7832729159,61.8053518395,0 -149.7832800704,61.80896216080001,0 -149.783287227,61.81257248030001,0 -149.7832943855,61.81618282689999,0 -149.7833015459,61.8197931424,0 -149.7833087082,61.82340345610001,0 -149.7833158724,61.8270137678,0 -149.7833230382,61.83062410670001,0 -149.7833302064,61.8342344146,0 -149.7833373764,61.8378447205,0 -149.7833445484,61.84145502460001,0 -149.7833517226,61.84506535519999,0 -149.7833588985,61.8486756553,0 -149.7833660763,61.8522859536,0 -149.7833732561,61.85589624989999,0 -149.7833804376,61.8595065248,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-149.7112180883,61.8956091149,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: WillowMountainCHA.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

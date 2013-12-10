@@ -16,7 +16,10 @@
   "maxzoom": 22,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
-    "style.mss"
+    "style.mss",
+    "arkansas",
+    "tennessee",
+    "georgia"
   ],
   "Layer": [
     {
@@ -665,6 +668,60 @@
       "srs": "",
       "advanced": {},
       "name": "yakatagesgr"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -94.49311521535178,
+        33.00805786536891,
+        -90.05587933711382,
+        36.4985959746183
+      ],
+      "id": "arkansas",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Documents/MapBox/project/Arkansas-Hunting-Zone-Maps/layers/zones.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "arkansas"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -90.16707128980362,
+        34.9158687517751,
+        -81.65279277648271,
+        36.61758804653883
+      ],
+      "id": "tennesse",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/Savannah/Documents/MapBox/project/Tennessee-WMA/layers/tnwmas/TWRA_HuntableLands_Dec2012.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "tennesse"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -85.494334,
+        30.681537000000002,
+        -80.847205,
+        34.988276
+      ],
+      "id": "georgia",
+      "class": "",
+      "Datasource": {
+        "file": "layers/georgiadnr.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "georgia"
     }
   ],
   "scale": 1,

@@ -1,1 +1,150 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/GooseBaySGR.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Goose Bay SGR</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Goose Bay State Game Refuge</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.030(c)</p>
+Est.1975</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=goosebay.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Goose Bay State Game Refuge</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.030(c)</p>
+Est.1975</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=goosebay.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>GOOSE BAY STATE GAME REFUGE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">44694365.365</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">GOOSE BAY STATE GAME REFUGE</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.030(C)</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1975-05-30</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-149.9202676565,61.426249007,0 -149.9202648186,61.4226386896,0 -149.9202619812,61.4190282645,0 -149.9202591445,61.41541783740001,0 -149.9202563085,61.41180740839999,0 -149.9277899151,61.4118073231,0 -149.9277862185,61.4081968626,0 -149.9277825232,61.40458642940001,0 -149.9202506385,61.4045865153,0 -149.9127188143,61.40458660109999,0 -149.9051869902,61.40458668699999,0 -149.897655166,61.4045867729,0 -149.8976549135,61.4009763389,0 -149.897654661,61.39736590300001,0 -149.8914478185,61.3973659744,0 -149.8839177151,61.3973660609,0 -149.8763877276,61.3973661787,0 -149.8688586463,61.3973665416,0 -149.8613295044,61.3973669045,0 -149.8538004231,61.3973672674,0 -149.8462713417,61.39736763030001,0 -149.8387422603,61.3973679932,0 -149.8387281733,61.39375751159999,0 -149.8387140901,61.390147057,0 -149.8387000107,61.3865366004,0 -149.838685935,61.3829261418,0 -149.8386718631,61.37931565269999,0 -149.8386577949,61.37570519020001,0 -149.8386435182,61.37209472490001,0 -149.8386291324,61.368484257,0 -149.8386147498,61.3648737584,0 -149.8386003711,61.3612632866,0 -149.8385859959,61.3576528128,0 -149.8385716243,61.3540423371,0 -149.846090368,61.35404202510001,0 -149.8536091117,61.354041713,0 -149.8611278553,61.354041401,0 -149.8686466595,61.354041089,0 -149.8761654032,61.3540407769,0 -149.883685174,61.3540407014,0 -149.8912051158,61.3540406652,0 -149.8976515949,61.3540406341,0 -149.8976518538,61.35765105800001,0 -149.8976521127,61.36126148,0 -149.8976523716,61.3648718999,0 -149.8976526305,61.3684823468,0 -149.9051759022,61.3684822736,0 -149.9126991738,61.3684822004,0 -149.9202224454,61.3684821272,0 -149.9277457773,61.3684820539,0 -149.9277493683,61.372092433,0 -149.9277529931,61.3757028356,0 -149.9277566812,61.3793132845,0 -149.9352824867,61.37931319640001,0 -149.9428082923,61.3793131083,0 -149.9428136995,61.3829235844,0 -149.9503403641,61.3829234966,0 -149.9578670891,61.3829234088,0 -149.9653937538,61.3829233211,0 -149.9729204185,61.3829232333,0 -149.9757453143,61.3829232479,0 -149.9729118861,61.3794398248,0 -149.9698725804,61.37570238949999,0 -149.9729027335,61.3757023051,0 -149.9804276801,61.3757022166,0 -149.9879526872,61.37570212819999,0 -149.9954776338,61.3757020398,0 -150.0030025784,61.3757019537,0 -150.0105275046,61.37570188889999,0 -150.0180524917,61.375701824,0 -150.0180664979,61.37931227999999,0 -150.0180805077,61.3829227627,0 -150.0180945212,61.3865332148,0 -150.0181085384,61.390143665,0 -150.0181225593,61.3937541132,0 -150.0181365839,61.39736458840001,0 -150.0106064076,61.397364642,0 -150.0030762918,61.3973646956,0 -150.0030885885,61.4009751362,0 -150.0031008885,61.4045855748,0 -150.0031131917,61.4081960115,0 -150.0031254984,61.4118064755,0 -149.9955919486,61.4118065561,0 -149.9956033963,61.4154169884,0 -149.9956148471,61.4190274186,0 -149.9956263007,61.422637847,0 -149.995637757,61.42624816759999,0 -149.9881007651,61.4262482516,0 -149.9805637125,61.4262483355,0 -149.9730267206,61.4262484194,0 -149.9654897287,61.4262485034,0 -149.9579527369,61.4262485873,0 -149.9504156848,61.42624867129999,0 -149.9428786929,61.42624875519999,0 -149.9353417011,61.4262488392,0 -149.9278047092,61.4262489231,0 -149.9202676565,61.426249007,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-149.9283541041,61.3901448206,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: GooseBaySGR.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>

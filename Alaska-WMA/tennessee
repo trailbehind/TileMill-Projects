@@ -1,14 +1,7 @@
-
-#zones {
-  line-color:orange;
-  line-width:0.5;
-  polygon-opacity:1;
+#tennesse {
   polygon-fill:orange;
-}
-
-#zones {  
-  [zoom > 9] {
-  text-name:[Name];
+   [zoom > 9] {
+  text-name:[NAME];
   text-face-name: 'Helvetica Regular';
   [zoom = 10]{  
   text-size:10;}
@@ -25,5 +18,4 @@
   [zoom = 16]{  
   text-size:30;}
   text-halo-fill: fadeout(white, 30%);
-  text-halo-radius: 2.5;
-  text-placement: interior;} }
+  text-halo-radius: 2.5;} }

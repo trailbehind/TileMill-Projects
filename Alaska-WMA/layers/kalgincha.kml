@@ -1,1 +1,150 @@
-/Users/Savannah/Documents/MapBox/project/Alaska-WMA/layers/KML/KalginCHA.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kalgin Island CHA</name>
+	<description><![CDATA[<!DOCTYPE html>
+<html>
+<body>
+<h4 style="text-align:center;">
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/footer/footerbg_bottom.png"/>
+
+<p>Created by <br />
+State of Alaska
+Dept. of Fish & Game</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=protectedareas.locator"><img src="http://www.adfg.alaska.gov/static/_global/images/adfg_logo_print.jpg"</a><br />
+
+</h4>
+</body>
+</html>]]></description>
+	<Style id="zn">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Kalgin Island Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.575</p>
+Est. 1972</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=kalginisland.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffca95</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="zh">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<!DOCTYPE html>
+<html>
+
+
+<img src="http://www.adfg.alaska.gov/static/_global/css/css_images/subpage_banner/subpage_banner_logo.png"/>
+
+<body style="background-color:PowderBlue;">
+<h4 style="text-align:center;font-family:vPerpetua Titling MT;font-size:20px;"><p>Kalgin Island Critical Habitat Area</p></h4>
+<h4 style="text-align:center;"></p>
+AS 16.20.575</p>
+Est. 1972</p>
+
+
+<a href="http://www.adfg.alaska.gov/index.cfm?adfg=kalginisland.main">Get more info</a>
+</h4>
+
+</body>
+</html>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="MapRollOver">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#zn</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#zh</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Features</name>
+		<Snippet maxLines="2">Legend: Single Symbol</Snippet>
+		<Placemark>
+			<name>KALGIN ISLAND CRITICAL HABITAT AREA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AREA</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">14129574.4771</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>LONGNAME</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">KALGIN ISLAND CRITICAL HABITAT AREA</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AGENCY_ITE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AS16.20.575</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>EFF_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">1972-09-24</font></td></tr><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>AMEND_DATE</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000"></font></td></tr></table>]]></description>
+			<styleUrl>#MapRollOver</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-151.9650787151,60.40078997959999,0 -151.9650785666,60.397178943,0 -151.9650784347,60.3935679316,0 -151.9650782846,60.38995691789999,0 -151.965078135,60.3863458933,0 -151.9650779941,60.38273501900001,0 -151.965077844,60.3791239994,0 -151.9591277193,60.37912381660001,0 -151.9518331172,60.3791240187,0 -151.9518152183,60.375513137,0 -151.9517972231,60.3719021739,0 -151.9517797196,60.36829026030001,0 -151.9517616794,60.3646791133,0 -151.9590524541,60.36467933280001,0 -151.965076787,60.3646795252,0 -151.965076485,60.36106836969999,0 -151.9650761653,60.35745720289999,0 -151.9723653079,60.3574574335,0 -151.9796544811,60.357457656,0 -151.9869436299,60.3574578783,0 -151.9942328446,60.3574580975,0 -152.0015220013,60.3574583202,0 -152.0088114116,60.3574584757,0 -152.0161008499,60.3574586237,0 -152.0233903467,60.35745877170001,0 -152.0233971728,60.3610699489,0 -152.0234040005,60.3646811242,0 -152.02341083,60.3682922974,0 -152.0234176609,60.37190349710001,0 -152.0161248907,60.3719033384,0 -152.0088321788,60.3719031797,0 -152.008833302,60.3726798126,0 -152.0088373194,60.37551429480001,0 -152.0088422919,60.37912529670001,0 -152.0088472831,60.3827363058,0 -152.0088522849,60.3863479609,0 -152.0088572603,60.3899581569,0 -152.0088622547,60.3935691601,0 -152.0088658495,60.3961674552,0 -152.0088672507,60.39718015230001,0 -152.0088722461,60.4007911695,0 -152.0015731577,60.4007910445,0 -151.9942742849,60.40079083409999,0 -151.9869753515,60.4007906225,0 -151.9848209665,60.4007906011,0 -151.9796764666,60.4007904114,0 -151.9784491683,60.4007904034,0 -151.9723775937,60.40079020009999,0 -151.9650787151,60.40078997959999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>-151.9875896702,60.3791241862,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Info</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[Source File: KalginCHA.shp<br>Legend: Single Symbol<br>Label: LONGNAME<br><br><hr>ShapeFile to Google Earth<p><font color="blue"><b>Powered by Zonum Solutions</b><br> <i>www.zonums.com</i></font></p>]]></description>
+		<Style>
+			<BalloonStyle>
+				<text>$[description]</text>
+				<textColor>ff000000</textColor>
+				<displayMode>default</displayMode>
+			</BalloonStyle>
+		</Style>
+	</Folder>
+</Document>
+</kml>
