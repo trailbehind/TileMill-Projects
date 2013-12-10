@@ -1,4 +1,10 @@
 #georgiadnr {
+  line-color:orange;
+  line-width:0.5;
+  polygon-opacity:1;
+  polygon-fill:orange; }
+
+#georgiadnr
   [zoom > 8] {
   text-name:[Name];
   text-face-name: 'Helvetica Regular';
@@ -17,10 +23,7 @@
   [zoom = 16]{  
   text-size:30;}
   text-halo-fill: fadeout(white, 30%);
-  text-halo-radius: 2.5;}
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:0.10;
-  polygon-fill:#594;}
+  text-halo-radius: 2.5;
+  text-placement: interior;}
 
 
