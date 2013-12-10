@@ -1,7 +1,7 @@
 #tennesse {
   polygon-fill:orange;
    [zoom > 9] {
-  text-name:[NAME];
+  text-name:[Name];
   text-face-name: 'Helvetica Regular';
   [zoom = 10]{  
   text-size:10;}

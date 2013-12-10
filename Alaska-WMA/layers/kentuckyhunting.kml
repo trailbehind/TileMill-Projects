@@ -1,0 +1,9378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Kentucky Public Hunting Areas Entrance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Kentucky Public Hunting Areas Entrance</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.25</scale>
+			<Icon>
+				<href>bb5783ec-a656-4b71-b89d-847878234c0c.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Kentucky Public Hunting Areas Entrance</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Provides a single entrance point for each public hunting area.  Clicking on the name on the left or red star on the map, will provide a link to driving directions,  more info and a map.</description>
+		<Placemark id="ID_00000">
+			<name>Clear Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clear Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Clear Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.315425</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.67835</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9006">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9006</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>858</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.67834999955319,37.31542479895386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Coil Estate WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Coil Estate WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Coil Estate WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.911274</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.02354</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9125">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9125</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>795</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.02353972544725,36.91127411490631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>CONSOL of Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CONSOL of Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>CONSOL of Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.444701</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.85839</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9130">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9130</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4693</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.85839000026252,37.4447006991386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Corrigan WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Corrigan WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Corrigan WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.630162</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.85767</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9002">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9002</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>54838</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.85767049985965,36.63016199939683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Cranks Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cranks Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Cranks Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.756287</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.197165</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=150">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=150</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2155</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.19716509719228,36.7562869939795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.773094</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.601301</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=153</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1110</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.60130143267345,38.77309386546888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Dale Hollow Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dale Hollow Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dale Hollow Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.674469</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.339364</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=28">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=28</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>5630</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.33936419634982,36.67446899497072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Daniel Boone National Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Daniel Boone National Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Daniel Boone National Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.99381</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.213682</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9089">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9089</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>638529</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.21368210025904,37.99381009930022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Dennis-Gray WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dennis-Gray WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dennis-Gray WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.265858</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.150663</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=148">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=148</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>102</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.15066269958471,37.26585799891031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Dewey Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dewey Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dewey Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.701524</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.645697</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=26">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=26</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>9242</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.64569699972195,37.70152399902838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Dix River WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dix River WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dix River WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.492263</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.500999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9032">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9032</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>401</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.5009989996843,37.4922629994002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Doug Travis WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Doug Travis WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Doug Travis WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.801451</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.093285</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=40">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=40</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4132</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.09328500001548,36.80145099872389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Dr. James R. Rich WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dr. James R. Rich WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dr. James R. Rich WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.394462</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.728408</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=34">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=34</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1704</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.72840757983651,38.39446240677699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Dr. Norman and Martha Adair WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dr. Norman and Martha Adair WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Dr. Norman and Martha Adair WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.92097</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.7468</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=149">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=149</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>635</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.74679999968552,38.92096999920769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Ed Mabry - Laurel Gorge WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ed Mabry - Laurel Gorge WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Ed Mabry - Laurel Gorge WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.129004</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.189581</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9126">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9126</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>698</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.18958099991286,38.12900399882026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Elk Forest WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Elk Forest WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Elk Forest WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.981989</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.532352</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9124">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9124</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>16204</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.53235200014463,36.98198899921499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Fishtrap Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fishtrap Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Fishtrap Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.425806</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.413236</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=25">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=25</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>13134</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.41323574812397,37.42580561893951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Fleming WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fleming WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Fleming WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.43382</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.63287</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=154">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=154</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1907</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.6328700000463,38.43381999925642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Fort Campbell Military Reservation</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fort Campbell Military Reservation</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Fort Campbell Military Reservation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.58143</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.469257</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9076">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9076</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>36113</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.46925699968686,36.5814300987853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Fort Knox Military Reservation</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fort Knox Military Reservation</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Fort Knox Military Reservation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.887522</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.954447</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9077">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9077</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>108618</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.95444737023553,37.88752189943128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Grayson Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Grayson Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Grayson Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.242129</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.981764</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=225">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=225</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8025</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.98176399962023,38.24212899874506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Green River Lake State Park</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Green River Lake State Park</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Green River Lake State Park</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.276413</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.338784</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9099">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9099</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1045</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.33878399991949,37.27641289945914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Green River Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Green River Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Green River Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.292535</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.29981</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=29">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=29</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>21037</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.29981009960795,37.29253474888207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Green River State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Green River State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Green River State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.876084</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.476656</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9079">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9079</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1117</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.47665635840215,37.87608401403698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Greenbo Lake State Resort Park</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Greenbo Lake State Resort Park</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Greenbo Lake State Resort Park</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.481091</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.87405</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9100">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9100</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2596</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.87405000010065,38.48109139911204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Hensley-Pine Mountain WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hensley-Pine Mountain WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Hensley-Pine Mountain WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.016537</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.937314</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=136">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=136</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4849</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.93731402995803,37.01653696063844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Hidden Valley Training Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hidden Valley Training Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Hidden Valley Training Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.893847</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.977772</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9115">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9115</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>551</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.97777168031202,37.89384711914345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Higginson-Henry WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Higginson-Henry WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Higginson-Henry WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.627972</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.828611</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=132">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=132</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>5450</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.82861111111058,37.62797222109267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>ICG Hunting Access Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ICG Hunting Access Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>ICG Hunting Access Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.450569</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.022224</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=8104">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=8104</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>15024</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.02222422794658,37.45056927060139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Jefferson National Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jefferson National Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Jefferson National Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.086802</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.733195</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9078">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9078</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>857</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.73319509670441,37.08680151645315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Jenny Wiley State Resort Park</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jenny Wiley State Resort Park</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Jenny Wiley State Resort Park</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.700992</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.734813</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9101">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9101</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1415</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.73481318763734,37.70099175488151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>John A. Kleber WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John A. Kleber WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>John A. Kleber WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.358284</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.784628</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=14">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=14</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2349</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.78462800024613,38.35828399878464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>John C. Williams WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John C. Williams WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>John C. Williams WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.775749</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.684247</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=238">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=238</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>688</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.68424689701359,37.77574904197077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jones-Keeney WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jones-Keeney WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Jones-Keeney WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.149701</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.759917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=19">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=19</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1999</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.7599170003008,37.14970099899522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Kaler Bottoms WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kaler Bottoms WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kaler Bottoms WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.838217</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.527053</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=21">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=21</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1852</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.52705349969925,36.8382164992456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Kentenia State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kentenia State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kentenia State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.924434</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.226873</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9080">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9080</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4075</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.22687339966194,36.92443399939403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Kentucky Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kentucky Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kentucky Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.563293</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.157648</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=227">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=227</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4044</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.15764764198303,36.56329253048307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Kentucky Ridge Forest WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kentucky Ridge Forest WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kentucky Ridge Forest WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.772431</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.770776</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=186">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=186</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>3395</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.7707758995912,36.77243099929403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Kentucky Ridge State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kentucky Ridge State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kentucky Ridge State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.67648</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.852638</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=185">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=185</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>11406</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.85263799981293,36.67648009888126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Kentucky River WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kentucky River WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Kentucky River WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.409131</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.895132</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=169">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=169</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2620</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.89513179282669,38.40913078354882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Knobs State Forest and WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Knobs State Forest and WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Knobs State Forest and WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.890271</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.696096</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9121">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9121</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1537</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.69609649013162,37.89027131666116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>L. B. Davison WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>L. B. Davison WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>L. B. Davison WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.550278</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.7126</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=16">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=16</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>137</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.71260039281704,37.55027789903819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Lake Barkley State Resort Park</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lake Barkley State Resort Park</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Lake Barkley State Resort Park</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.835696</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.920017</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9102">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9102</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2186</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.92001716741079,36.8356959872794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Lake Barkley WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lake Barkley WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Lake Barkley WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.68742</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.90902</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=33">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=33</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>907</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.90901979989108,36.68741999941677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Lake Cumberland WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lake Cumberland WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Lake Cumberland WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.860469</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.079273</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=157">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=157</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>52936</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.07927299981489,36.86046899907311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Land Between the Lakes National Recreation Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Land Between the Lakes National Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Land Between the Lakes National Recreation Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.88675</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.087491</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9049">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9049</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>107594</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.08749137993479,36.88675033881039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Lee K. Nelson WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lee K. Nelson WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Lee K. Nelson WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.501497</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.686408</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9011">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9011</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>60</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.68640800029601,37.5014969993947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Livingston County WMA and State Natural Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Livingston County WMA and State Natural Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Livingston County WMA and State Natural Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.33616</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.41726</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9117">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9117</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1025</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.41726000013942,37.33615999921911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Marion County WMA and State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Marion County WMA and State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Marion County WMA and State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.54809</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.120934</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9133">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9133</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1293</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.12093424899405,37.54809025639435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Marrowbone State Forest and WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Marrowbone State Forest and WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Marrowbone State Forest and WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.847864</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.607899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9131">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9131</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1983</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.60789925879175,36.84786429705445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Martins Fork Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Martins Fork Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Martins Fork Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.736314</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.25882</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=41">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=41</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>829</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.25882018003686,36.73631370849785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Martins Fork WMA and State Natural Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Martins Fork WMA and State Natural Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Martins Fork WMA and State Natural Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.700422</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.4013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9118">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9118</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1599</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.40129997957746,36.70042205691322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Mill Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mill Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Mill Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.423964</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.063752</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=37">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=37</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>13009</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.0637515996177,37.42396399877789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Miller Welch-Central Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.634485</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.200662</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=15">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=15</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1847</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.20066219989558,37.63448449925672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Mud Camp Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mud Camp Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Mud Camp Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.771025</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.512308</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=146">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=146</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>572</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.51230829963077,36.77102491914152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Mullins WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mullins WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Mullins WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.813601</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.608206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=12">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=12</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>259</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.60820640024642,38.81360119909972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Nolin River Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Nolin River Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Nolin River Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.381111</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.072058</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=31">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=31</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6456</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.0720580802292,37.38111082841643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Obion Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Obion Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Obion Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.63167</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.126476</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=176">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=176</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>4258</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.12647599986512,36.63166999938465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Ohio River Islands National Wildlife Refuge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ohio River Islands National Wildlife Refuge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Ohio River Islands National Wildlife Refuge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.674786</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.44977</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9082">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9082</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>580</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.44977000025798,38.67478599920516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Ohio River Islands WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ohio River Islands WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Ohio River Islands WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.220156</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.45158</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=134">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=134</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1264</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.45158030031794,37.22015564904628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Otter Creek Outdoor Recreation Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Otter Creek Outdoor Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Otter Creek Outdoor Recreation Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.924681</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.03811</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9199">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9199</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2221</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.03810956837253,37.92468052169336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Paintsville Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Paintsville Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Paintsville Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.900302</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.963622</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=24">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=24</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>11221</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.96362181685832,37.90030231004136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Paul Van Booven WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Paul Van Booven WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Paul Van Booven WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.44711</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.20383</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9105">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9105</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2293</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.20382999971478,37.44710999910422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Peabody WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Peabody WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Peabody WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.27995</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.903439</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=229">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=229</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>46557</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.90343870085184,37.27995005030872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Pennyrile State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pennyrile State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Pennyrile State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.057841</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.653685</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9060">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9060</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>14724</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.65368499985917,37.05784084891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Pioneer Weapons WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pioneer Weapons WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Pioneer Weapons WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.043821</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.571955</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=36">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=36</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>7731</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.57195451129517,38.04382057540168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>R. F. Tarter WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>R. F. Tarter WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>R. F. Tarter WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.16426</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.071331</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=171">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=171</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1171</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.07133059990345,37.1642598987176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Redbird WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Redbird WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Redbird WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.103088</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.534064</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=35">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=35</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>24014</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.53406386164242,37.10308776409267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Reelfoot National Wildlife Refuge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Reelfoot National Wildlife Refuge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Reelfoot National Wildlife Refuge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.522833</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.3204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9074">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9074</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2043</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.32039999969631,36.52283297895563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>Robinson Forest WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Robinson Forest WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Robinson Forest WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.450232</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.195407</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9120">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9120</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>12304</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.19540722582117,37.45023245524468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>Rough River Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rough River Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Rough River Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.636048</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.436231</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=30">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=30</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6742</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.43623099984117,37.63604799891157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>Shillalah Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Shillalah Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Shillalah Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.69806</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.446963</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=170">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=170</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2535</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.44696309992514,36.69806039873706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>Sloughs WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sloughs WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Sloughs WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.860879</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.779305</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=230">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=230</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>10998</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.77930500034986,37.86087939900096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>South Shore WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>South Shore WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>South Shore WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.734179</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.935991</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9067">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9067</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>98</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.93599083481659,38.73417905796803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>Stone Mountain WMA and State Natural Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Stone Mountain WMA and State Natural Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Stone Mountain WMA and State Natural Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.761373</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.13831</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9014">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9014</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1017</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.13831001991205,36.76137336905011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>T. N. Sullivan WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>T. N. Sullivan WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>T. N. Sullivan WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.280159</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.830779</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=156">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=156</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>146</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.83077884044201,38.28015929927935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>Taylorsville Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Taylorsville Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Taylorsville Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.01552</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.225721</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=22">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=22</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>9418</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.22572101821895,38.01551989450996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>Tradewater WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tradewater WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Tradewater WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.14695</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-87.671372</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=128">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=128</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>729</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.67137156013338,37.14695019911807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>Twin Eagle WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Twin Eagle WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Twin Eagle WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.57483</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-85.03283</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=13">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=13</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>170</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.0328300003189,38.57482999931883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>Twin Knobs Campground</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Twin Knobs Campground</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Twin Knobs Campground</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.095902</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.491178</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9116">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9116</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>686</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.49117821144488,38.09590184411241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>Tygarts State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tygarts State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Tygarts State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.386071</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.156512</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9085">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9085</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>940</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.15651243030439,38.38607112897138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>West Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>West Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>West Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.133237</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.813932</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=137">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=137</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6560</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.81393245032798,37.13323742054492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>Winford WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Winford WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Winford WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.927218</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.060089</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=20">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=20</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>258</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.06008918708399,36.92721779925795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>Yatesville Lake State Park and Lawrence County Recreation Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Yatesville Lake State Park and Lawrence County Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Yatesville Lake State Park and Lawrence County Recreation Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.096384</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.682237</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9093">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9093</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2898</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.68223664621759,38.09638367679338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>Yatesville Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Yatesville Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Yatesville Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.108056</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.746113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=23">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=23</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>13191</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.74611340012204,38.1080557989816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>Yellowbank WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Yellowbank WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Yellowbank WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.026535</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.509461</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=192">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=192</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6775</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.50946053452921,38.02653487433411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>Zilpo Campground</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Zilpo Campground</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Zilpo Campground</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.0748</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.497209</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9094">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9094</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>221</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.49720924410181,38.07479964773489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>Asher Hunting Access Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Asher Hunting Access Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Asher Hunting Access Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.896713</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.577169</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=8100">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=8100</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8198</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.57716884376362,36.89671304959686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>Ashland WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ashland WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Ashland WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.66199</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.69402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9001">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9001</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2506</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.69401999975356,37.66198999896705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>Ballard WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ballard WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Ballard WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.182119</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.02707</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=224">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=224</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8015</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.02707019954869,37.18211939933354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name>Barren River Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Barren River Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Barren River Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.87774</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-86.055587</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=129">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=129</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8790</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.05558720026893,36.8777396988783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name>Beaver Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Beaver Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Beaver Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.888891</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.494027</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=39">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=39</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>17753</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.49402719982035,36.88889099916033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00092">
+			<name>Beechy Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Beechy Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Beechy Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.557722</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.132602</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=228">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=228</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>119</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.13260200011987,36.55772199918971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00093">
+			<name>Big South Fork National River and Recreation Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Big South Fork National River and Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Big South Fork National River and Recreation Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.69702</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.480036</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9022">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9022</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>30301</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.48003635737803,36.69701994745896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00094">
+			<name>Blue Grass Army Depot</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Blue Grass Army Depot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Blue Grass Army Depot</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.694981</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.181028</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9088">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9088</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>14517</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.18102760362312,37.69498141138971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00095">
+			<name>Boatwright WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Boatwright WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Boatwright WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.00954</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-89.121831</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=222">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=222</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8389</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-89.12183079135771,37.00954028108948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00096">
+			<name>Boone Forestlands WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Boone Forestlands WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Boone Forestlands WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.88175</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.4971</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9003">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9003</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>30038</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.49709993960322,36.88175009908142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00097">
+			<name>Buck Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Buck Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Buck Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.10693</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.409718</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9132">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9132</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>850</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.40971762635951,37.10692999818684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00098">
+			<name>Buckhorn Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Buckhorn Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Buckhorn Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.341306</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.469908</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=27">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=27</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>3571</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.46990800024373,37.34130549920877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00099">
+			<name>Burchell-Beech Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Burchell-Beech Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Burchell-Beech Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.16866</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.708117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=18">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=18</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1241</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.70811703755605,37.1686603954574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00100">
+			<name>Cane Creek WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cane Creek WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Cane Creek WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.997515</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.284757</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=38">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=38</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6691</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.28475740602782,36.99751544330221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00101">
+			<name>Carr Creek Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Carr Creek Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Carr Creek Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.243041</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-82.94668</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=131">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=131</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2880</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-82.94668038681576,37.24304083690395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00102">
+			<name>Cedar Creek Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cedar Creek Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Cedar Creek Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.456357</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.549905</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9004">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9004</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>798</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.54990475225658,37.45635684732384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00103">
+			<name>Clarks River National Wildlife Refuge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clarks River National Wildlife Refuge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Clarks River National Wildlife Refuge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.87952</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.344398</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9075">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9075</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>8265</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.34439799954248,36.87951999882533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00104">
+			<name>Clay WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clay WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Clay WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.341079</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.919534</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=155">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=155</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>6886</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.91953400011359,38.34107889930986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00105">
+			<name>Griffith Woods WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Griffith Woods WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Griffith Woods WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.334484</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.354386</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9201">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9201</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>746</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.35479855302542,38.33456622449365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00106">
+			<name>Veterans Memorial WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Veterans Memorial WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Veterans Memorial WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>38.303801</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-84.556954</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9202">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9202</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2497</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.55695379493179,38.30380085879378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00107">
+			<name>Big Rivers WMA and State Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Big Rivers WMA and State Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Big Rivers WMA and State Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.545433</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-88.028648</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9203">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9203</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>2488</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.02864824753927,37.54543251527082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name>Fortner-Davis WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fortner-Davis WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Fortner-Davis WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>36.696963</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.700395</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9204">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9204</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>1383</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.70039506892397,36.69696292790481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00109">
+			<name>Wells Hunting Access Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wells Hunting Access Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>AREANAME</td>
+
+<td>Wells Hunting Access Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EntryLat</td>
+
+<td>37.206006</td>
+
+</tr>
+
+<tr>
+
+<td>EntryLon</td>
+
+<td>-83.042152</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>More_Info</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9206">http://fw.ky.gov/kfwis/arcims/wma.asp?strId=9206</a></td>
+
+</tr>
+
+<tr>
+
+<td>Acres</td>
+
+<td>5038</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.0421516509122,37.20600641988192,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

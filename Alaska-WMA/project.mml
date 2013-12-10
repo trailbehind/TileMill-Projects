@@ -17,9 +17,9 @@
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
     "style.mss",
-    "arkansas",
+    "georgia",
     "tennessee",
-    "georgia"
+    "kentucky"
   ],
   "Layer": [
     {
@@ -690,15 +690,18 @@
     {
       "geometry": "polygon",
       "extent": [
-        -90.16707128980362,
-        34.9158687517751,
-        -81.65279277648271,
-        36.61758804653883
+        -90.17646824450127,
+        34.98809588743784,
+        -81.65339323021085,
+        36.6781591184849
       ],
       "id": "tennesse",
       "class": "",
       "Datasource": {
-        "file": "/Users/Savannah/Documents/MapBox/project/Tennessee-WMA/layers/tnwmas/TWRA_HuntableLands_Dec2012.shp"
+        "file": "layers/tennesse/tnwmas.kml",
+        "id": "tennesse",
+        "project": "Alaska-WMA",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
@@ -722,6 +725,27 @@
       "srs": "",
       "advanced": {},
       "name": "georgia"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -89.3203999996963,
+        36.52283297895563,
+        -82.41323574812397,
+        38.92096999920769
+      ],
+      "id": "kentucky",
+      "class": "",
+      "Datasource": {
+        "file": "layers/kentuckyhunting.kml",
+        "id": "kentucky",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "kentucky"
     }
   ],
   "scale": 1,
