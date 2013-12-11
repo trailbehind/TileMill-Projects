@@ -19,7 +19,8 @@
     "style.mss",
     "georgia",
     "kentucky",
-    "tennessee"
+    "tennessee",
+    "maine"
   ],
   "Layer": [
     {
@@ -764,6 +765,90 @@
       "srs": "",
       "advanced": {},
       "name": "kentuckyshootingranges"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        1.449105650551065,
+        1.1504169046579116,
+        7.113192796313495,
+        7.695148726875893
+      ],
+      "id": "michigan",
+      "class": "",
+      "Datasource": {
+        "file": "layers/michigan/wildlife_mgmt_units.shp",
+        "id": "michigan",
+        "project": "Alaska-WMA",
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
+      },
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "advanced": {},
+      "name": "michigan"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -70.94191043055758,
+        43.183936703821956,
+        -66.89985345523785,
+        47.084277547229284
+      ],
+      "id": "maine",
+      "class": "",
+      "Datasource": {
+        "file": "layers/Maine/wma_boundaries.shp",
+        "id": "maine",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "maine"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -96.77407950005183,
+        43.437522727906476,
+        -89.84758856560332,
+        49.238680454834835
+      ],
+      "id": "minnesota",
+      "class": "",
+      "Datasource": {
+        "file": "layers/mndnrdata/state/mn/bdry_adwma2py3.shp",
+        "id": "minnesota",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "minnesota"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -115.46756576049829,
+        44.696401967060076,
+        -104.07268121830394,
+        49.01482662898999
+      ],
+      "id": "montana",
+      "class": "",
+      "Datasource": {
+        "file": "layers/Montana/wma.shp",
+        "id": "montana",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "montana"
     }
   ],
   "scale": 1,

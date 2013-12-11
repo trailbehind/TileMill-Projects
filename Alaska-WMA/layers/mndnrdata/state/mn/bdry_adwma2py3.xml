@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+
+
+<metadata>
+
+
+  <idinfo>
+
+    <citation>
+      <citeinfo>
+        <origin>Minnesota DNR - Division of Fish &amp; Wildlife</origin>
+        <pubdate>2006-02-14 00:00:00.0</pubdate>
+        <title>State Wildlife Management Area Boundaries - Publicly Accessible</title>
+        <mgmg1cid></mgmg1cid>
+          <pubinfo>
+            <publish>Minnesota DNR - Division of Fish &amp; Wildlife</publish>
+          </pubinfo>
+        <onlink>http://deli.dnr.state.mn.us</onlink>
+      </citeinfo>
+    </citation>
+
+    <descript>
+      <abstract>This polygon theme contains boundaries for approximately 1392 Wildlife Management Areas (WMAs) across the state covering nearly 1,288,000 acres. WMAs are part of the Minnesota state recreation system created to protect wildlife habitat and provide wildlife-based recreation. </abstract>
+      <purpose>There are two primary purposes for the WMA boundary layer. Area staff will use it for managing WMAs; local mapping, contracting for maintenance and development projects, visitor use maps, management use maps, project planning and acquisition planning. The layer will also be used for public information about access to and activities on WMAs. WMA boundaries are included on the DNR web site, with visitor use information.  These boundaries are for general reference. While they can be used in a GPS, they are not accurate enough to legally locate boundary lines. Avoid trespass onto private lands by observing posted boundary signs, or contacting the local Area Wildlife office for detailed information.  http://files.dnr.state.mn.us/contact/wildlife_managers.pdf</purpose>
+      <supplinf>Statewide</supplinf>
+    </descript>
+
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>Feb 2006</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>New acquisitions will be continually added to the database. Descriptive attribute updates will be constantly ongoing.</current>
+    </timeperd>
+
+    <status>
+      <progress>In Work</progress>
+      <update>As Needed</update>
+    </status>
+    
+    <spdom>
+      <bounding>
+        <westbc>-96.5</westbc>
+        <eastbc>-89</eastbc>
+        <northbc>49.5</northbc>
+        <southbc>43</southbc>
+      </bounding>
+    </spdom>
+
+    <keywords>
+      <theme>
+        <themekey>Boundaries of Wildlife Management Areas, boundaries</themekey>
+      </theme>
+      <place>
+        <placekey>Wildlife Management Areas, WMA, WMAs, Wildlife Lands, State Lands</placekey>
+      </place>
+    </keywords>
+
+    <accconst>No special restrictions beyond those described in the Minnesota Department of Natural Resources General Geographic Data License Agreement</accconst>
+    <useconst>These boundaries are for general reference.  While they can be used in a GPS, they are not accurate enough to legally locate boundary lines.  Avoid tresspass onto private lands by observing posted boundary signs, or contacting the local Area Wildlife office for detailed information.</useconst>
+    
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Steve Benson</cntper>
+          <cntorg>DNR - Fish and Wildlife</cntorg>
+        </cntperp>
+        <cntpos>GIS Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>1201 East Hwy 2</address>
+          <city>Grand Rapids</city>
+          <state>MN</state>
+          <postal>55744</postal>
+        </cntaddr>
+        <cntvoice>(218) 327-4149</cntvoice>
+        <cntfax>(218) 327-4263</cntfax>
+        <cntemail>steve.benson@state.mn.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+
+    <browse>
+      <browsen>http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=39000467&amp;ptid=2&amp;fcid=1&amp;lname=State Wildlife Management Area Boundaries - Publicly Accessible</browsen>
+      <browsed></browsed>
+    </browse>
+
+    <native>ArcView Shapefile</native>
+    
+    <crossref>
+      <citeinfo>
+        <title></title>
+      </citeinfo>
+    </crossref>
+
+  </idinfo>
+
+
+  <dataqual>
+
+    <attracc>
+      <attraccr>Source table BDRY_ADWMAPY3.DBF:  The names of WMAs have been identified accurately.  Other attributes have varying levels of accuracy.
+</attraccr>
+    </attracc>
+
+    <logic>Data are topologically correct using ArcView 3.x. All polygons are closed and lines intersect where intended.</logic>
+    <complete>Except for unmapped new acquisitions, boundaries are complete statewide.  </complete>
+    
+    <posacc>
+      <horizpa>
+        <horizpar></horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr></vertaccr>
+      </vertacc>
+    </posacc>
+     
+    <lineage>
+      <srcinfo>
+        <srcscale>Source layer bdry_adwma2py3:  12000
+</srcscale>
+      </srcinfo>
+      <procstep>
+        <procdesc>Attribute Lineage for source table BDRY_ADWMAPY3.DBF:  See &quot;Wildlife Management Area/Geographic Information System Project Standards Version 1.3&quot;
+</procdesc>
+      </procstep>
+    </lineage>
+
+  </dataqual>
+
+
+  <spdoinfo>
+
+    <indspref>Wildlife Management Unit</indspref>
+    <direct>vector</direct>
+    <mgmg3obj>polygon</mgmg3obj>
+    <mgmg3til>state</mgmg3til>
+
+  </spdoinfo>
+
+
+  <spref>
+
+    <horizsys>
+      <geograph>
+        <latres></latres>
+        <longres></longres>
+      </geograph>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <mgmg4par>Not Applicable</mgmg4par>
+          <otherprj>Not Applicable</otherprj>
+        </mapproj>
+        <gridsys>
+          <gridsysn>UTM</gridsysn>
+          <utm>
+            <utmzone>15</utmzone>
+          </utm>
+          <spcs>
+            <spcszone></spcszone>
+          </spcs>
+          <mgmg4coz></mgmg4coz>
+          <mgmg4adj>Not Applicable</mgmg4adj>
+        </gridsys>
+        <planci>
+          <coordrep>
+            <absres></absres>
+            <ordres></ordres>
+          </coordrep>
+          <distbrep>
+            <distres></distres>
+          </distbrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>NAD83</horizdn>
+        <ellips>GRS1980</ellips>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Not Applicable</altdatum>
+        <altunits>Not Applicable</altunits>
+      </altsys>
+      <depthsys>
+        <depthdn>Not Applicable</depthdn>
+        <depthdu>Not Applicable</depthdu>
+      </depthsys>
+    </vertdef>
+
+  </spref>
+
+
+  <eainfo>
+
+  <detailed><enttyp><enttypl>BDRY_ADWMAPY3.DBF</enttypl><enttypd>Shapefile Attribute Table</enttypd></enttyp><attr><attrlabl>COUNTY</attrlabl><attrdef>Two digit county code</attrdef><attrdomv><edom><edomv>1</edomv><edomvd>Aitkin</edomvd></edom><edom><edomv>2</edomv><edomvd>Anoka</edomvd></edom><edom><edomv>3</edomv><edomvd>Becker</edomvd></edom><edom><edomv>4</edomv><edomvd>Beltrami</edomvd></edom><edom><edomv>5</edomv><edomvd>Benton</edomvd></edom><edom><edomv>6</edomv><edomvd>Big Stone</edomvd></edom><edom><edomv>7</edomv><edomvd>Blue Earth</edomvd></edom><edom><edomv>8</edomv><edomvd>Brown</edomvd></edom><edom><edomv>9</edomv><edomvd>Carlton</edomvd></edom><edom><edomv>10</edomv><edomvd>Carver</edomvd></edom><edom><edomv>11</edomv><edomvd>Cass</edomvd></edom><edom><edomv>12</edomv><edomvd>Chippewa</edomvd></edom><edom><edomv>13</edomv><edomvd>Chisago</edomvd></edom><edom><edomv>14</edomv><edomvd>Clay</edomvd></edom><edom><edomv>15</edomv><edomvd>Clearwater</edomvd></edom><edom><edomv>16</edomv><edomvd>Cook</edomvd></edom><edom><edomv>17</edomv><edomvd>Cottonwood</edomvd></edom><edom><edomv>18</edomv><edomvd>Crow Wing</edomvd></edom><edom><edomv>19</edomv><edomvd>Dakota</edomvd></edom><edom><edomv>20</edomv><edomvd>Dodge</edomvd></edom><edom><edomv>21</edomv><edomvd>Douglas</edomvd></edom><edom><edomv>22</edomv><edomvd>Faribault</edomvd></edom><edom><edomv>23</edomv><edomvd>Fillmore</edomvd></edom><edom><edomv>24</edomv><edomvd>Freeborn</edomvd></edom><edom><edomv>25</edomv><edomvd>Goodhue</edomvd></edom><edom><edomv>26</edomv><edomvd>Grant</edomvd></edom><edom><edomv>27</edomv><edomvd>Hennepin</edomvd></edom><edom><edomv>28</edomv><edomvd>Houston</edomvd></edom><edom><edomv>29</edomv><edomvd>Hubbard</edomvd></edom><edom><edomv>30</edomv><edomvd>Isanti</edomvd></edom><edom><edomv>31</edomv><edomvd>Itasca</edomvd></edom><edom><edomv>32</edomv><edomvd>Jackson</edomvd></edom><edom><edomv>33</edomv><edomvd>Kanabec</edomvd></edom><edom><edomv>34</edomv><edomvd>Kandiyohi</edomvd></edom><edom><edomv>35</edomv><edomvd>Kittson</edomvd></edom><edom><edomv>36</edomv><edomvd>Koochiching</edomvd></edom><edom><edomv>37</edomv><edomvd>Lac Qui Parle</edomvd></edom><edom><edomv>38</edomv><edomvd>Lake</edomvd></edom><edom><edomv>39</edomv><edomvd>Lake of the Woods</edomvd></edom><edom><edomv>40</edomv><edomvd>Le Sueur</edomvd></edom><edom><edomv>41</edomv><edomvd>Lincoln</edomvd></edom><edom><edomv>42</edomv><edomvd>Lyon</edomvd></edom><edom><edomv>43</edomv><edomvd>McLeod</edomvd></edom><edom><edomv>44</edomv><edomvd>Mahnomen</edomvd></edom><edom><edomv>45</edomv><edomvd>Marshall</edomvd></edom><edom><edomv>46</edomv><edomvd>Martin</edomvd></edom><edom><edomv>47</edomv><edomvd>Meeker</edomvd></edom><edom><edomv>48</edomv><edomvd>Mille Lacs</edomvd></edom><edom><edomv>49</edomv><edomvd>Morrison</edomvd></edom><edom><edomv>50</edomv><edomvd>Mower</edomvd></edom><edom><edomv>51</edomv><edomvd>Murray</edomvd></edom><edom><edomv>52</edomv><edomvd>Nicollet</edomvd></edom><edom><edomv>53</edomv><edomvd>Nobles</edomvd></edom><edom><edomv>54</edomv><edomvd>Norman</edomvd></edom><edom><edomv>55</edomv><edomvd>Olmsted</edomvd></edom><edom><edomv>56</edomv><edomvd>Otter Tail</edomvd></edom><edom><edomv>57</edomv><edomvd>Pennington</edomvd></edom><edom><edomv>58</edomv><edomvd>Pine</edomvd></edom><edom><edomv>59</edomv><edomvd>Pipestone</edomvd></edom><edom><edomv>60</edomv><edomvd>Polk</edomvd></edom><edom><edomv>61</edomv><edomvd>Pope</edomvd></edom><edom><edomv>62</edomv><edomvd>Ramsey</edomvd></edom><edom><edomv>63</edomv><edomvd>Red Lake</edomvd></edom><edom><edomv>64</edomv><edomvd>Redwood</edomvd></edom><edom><edomv>65</edomv><edomvd>Renville</edomvd></edom><edom><edomv>66</edomv><edomvd>Rice</edomvd></edom><edom><edomv>67</edomv><edomvd>Rock</edomvd></edom><edom><edomv>68</edomv><edomvd>Roseau</edomvd></edom><edom><edomv>69</edomv><edomvd>St. Louis</edomvd></edom><edom><edomv>70</edomv><edomvd>Scott</edomvd></edom><edom><edomv>71</edomv><edomvd>Sherburne</edomvd></edom><edom><edomv>72</edomv><edomvd>Sibley</edomvd></edom><edom><edomv>73</edomv><edomvd>Stearns</edomvd></edom><edom><edomv>74</edomv><edomvd>Steele</edomvd></edom><edom><edomv>75</edomv><edomvd>Stevens</edomvd></edom><edom><edomv>76</edomv><edomvd>Swift</edomvd></edom><edom><edomv>77</edomv><edomvd>Todd</edomvd></edom><edom><edomv>78</edomv><edomvd>Traverse</edomvd></edom><edom><edomv>79</edomv><edomvd>Wabasha</edomvd></edom><edom><edomv>80</edomv><edomvd>Wadena</edomvd></edom><edom><edomv>81</edomv><edomvd>Waseca</edomvd></edom><edom><edomv>82</edomv><edomvd>Washington</edomvd></edom><edom><edomv>83</edomv><edomvd>Watonwan</edomvd></edom><edom><edomv>84</edomv><edomvd>Wilkin</edomvd></edom><edom><edomv>85</edomv><edomvd>Winona</edomvd></edom><edom><edomv>86</edomv><edomvd>Wright</edomvd></edom><edom><edomv>87</edomv><edomvd>Yellow Medicine</edomvd></edom><edom><edomv>0 or null</edomv><edomvd>&quot;doughnut hole&quot; polygon (not in a native plant community)</edomvd></edom></attrdomv></attr><attr><attrlabl>Pgm_prj</attrlabl><attrdef>Management Unit ID number</attrdef></attr><attr><attrlabl>Areaname</attrlabl><attrdef>Area Office Name</attrdef></attr><attr><attrlabl>Id</attrlabl><attrdef>Unique polygon ID number</attrdef></attr><attr><attrlabl>Unitname</attrlabl><attrdef>WMA name</attrdef></attr><attr><attrlabl>Subunit</attrlabl><attrdef>WMA sub-unit name</attrdef></attr><attr><attrlabl>ACRES</attrlabl><attrdef>Area of polygon in acres</attrdef></attr><attr><attrlabl>SOURCE</attrlabl><attrdef>Primary digitizing source</attrdef></attr><attr><attrlabl>DATE_INV</attrlabl><attrdef>Date inventoried</attrdef></attr><attr><attrlabl>DIRECTIONS</attrlabl><attrdef>Directions to &quot;main&quot; access</attrdef></attr><attr><attrlabl>NEAREST_TO</attrlabl><attrdef>City nearest to WMA</attrdef></attr><attr><attrlabl>RESTRICT</attrlabl><attrdef>Any special restrictions</attrdef></attr><attr><attrlabl>DEER</attrlabl><attrdef>Hunting opportunities for deer.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>BEAR</attrlabl><attrdef>Hunting opportunities for bear.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>MOOSE</attrlabl><attrdef>Hunting opportunities for moose.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>SMGAME</attrlabl><attrdef>Hunting opportunities for small game.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>FSTBIRDS</attrlabl><attrdef>Hunting opportunities for forest upland birds.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>SHARPTAILS</attrlabl><attrdef>Hunting opportunities for Sharptail grouse.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>PHEASANTS</attrlabl><attrdef>Hunting opportunities for pheasants/partridge.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>WATERFOWL</attrlabl><attrdef>Hunting opportunities for waterfowl.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>TURKEY</attrlabl><attrdef>Hunting opportunities for turkey.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>WETNONGAME</attrlabl><attrdef>Viewing opportunities for wetland non game.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>FORNONGAME</attrlabl><attrdef>Viewing opportunities for forest non game.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>PRANONGAME</attrlabl><attrdef>Viewing opportunities for prairie non game.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>SPECOPPS</attrlabl><attrdef>Special recreational opportunities</attrdef></attr><attr><attrlabl>HANDICAP</attrlabl><attrdef>Handicap opportunities</attrdef><attrdomv></attrdomv></attr><attr><attrlabl>HEADER</attrlabl><attrdef>Description of WMA</attrdef></attr><attr><attrlabl>COMMENTS</attrlabl><attrdef>Special comments from manager</attrdef></attr><attr><attrlabl>WEBREADY</attrlabl><attrdef>Ready for detailed web application.</attrdef><attrdomv><edom><edomv>N</edomv><edomvd>No</edomvd></edom><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom></attrdomv></attr><attr><attrlabl>PHOTO</attrlabl><attrdef>Photo exists for web application.</attrdef></attr><attr><attrlabl>FORMAT</attrlabl><attrdef>Panoramic photo format</attrdef><attrdomv><edom><edomv>L</edomv><edomvd>Landscape photo format</edomvd></edom><edom><edomv>P</edomv><edomvd>Portrait Photo Format</edomvd></edom></attrdomv></attr><attr><attrlabl>SUBUNITNUM</attrlabl><attrdef>Subunit number</attrdef></attr><attr><attrlabl>UNIQUEID</attrlabl><attrdef>Prm_prj + SubUnitNum.AsString</attrdef></attr><attr><attrlabl>ACCESSIBLE</attrlabl><attrdef>Indicates if a WMA has an accessible facility on it. For example, if a wheelchair accessible hunting blind exists on a WMA it would have a ?Y? in this field.</attrdef><attrdomv><edom><edomv>Y</edomv><edomvd>Yes</edomvd></edom><edom><edomv>N</edomv><edomvd>No</edomvd></edom></attrdomv></attr></detailed>
+
+    <overview>
+      <eaover></eaover>
+      <eadetcit></eadetcit>
+    </overview>
+
+  </eainfo>
+
+
+  <distinfo>
+
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Hal Watson</cntper>
+          <cntorg>DNR-MIS</cntorg>
+        </cntperp>
+        <cntpos>GIS Database Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>500 Lafayette Road, Box 11</address>
+          <city>St. Paul</city>
+          <state>MN</state>
+          <postal>55155-4011</postal>
+        </cntaddr>
+        <cntvoice>(651) 259-5508</cntvoice>
+        <cntfax>(651) 297-4946</cntfax>
+        <cntemail>hal.watson@state.mn.us</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>bdry_adwma2py3</resdesc>
+    <distliab>The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data &apos;as is&apos;, and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user&apos;s reliance on this data.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>ArcView Shapefile</formname>
+          <formvern>3.x</formvern>
+          <transize>1024</transize>
+        </digtinfo>
+      </digform>
+      <ordering>See Online Linkage or Distribution Contact</ordering>
+    </stdorder>
+
+  </distinfo>
+
+
+  <metainfo>
+
+    <metd>2010-05-06 08:45:44.0</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Steve Benson</cntper>
+          <cntorg>DNR - Fish and Wildlife</cntorg>
+        </cntperp>
+        <cntpos>GIS Coordinator</cntpos>
+        <cntaddr>
+	  <addrtype>Mailing and Physical</addrtype>
+          <address>1201 East Hwy 2</address>
+          <city>Grand Rapids</city>
+          <state>MN</state>
+          <postal>55744</postal>
+        </cntaddr>
+        <cntvoice>(218) 327-4149</cntvoice>
+        <cntfax>(218) 327-4263</cntfax>
+        <cntemail>steve.benson@state.mn.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Minnesota Geographic Metadata Guidelines</metstdn>
+    <metstdv>1.2</metstdv>
+    <metextns>
+      <onlink>http://www.gis.state.mn.us/stds/metadata.htm</onlink>
+    </metextns>
+
+  </metainfo>
+
+</metadata>
+

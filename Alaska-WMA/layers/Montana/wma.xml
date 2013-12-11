@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Montana Fish, Wildlife &amp; Parks</origin>
+<pubdate>20130918</pubdate>
+<title>Montana Fish, Wildlife &amp; Parks (FWP) Wildlife Management Areas - Polygons</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Helena, MT</pubplace>
+<publish>Montana Fish, Wildlife &amp; Parks</publish>
+</pubinfo>
+<onlink>http://fwp.mt.gov/gisData/shapefiles/wmaPolys.zip</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Montana's wildlife management areas owned and/or managed by Montana Fish, Wildlife &amp; Parks (FWP).  Lands managed by FWP do not necessarily imply public access.</abstract>
+<purpose>Display and/or analysis of Montana's wildlife management areas.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20130918</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-115.887671</westbc>
+<eastbc>
+-103.889025</eastbc>
+<northbc>
+49.138453</northbc>
+<southbc>
+44.485320</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+<themekey>location</themekey>
+<themekey>planningCadastre</themekey>
+</theme>
+<theme>
+<themekt>none</themekt>
+<themekey>lands</themekey>
+<themekey>wildlife management areas</themekey>
+<themekey>habitat</themekey>
+<themekey>recreation</themekey>
+</theme>
+<place>
+<placekey>Montana</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>Digitized at 1:24,000.
+
+Many of the lands managed by Montana Fish, Wildlife &amp; Parks (FWP) are held under conservation easement, lease, or agreement with private land owners and may be managed for the benefit of Montana's wildlife or other natural or cultural resources.   Therefore, users of this data should not infer that lands managed by FWP imply public access.  For details about public access on FWP's managed lands please contact the appropriate FWP regional office.  Regional office contact information can be found at http://fwp.mt.gov/insidefwp/department/hqregions.html.
+
+Users must assume responsibility to determine the usability of this data for their purposes.  This data set is provided "as is" without warranty of any kind. FWP makes no representations or warranties whatsoever with respect to the accuracy or completeness of this data set and assumes no responsibility for the suitability of this data set for a particular purpose.  FWP will not be liable for any damages incurred as a result of errors in this data set.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Montana Fish, Wildlife &amp; Parks</cntorg>
+<cntper>Lydia Bailey</cntper>
+</cntorgp>
+<cntpos>GIS Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1420 East 6th Ave</address>
+<city>Helena</city>
+<state>MT</state>
+<postal>59620-0701</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>406-444-5365</cntvoice>
+<cntemail>lbailey@mt.gov</cntemail>
+<hours>8 a.m. - 5 p.m. Mon - Fri (Mountain Time)</hours>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Data are continually quality checked by FWP staff and reflect values as of the publication date.</attraccr>
+</attracc>
+<complete>Data set is as complete as possible given land transactions are continuous.</complete>
+<posacc>
+<horizpa>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Montana Fish, Wildlife &amp; Parks</origin>
+<pubdate>20130918</pubdate>
+<title>Montana Fish, Wildlife &amp; Parks (FWP) Managed Lands - Polygons</title>
+<pubinfo>
+<pubplace>Helena, MT</pubplace>
+<publish>Montana Fish, Wildlife &amp; Parks</publish>
+</pubinfo>
+<onlink>http://fwp.mt.gov/gisData/shapefiles/fwpLandsPolys.zip</onlink>
+</citeinfo>
+</srccite>
+<srcscale>24000</srcscale>
+<srctime>
+<timeinfo>
+<sngdate>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+</srcinfo>
+<procstep>
+<procdesc>Selected WMAs that are publicly accessible and exported to a separate feature class.</procdesc>
+<procdate>20130918</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone>2500</spcszone>
+<lambertc>
+<stdparll>45.000000</stdparll>
+<stdparll>49.000000</stdparll>
+<longcm>-109.500000</longcm>
+<latprjo>44.250000</latprjo>
+<feast>600000.000000</feast>
+<fnorth>0.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000429</absres>
+<ordres>0.000429</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altres>0.000010</altres>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+wmaPolys</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SITEID</attrlabl>
+<attrdef>Unique ID associated with the site. SITEID is assigned by the FWP Lands Bureau and can be used to relate to additional site information in the Lands Bureau's tabular database.  Note that a site may be comprised of many parcels.</attrdef>
+<attrdefs>FWP Lands Bureau</attrdefs>
+<attrvai>
+<attrva>Excellent</attrva>
+<attrvae>Double checked by relating to tabular database.</attrvae>
+</attrvai>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of wildlife management area.</attrdef>
+<attrdefs>FWP Division Administrators</attrdefs>
+</attr>
+<attr>
+<attrlabl>SITENUM</attrlabl>
+<attrdef>First four digits of the site's FILENUM field used by Lands Bureau staff.</attrdef>
+<attrdefs>FWP Lands Bureau</attrdefs>
+</attr>
+<attr>
+<attrlabl>FWPREG</attrlabl>
+<attrdef>FWP administrative region responsible for managment of the site.</attrdef>
+<attrdefs>FWP Lands Bureau</attrdefs>
+</attr>
+<attr>
+<attrlabl>COMMENT_</attrlabl>
+<attrdef>Comments or additional information about the site.</attrdef>
+</attr>
+<attr>
+<attrlabl>ACRES</attrlabl>
+<attrdef>Area in acres (calculated by the GIS).</attrdef>
+<attrdefs>Summed GIS_ACRES when dissolving parcels.</attrdefs>
+</attr>
+<attr>
+<attrlabl>WEB_PAGE</attrlabl>
+<attrdef>URL for the site on FWP's public website</attrdef>
+</attr>
+<attr>
+<attrlabl>SHAPE_AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SHAPE_LEN</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Montana Fish, Wildlife &amp; Parks</cntorg>
+<cntper>Lydia Bailey</cntper>
+</cntorgp>
+<cntpos>GIS Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1420 East 6th Ave</address>
+<city>Helena</city>
+<state>MT</state>
+<postal>59620-0701</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>406-444-5365</cntvoice>
+<cntemail>lbailey@mt.gov</cntemail>
+<hours>8 a.m.-5 p.m. Mon-Fri (Mountain Time)</hours>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ESRI Shapefile</formname>
+<transize>0.338</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://fwp.mt.gov/gisData/shapefiles/wmaPolys.zip</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20130918</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Montana Fish, Wildlife &amp; Parks</cntorg>
+<cntper>Lydia Bailey</cntper>
+</cntorgp>
+<cntpos>GIS  Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1420 East 6th Ave</address>
+<city>Helena</city>
+<state>MT</state>
+<postal>59620-0701</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>406-444-5365</cntvoice>
+<cntemail>lbailey@mt.gov</cntemail>
+<hours>8 a..m. - 5 p.m. Mon-Fri (Mountain Time)</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<Esri>
+<PublishedDocID>{8A1D7ECD-FECD-4E8B-8D50-4809A37D6104}</PublishedDocID>
+</Esri>
+</metadata>

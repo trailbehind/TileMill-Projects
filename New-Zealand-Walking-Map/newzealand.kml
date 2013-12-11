@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>WEBSERVICE/WEBSERVICE_Public_Access_Areas</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>174.0282106068</longitude>
+		<latitude>-39.071819019838</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>12223.2055727133</range>
+	</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>-32.8590254288378</north>
+			<south>-48.5429329506306</south>
+			<east>180</east>
+			<west>-180</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>128</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Url>
+		<href>http://wams.org.nz/ArcGIS/rest/services/WEBSERVICE/WEBSERVICE_Public_Access_Areas/MapServer/export?</href>
+		<viewRefreshMode>onStop</viewRefreshMode>
+		<viewRefreshTime>2</viewRefreshTime>
+		<viewFormat>f=kmz&amp;bboxSR=4326&amp;imageSR=4326&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;</viewFormat>
+	</Url>
+</NetworkLink>
+</kml>

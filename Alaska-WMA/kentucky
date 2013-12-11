@@ -1,4 +1,5 @@
 #kentuckyshootingranges {
+  [zoom > 9] {
   text-name:[Name];
   text-face-name: 'Helvetica Regular';
   [zoom = 10]{  
@@ -17,7 +18,7 @@
   text-size:30;}
   text-halo-fill: fadeout(white, 30%);
   text-halo-radius: 2.5;
-  text-dx:20;
+  text-dx:5;}
   marker-width:6;
   marker-fill:black;
   marker-allow-overlap:true;
@@ -27,7 +28,7 @@
   text-name: [Name];
   text-face-name: 'Helvetica Regular';
   text-placement: point;
-  text-dx: 10;
+  text-dx: 5;
 }
 
 #kentucky {

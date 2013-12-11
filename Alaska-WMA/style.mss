@@ -200,7 +200,7 @@
   text-halo-radius: 2.5;}
  }
 
-#arkansas {
+#arkansas, {
   polygon-fill:orange;
   [zoom > 9] {
   text-name:[Name];
@@ -224,12 +224,3 @@
   text-placement: interior;} }
 
 
-
-
-
-#michigan {
-  line-color:#594;
-  line-width:0.5;
-  polygon-opacity:1;
-  polygon-fill:#ae8;
-}
