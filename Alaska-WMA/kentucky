@@ -1,7 +1,4 @@
-#kentucky{
-  marker-fill: orange;
-  marker-width:10;
-	[zoom > 6] {
+#kentuckyshootingranges {
   text-name:[Name];
   text-face-name: 'Helvetica Regular';
   [zoom = 10]{  
@@ -18,7 +15,23 @@
   text-size:24;}
   [zoom = 16]{  
   text-size:30;}
-  text-placement: point;
   text-halo-fill: fadeout(white, 30%);
-  text-halo-radius: 2.5;}
+  text-halo-radius: 2.5;
+  text-dx:20;
+  marker-width:6;
+  marker-fill:black;
+  marker-allow-overlap:true;
+}
+
+#kentucky {
+  text-name: [Name];
+  text-face-name: 'Helvetica Regular';
+  text-placement: point;
+  text-dx: 10;
+}
+
+#kentucky {
+  marker-width:6;
+  marker-fill:orange;
+  marker-allow-overlap:false;
 }

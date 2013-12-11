@@ -19,3 +19,4 @@
   text-size:30;}
   text-halo-fill: fadeout(white, 30%);
   text-halo-radius: 2.5;} }
+

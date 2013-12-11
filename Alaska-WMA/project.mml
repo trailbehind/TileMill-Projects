@@ -18,8 +18,8 @@
   "Stylesheet": [
     "style.mss",
     "georgia",
-    "tennessee",
-    "kentucky"
+    "kentucky",
+    "tennessee"
   ],
   "Layer": [
     {
@@ -737,15 +737,33 @@
       "id": "kentucky",
       "class": "",
       "Datasource": {
-        "file": "layers/kentuckyhunting.kml",
-        "id": "kentucky",
+        "file": "layers/kentuckyhunting.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "kentucky"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -88.81398408343627,
+        37.13053111831172,
+        -83.5833398796164,
+        38.77574772698898
+      ],
+      "id": "kentuckyshootingranges",
+      "class": "",
+      "Datasource": {
+        "file": "layers/kentuckyshootingranges.kml",
+        "id": "kentuckyshootingranges",
         "project": "Alaska-WMA",
         "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "kentucky"
+      "name": "kentuckyshootingranges"
     }
   ],
   "scale": 1,

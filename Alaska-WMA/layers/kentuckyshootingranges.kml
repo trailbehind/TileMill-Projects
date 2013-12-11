@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Shooting Ranges on Kentucky Public Hunting Areas" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Shooting Ranges on Kentucky Public Hunting Areas</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>4df95a36-aa6a-494e-a820-af22653efa59.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Shooting Ranges on Kentucky Public Hunting Areas</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Shooting Ranges on Public Hunting Areas.  Click on the Red Target  icon to get driving directions and more information.  Then you may then click on the detail link, to see a map of the public hunting area.</description>
+		<Placemark id="ID_00000">
+			<name>Archery @ Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Archery @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>CG Lloyd Archery Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.596286</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.771168</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Archery @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.59628568144923,38.77116826027277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Archery @ Miller Welch-Central Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Archery @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.198615</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.63306</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Archery @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.19861527552351,37.63305989290294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Archery @ West Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Archery @ West Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>West Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-88.813984</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.132154</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Archery @ West Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=137">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=137</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.81398408343627,37.13215389106467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Archery/Rifle @ Otter Creek Outdoor Recreation Area</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Archery/Rifle @ Otter Creek Outdoor Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Archery/Rifle Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Otter Creek Outdoor Recreation Area</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-86.027806</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.933065</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Archery/Rifle @ Otter Creek Outdoor Recreation Area</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9199">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9199</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.02780619759048,37.9330645764743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Rifle/Archery  @ Jones-Keeney WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rifle/Archery  @ Jones-Keeney WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Rifle/Archery Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Jones-Keeney WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-87.759635</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.149871</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Rifle/Archery  @ Jones-Keeney WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=19">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=19</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.75963541025341,37.1498712178818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Rifle/Pistol @ Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rifle/Pistol @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Rifle Pistol Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.601803</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.775748</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Rifle/Pistol @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.60180251082393,38.77574772698898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Rifle/Pistol @ Daniel Boone National Forest</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rifle/Pistol @ Daniel Boone National Forest</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Daniel Boone National Forest</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-83.58334</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.038261</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Rifle/Pistol @ Daniel Boone National Forest</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9089">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=9089</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-83.5833398796164,38.03826144770301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Skeet @ Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Skeet @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Skeet Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.601696</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.76984</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Skeet @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.60169633769029,38.76983992390728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Skeet @ Miller Welch-Central Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Skeet @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Skeet Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.209502</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.638701</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Skeet @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.20950200666762,37.63870097013601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Skeet @ West Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Skeet @ West Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Chief Paduke skeet range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>West Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-88.809582</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.130531</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Skeet @ West Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=137">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=137</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-88.80958214347675,37.13053111831172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Trap @ Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Trap @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Trap Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.602049</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.773714</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Trap @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.60204892155626,38.77371430239253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Trap @ Miller Welch-Central Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Trap @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Trap Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.203642</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.634594</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Trap @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.20364225421059,37.63459417128404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Tube @ Curtis Gates Lloyd WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Public Rifle Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.598494</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.761483</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ Curtis Gates Lloyd WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=153</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.59849395600524,38.76148297189543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Tube @ Higginson-Henry WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ Higginson-Henry WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Higginson-Henry WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-87.877026</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.640379</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ Higginson-Henry WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=132">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=132</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-87.87702568249388,37.64037897518104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Tube @ John A. Kleber WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ John A. Kleber WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>John A. Kleber WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.745556</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.364685</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ John A. Kleber WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=14">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=14</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.7455563093565,38.36468538759021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Tube @ Miller Welch-Central Kentucky WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td>Tube Range</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-84.199513</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.616044</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ Miller Welch-Central Kentucky WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=15</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-84.19951343648714,37.61604392252183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Tube @ Peabody WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ Peabody WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Peabody WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-86.878416</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>37.281794</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ Peabody WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=229">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=229</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-86.87841617504917,37.2817942484526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Tube @ Taylorsville Lake WMA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tube @ Taylorsville Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WMANAME</td>
+
+<td>Taylorsville Lake WMA</td>
+
+</tr>
+
+<tr>
+
+<td>Longitude</td>
+
+<td>-85.233194</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>38.011174</td>
+
+</tr>
+
+<tr>
+
+<td>GoogleLabel</td>
+
+<td>Tube @ Taylorsville Lake WMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DETAIL</td>
+
+<td><a target="_blank" href="http://fw.ky.gov/kfwis/arcims/wma.asp?strID=22">http://fw.ky.gov/kfwis/arcims/wma.asp?strID=22</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-85.23319382615067,38.01117431353341,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
