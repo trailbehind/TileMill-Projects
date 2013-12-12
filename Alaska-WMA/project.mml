@@ -849,6 +849,45 @@
       "srs": "",
       "advanced": {},
       "name": "montana"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -116.95433549161092,
+        42.242350185446256,
+        -110.87128920300334,
+        48.985869832863884
+      ],
+      "id": "idaho",
+      "class": "",
+      "Datasource": {
+        "file": "layers/IdahoWildlifeMgmtAreas.shp/WildlifeMgmtAreas.shp",
+        "id": "idaho",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "idaho"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -82.047705,
+        36.568816,
+        -75.67544300000002,
+        39.190743
+      ],
+      "id": "virginia",
+      "class": "",
+      "Datasource": {
+        "file": "layers/virginia.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "virginia"
     }
   ],
   "scale": 1,

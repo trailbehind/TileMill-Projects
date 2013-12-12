@@ -1,15 +1,15 @@
-//Map {
-//  background-color: #b8dee6;
-//}
+Map {
+  background-color: #b8dee6;
+}
 
-//#countries {
-//  ::outline {
-//    line-color: #85c5d3;
-//    line-width: 2;
-//    line-join: round;
-//  }
-//  polygon-fill: #fff;
-//} 
+#countries {
+  ::outline {
+    line-color: #85c5d3;
+    line-width: 2;
+    line-join: round;
+  }
+  polygon-fill: #fff;
+} 
 
 #anchoragecoastalwr, #chilkatrivercha, #cinderrivercha, #copperrivercha, #creamersfieldmwr,
 		#dudecreekcha, #egegikcha, #foxriverflatscha, #goosebaysgr, #homercha, #kalgincha, #mcneilsgr, #mcneilsgs, #mendenhallsgr,
@@ -200,7 +200,7 @@
   text-halo-radius: 2.5;}
  }
 
-#arkansas, {
+#arkansas, #idaho {
   polygon-fill:orange;
   [zoom > 9] {
   text-name:[Name];
@@ -224,3 +224,9 @@
   text-placement: interior;} }
 
 
+
+
+
+#virginia {
+  polygon-fill:orange;
+}
