@@ -972,6 +972,27 @@
       "srs": "",
       "advanced": {},
       "name": "newyork"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -108.57923038862597,
+        32.8184784988128,
+        -102.96867230158752,
+        37.003534622585214
+      ],
+      "id": "newmexico",
+      "class": "",
+      "Datasource": {
+        "file": "layers/NMDGF_WMAs_shapefile (1)/NMDGF_WMAs.shp",
+        "id": "newmexico",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "newmexico"
     }
   ],
   "scale": 1,

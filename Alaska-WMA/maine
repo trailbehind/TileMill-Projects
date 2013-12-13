@@ -54,7 +54,7 @@
   text-dx:10;}
 }
 
-#montana {
+#montana, #newmexico {
   polygon-fill:orange;
     [zoom > 8] {
   text-name:[NAME];
