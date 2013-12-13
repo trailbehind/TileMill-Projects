@@ -1,0 +1,44 @@
+#texas {
+  polygon-fill:orange;
+  [zoom > 9] {
+  [Name= '1'] {
+      text-name: "'Cayvea WMA'";
+  	  text-face-name: 'Helvetica Regular';
+      [zoom = 10]{  
+      text-size:10;}
+      [zoom = 11]{  
+      text-size:12;}
+      [zoom = 12]{  
+      text-size:14;}
+      [zoom = 13]{  
+      text-size:16;}
+      [zoom = 14]{  
+      text-size:18;}
+      [zoom = 15]{  
+      text-size:24;}
+      [zoom = 16]{  
+      text-size:30;}
+      text-halo-fill: fadeout(white, 30%);
+      text-halo-radius: 2.5;
+      text-placement: interior;}}
+   [Name= '2'] {
+      text-name: "'Atascosa County WMA'";
+  	  text-face-name: 'Helvetica Regular';
+      [zoom = 10]{  
+      text-size:10;}
+      [zoom = 11]{  
+      text-size:12;}
+      [zoom = 12]{  
+      text-size:14;}
+      [zoom = 13]{  
+      text-size:16;}
+      [zoom = 14]{  
+      text-size:18;}
+      [zoom = 15]{  
+      text-size:24;}
+      [zoom = 16]{  
+      text-size:30;}
+      text-halo-fill: fadeout(white, 30%);
+      text-halo-radius: 2.5;
+      text-placement: interior;}} 
+}

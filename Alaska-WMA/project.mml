@@ -20,7 +20,8 @@
     "georgia",
     "kentucky",
     "tennessee",
-    "maine"
+    "maine",
+    "texas"
   ],
   "Layer": [
     {
@@ -882,12 +883,53 @@
       "id": "virginia",
       "class": "",
       "Datasource": {
-        "file": "layers/virginia.kml"
+        "file": "layers/virginia.kml",
+        "id": "virginia",
+        "project": "Alaska-WMA",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
       "name": "virginia"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -102.414294742756,
+        28.1979510571137,
+        -93.5077661709646,
+        33.937457495747
+      ],
+      "id": "texas",
+      "class": "",
+      "Datasource": {
+        "file": "layers/texaswmapy.kml",
+        "id": "texas",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "texas"
+    },
+    {
+      "extent": [
+        -95.7734224366787,
+        35.9978925579484,
+        -89.1212778973582,
+        40.5912456623742
+      ],
+      "id": "missouri",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MDCareas.kml"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "missouri"
     }
   ],
   "scale": 1,

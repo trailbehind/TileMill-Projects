@@ -225,8 +225,18 @@ Map {
 
 
 
-
+#virginia {
+  text-name: [Name];
+  text-face-name: 'Helvetica Regular';
+  text-placement: point;
+  text-dx: 5;
+}
 
 #virginia {
-  polygon-fill:orange;
+  marker-width:6;
+  marker-fill:orange;
+  marker-allow-overlap:false;
 }
+
+
+
