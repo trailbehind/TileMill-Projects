@@ -1,0 +1,218 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	25
+	Class:	26
+	Class:	27
+	Class:	28
+	Class:	29
+	StdDevs:	1.00000000000000
+	NullSym:	30
+	NullValues:	34
+	StatValues:	35
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Gpcode"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xb599
+	Green:	0xff00
+	Blue:	0xfe
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0xfe
+	Green:	0xff00
+	Blue:	0xab9a
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Name:	"Transparent"
+)
+
+(TClr.23
+	Name:	"Transparent"
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.25
+	IsText:	1
+	Label:	"Fish & Wildlife"
+	MinStr:	"21"
+	MaxStr:	"21"
+	Precision:	-3
+)
+
+(LClass.26
+	IsText:	1
+	Label:	"Parks & Forestry"
+	MinStr:	"22"
+	MaxStr:	"22"
+	Precision:	-3
+)
+
+(LClass.27
+	IsText:	1
+	Label:	"Natural Lands Trust"
+	MinStr:	"23"
+	MaxStr:	"23"
+	Precision:	-3
+)
+
+(LClass.28
+	IsText:	1
+	Label:	"Nonprofit & State"
+	MinStr:	"30"
+	MaxStr:	"30"
+	Precision:	-3
+)
+
+(LClass.29
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.30
+	Color:	31
+	Outline:	1
+	OutlineColor:	32
+	OutlineWidth:	0.10000000000000
+	BgColor:	33
+)
+
+(TClr.31
+	Name:	"Transparent"
+)
+
+(TClr.32
+	Name:	"Transparent"
+)
+
+(TClr.33
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.34
+)
+
+(NameDict.35
+)
+

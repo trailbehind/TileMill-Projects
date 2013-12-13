@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Jersey Department of Environmental Protection (NJDEP), Green Acres</origin>
+				<pubdate>1995</pubdate>
+				<title>NJDEP State Owned, Protected Open Space and Recreation Areas in New Jersey (Version 200812)</title>
+				<edition>2008</edition>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Trenton, NJ</pubplace>
+					<publish>NJ Department of Environmental Protection (NJDEP)</publish>
+				</pubinfo>
+				<othercit>This version is current to the end of 20081210.</othercit>
+				<onlink>http://www.state.nj.us/dep/gis/digidownload/zips/statewide/newstate.zip</onlink>
+				<ftname Sync="TRUE">newstate</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data set contains protected open space and recreation areas owned in fee simple interest by the State of New Jersey Department of Environmental Protection (NJDEP). Types of property in this data layer include parcels such as parks, forests, historic sites, natural areas and wildlife management areas. The data was derived from a variety of source maps including  tax maps, surveys and even hand-drafted boundary lines on USGS topographic maps. These source materials vary in scale and level of accuracy. Due to the varied mapped sources and methods of data capture, this data set is limited in its ability to portray all open space lands accurately, particularly the parcels purchased prior to 1991.</abstract>
+			<purpose>To provide Natural and Historic Resource Divisions in NJDEP with a manageable, graphic inventory of state owned and protected open space throughout New Jersey. It serves as a valuable tool in land acquisition decisions and is NOT to be used for describing actual or true property ownership title.</purpose>
+			<supplinf>The below information is provided for the users of the NJDEP State Owned, Protected Open Space and Recreation Areas (NEWSTATE). It is a detailed description of the numerous mapping methodologies and data limitations associated with the data file. Included are descriptions of the original mapping project, interim mapping methodologies and current mapping procedures. Please read it prior to using the data set to better understand  limitations and intended use.
+
+Original Mapping Project:
+
+The foundation of this State owned and protected, open space data set originated with the generation of an ArcInfo coverage called Open91. Its data generation began in 1989 and was digitally released in 1991.  Its initial purpose was to provide Natural &amp; Historic Resources in DEP with a manageable, graphic inventory of state owned and protected open space in New Jersey.
+
+Original source map information:
+
+All State-owned, protected, open space boundary lines were taken from hand-drafted delineations as they appeared on in-house 1:24000 USGS  paper topoquads. These hand-drafted  delineations mapped by the Divisions of Parks &amp; Forestry or Fish &amp; Wildlife varied greatly with  regard to degree of accuracy, level of completeness &amp; mapping methodology. In many cases,  updates to these paper topos had been made sporadically over   the years by different individuals with no documentation of the sources used or dates revisions were made. 
+
+
+Original mapping methodology:
+The boundary lines from the above mentioned paper source maps were transferred to a newly acquired set of DEP standardized base maps,1986 1:24,000 photoquads. Mylar sheets were overlayed and registered to each photoquad.  Each boundary line segment   was then manually transferred to the mylar overlay matching the same cultural and physical features evident on the paper map (e.g.,roads, watercourses, ditches).  Aerial photos were also examined to refine the placement of numerous boundaries poorly depicted or omitted on the source, but evident on the photoquad image; boundaries such as, watercourse meanders, hedge rows and old field lines.  If a boundary line did not follow a visible feature on the source map or photoquad, it was locally fit based on surrounding features common to both sources.
+ 
+
+Original mapping criteria:
+
+All State protected open space parcels appearing on in-house topos were mapped. Where the boundaries of two adjacent open space parcels (mapped by different divisions) overlapped, one was arbitrarily  selected over the other to avoid confusion in parcel coding and visual presentation.  It was not important at that time to demarcate interior  ownership boundaries of existing protected open space parcels; discrepancies could be resolved in the future if need be.
+ 
+
+Original mapping accuracy &amp; data limitations:
+
+These hand-drafted topoquad lines were 2nd or 3rd generation depictions; their accuracies were unknown.  Their systematic transfer onto the 24,000 photoquad enabled them to be entered into the GIS without further corruption and possibly with some positional improvement.  These delineations were intended to provide the foundation for a statewide, visual, inventory of existing protected, open space to aid in future acquisition strategies. It was never intended to be a substitute for survey quality line placements or deed ownership. Lines were inked with a 000 pen and then manually digitized. Digital proof plots were generated for each quad and compared to the original mylar delineations; all digitization errors greater than a line width(10ft.)were corrected.
+
+
+Interim Mapping Methodologies: 
+ 
+After 1991, keeping pace with new computer technologies, the mapping methodologies changed significantly. The 1991, 1:12000 quarter-photoquads became the new standard base map. The parcel boundaries of most new acquisitions were obtained from current tax book maps; the in-house topos were no longer used. In addition, all interior lot lines were drafted and digitized. New attributes were added to record block, lot and municipal affiliations. 
+
+
+Tax map delineation evolution:
+
+Initially, individual block and lot lines were photocopied from individual tax map sheets then re-scaled to fit 1991, 1:12000 quarterquad base maps. These lines were reoriented to match the image features on the quarterquads. Next, the lines were drafted onto mylars registered to the quarterquads, labeled with block/lot numbers then manually digitized into the GIS. Then in 1993, electronically published tax maps were made available and 1: 12000 digital ortho-photoquads could be accessed in ArcInfo. Tax maps were then converted to tiff files, and rectified to the digital orthophotoquads. Once RECTIFIED, individual lot lines could  be drafted on screen. This new technology replaced the re-scaling, drafting on mylar and manual digitization steps; it greatly improved the efficiency of the mapping process.
+
+
+Data Limitations:
+
+Boundary line accuracy of tax maps are unknown. Their depictions are  less than "reasonably" accurate but they improved when re-drafted onto 1:12000 photo base maps using coincident features. Placement further improved when rectified on screen to 1:12000 1991 and later, 1995 1:12000 orthophotos. 
+
+
+Current Mapping Methodologies:
+
+Since 1995, the bulk of acquisitions are entered into the GIS using a certified survey of the    property boundaries. The ArcInfo Cogo program facilitates the incorporation of deeds and surveys. Much effort is made to enter data within a year of the purchase. Tax map lines are utilized only if a survey does not exist.
+
+
+Survey lines: 
+
+When surveys are available, a COGO program converts a CAD file of the parcel to an ARCINFO coverage polygon. A Nad83 or Nad27 NJSPC certified survey is the best available source with regard to shape and positional accuracy.  Non-NJSPC certified surveys provide the best parcel shape but not position. They are repositioned to fit the features present on the on-screen image. If interior lot lines are omitted on either type of survey, then tax map lot lines are added  using the "best fit" method mentioned above. 
+
+
+Tax map lines:
+
+The appropriate pages from a current tax book are scanned, saved as tiff files and brought into the GIS and rectified using an ARCinfo/ArcMap program and 2002 digital imagery. Only the property lines that compose the acquisition are digitized on screen and added to the coverage.  Attributes are added and coverage is cleaned or built.
+
+
+Current Mapping Accuracies &amp; Data Limitations:
+
+To date, over 6200 parcels have been added to the State open space coverage. The goal is to map all newly acquired open space parcels in a timely fashion with the best information available. It cannot be stressed enough, that due to the dynamic nature of land acquisition business, and time delays associated with the acquisition process itself, this GIS inventory will always be incomplete. Boundary adjustments to the earlier drafted parcels will not occur unless inconsistencies /overlaps arise between those delineations and new acquisitions. At that time, if possible, positional problems will be resolved as well as any tax record inconsistencies. The program does not actively update static areas.  It is too expensive to survey or too time consuming to go through old tax books or deeds to update boundary lines. Where the drafted boundaries of two adjacent parcels misalign (because they were mapped independently of each other or from different sources), the lines from the "better" source are always used.  Surveys will always take precedence over all other map sources.   NJSPC surveys take precedence over all other types of surveys.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate><caldate>200812</caldate></sngdate></timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-75.583323</westbc><eastbc Sync="TRUE">-73.926068</eastbc><northbc Sync="TRUE">41.350646</northbc><southbc Sync="TRUE">38.926963</southbc></bounding>
+			<lboundng><leftbc Sync="TRUE">194686.218750</leftbc><rightbc Sync="TRUE">649694.937500</rightbc><bottombc Sync="TRUE">35803.511719</bottombc><topbc Sync="TRUE">916945.187500</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>open space</themekey>
+				<themekey>protected land</themekey>
+				<themekey>recreation area</themekey>
+				<themekey>green acres</themekey>
+				<themekey>state</themekey>
+				<themekey>parks</themekey>
+				<themekey>forests</themekey>
+				<themekey>fee simple</themekey>
+				<themekey>wildlife management areas</themekey>
+				<themekey>historic sites</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>NJGIN</themekt>
+				<themekey>njfw_lulc</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>New Jersey</placekey>
+				<placekey>state</placekey>
+				<placekey>statewide</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>This state open space coverage was created to assist in open space planning/acquisition efforts. This information is NOT to be used for describing actual or true property ownership title nor may it be used as an accurate depiction of the geographic extent of earlier purchased parcels.  Green Acres encourages notification of inaccuracies or omissions found in the data.  Please read the Mapping Methodologies listed in SUPPLEMENTAL SECTION prior to using the data set to better understand  limitations and intended use.
+
+Data Distribution Agreement (NJDEP) Agrees to abide by the terms and conditions of the following:
+
+I. Description of Data to be Provided
+
+The data provided herein are distributed subject to the following conditions and restrictions:
+
+Subject Data Layers
+
+For all data contained herein, (NJDEP) makes no representations of any kind, including, but not limited to, the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. NJDEP assumes no responsibility to maintain them in any manner or form.
+
+II. Terms of Agreement
+
+1. Digital data received from the NJDEP are to be used solely for internal purposes in the conduct of daily affairs.
+
+2. The data are provided, as is, without warranty of any kind and the user is responsible for understanding the accuracy limitations of all digital data layers provided herein, as documented in the accompanying Mapping_methodology.doc. Any reproduction or manipulation of the above data must ensure that the coordinate reference system remains intact.
+
+3. Digital data received from the NJDEP may not be reproduced or redistributed for use by anyone without first obtaining written permission from the NJDEP. This clause is not intended to restrict distribution of printed mapped information produced from the digital data.
+
+4. Any maps, publications, reports, or other documents produced as a result of this project that utilize NJDEP digital data will credit the NJDEP's Geographic Information System (GIS) as the source of the data with the following credit/disclaimer:
+
+"This (map/publication/report) was developed using New Jersey Department of Environmental Protection Geographic Information System digital data, but this secondary product has not been verified by NJDEP and is not state-authorized."
+
+5. Users shall require any independent contractor, hired to undertake work that will utilize digital data obtained from the NJDEP, to agree not to use, reproduce, or redistribute NJDEP GIS data for any purpose other than the specified contractual work. All copies of NJDEP GIS data utilized by an independent contractor will be required to be returned to the original user at the close of such contractual work.
+
+Users hereby agree to abide by the use and reproduction conditions specified above and agree to hold any independent contractor to the same terms. By using data provided herein, the user acknowledges that terms and conditions have been read and that the user is bound by these criteria.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>John Thomas</cntper>
+					<cntorg>New Jersey DEP Green Acres</cntorg>
+				</cntperp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 East State Street</address>
+					<city>Trenton</city>
+					<state>NJ</state>
+					<postal>08625</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-984-0500</cntvoice>
+				<cntfax>609-984-0608</cntfax>
+				<cntemail>John.Thomas@dep.state.nj.us</cntemail>
+				<hours>8:00am - 5:00pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.nj.gov/dep/gis/digidownload/images/statewide/newstate.gif</browsen>
+			<browsed>image</browsed>
+			<browset>GIF</browset>
+		</browse>
+		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>There was a visual inspection of the database to check for invalid attribute codes.  All code errors were corrected.  Parcels drafted from pre-tax map sources will have empty Block and Lot fields.  Where the Name field is blank, parcels have not  yet been assigned to a specific park, forest or other management entity.  When the OSOURCE field is blank, the original method of data entry is unknown.  When the LSOURCE field is blank,  no additional updates have been made to any of the parcel boundaries; updates range from slight repositioning of lines to complete redrafting of boundaries.
+
+Labelerrors and nodeerrors run on coverage and errors corrected.</attraccr>
+		</attracc>
+		<logic>This is a polygon feature-based layer. Data were reviewed for correct topological structure.</logic>
+		<complete>Prior to properties purchased in 1995, there may be parcel boundary omissions or erroneous additions due to inaccurate source data. Boundary adjustments to these earlier pre-surveyed parcels have not/do not occur unless inconsistencies  arise between those delineations and new adjacent acquisitions.  At that time, if possible, positional problems were and will be resolved as well as any tax record inconsistencies. This mapping program does not actively update static areas.  It is too expensive to survey or too time consuming to go through old deeds to update boundary lines.
+
+Purchases after 1995,  required certified NJSPC surveys as part of the property transaction. These surveys are entered directly into the data layer and serve as the latest property boundaries.  Survey entries are current to November 2008.
+
+There are no intentional omissions.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>No overall positional accuracy level can be established since a variety of methods were used to map and compile the parcel boundaries.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>n/a</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Geological Survey (USGS)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>USGS Topoquads</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Va.</pubplace>
+							<publish>USGS</publish>
+						</pubinfo>
+						<othercit>Various dated versions were used.  These hand-drafted delineations mapped by the Division of Parks &amp; Forestry or Fish &amp; Wildlife varied greatly with regard to degree of accuracy, level of completeness &amp; mapping methodology.  In many cases, updates to these paper topos had been made sporadically over   the years by different individuals with no documentation of the sources used  or dates revisions were made.</othercit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>paper maps</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1998</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>topoquads</srccitea>
+				<srccontr>Used to create initial state owned, protected, open space coverage known as OPEN91. Parcel boundaries were taken from hand-drafted delineations as they appeared on these in-house 1:24000 USGS paper topoquads. Only exterior property boundary lines were depicted on these maps.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Various Municipalities in NJ</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Municipal Tax Maps</title>
+						<pubinfo>
+							<pubplace>NJ</pubplace>
+							<publish>Various</publish>
+						</pubinfo>
+						<othercit>Various dated versions  were used.
+Boundary line accuracies of tax maps are unknown. Their depictions are  less than "reasonably" accurate but they improved when re-drafted onto 1:12,000  photo base maps using coincident features. Placement further improved when rectified on screen to 1:12,000 1991 orthophotos.</othercit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>various formats (paper, digital)</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>municipal tax maps</srccitea>
+				<srccontr>After 1991, used as source maps  from which newly acquired open space parcel block and lot boundaries were extracted and repositioned onto 1991 photo-quaterquads prior to digitizing into GIS to update OPEN91 coverage.  OPEN91 renamed NEWSTATE in 1995.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NJDEP/Green Acres</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Certified NJ State Plane Coordinate Surveys</title>
+						<pubinfo>
+							<pubplace>Trenton, NJ</pubplace>
+							<publish>Green Acres</publish>
+						</pubinfo>
+						<othercit>Various licensed surveyors are contracted by Green Acres to survey newly acquired open space &amp; recreation properties and create a legal description of the property.  Publication dates for these surveys vary.</othercit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital tape media</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>certified surveys</srccitea>
+				<srccontr>Source for property boundaries of newly acquired open space parcels entered  into NEWSTATE after 1995.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>MarkHurd Corporation. Call 1-800-MAP HURD</origin>
+						<pubdate>1986</pubdate>
+						<title>1986 Ortho-Photoquadrangle</title>
+						<pubinfo>
+							<pubplace>Minn., MN</pubplace>
+							<publish>MarkHurd Corporation</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1986</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>photoquads</srccitea>
+				<srccontr>Base map used for transferring hand-drafted  property boundary lines on USGS paper topos into GIS in order to create  original OPEN91 coverage.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>MarkHurd Corporation. Call 1-800-MAP HURD</origin>
+						<pubdate>1991</pubdate>
+						<title>1991 Orthophoto Quaterquadrangles</title>
+						<pubinfo>
+							<pubplace>Minn., MN</pubplace>
+							<publish>MarkHurd Corporation.</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>12000</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1991</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>1991 Ortho-quaterquads</srccitea>
+				<srccontr>Base maps used for transferring tax map lines into NEWSTATE coverage.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NJDEP, Green Acres</origin>
+						<pubdate>Unknown</pubdate>
+						<title>OPEN91</title>
+						<pubinfo>
+							<pubplace>Trenton, NJ</pubplace>
+							<publish>NJDEP, Green Acres</publish>
+						</pubinfo>
+						<othercit>Original coverage depicting  state owned and protected open space and recreation areas in New Jersey prior to 1991.   NOTE:  Accuracy of these parcel boundaries are UNKNOWN. Maybe numerous omissions or erroneous additions.</othercit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data set</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1991</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>open91</srccitea>
+				<srccontr>Initial open space coverage generated from transferring hand-drafted parcel boundary lines onto 1986 mylar photoquads  then manually digitizing into GIS.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>MarkHurd Corporation. Call 1-800-MAP HURD</origin>
+						<pubdate>Unknown</pubdate>
+						<title>1991 Digital Orthophoto Quaterquadrangles</title>
+						<pubinfo>
+							<pubplace>Minn., MN</pubplace>
+							<publish>MarkHurd Corporation.</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>12000</srcscale>
+				<typesrc>digital imagery</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1991</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>1991 imagery</srccitea>
+				<srccontr>Used as base maps to RECTIFY or reposition digital tax maps onscreen  in ArcMap to add or update  open space parcel boundaries in NEWSTATE.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>MarkHurd Corporation. Call 1-800-MAP HURD</origin>
+						<pubdate>Unknown</pubdate>
+						<title>USGS 1997 Digital Orthophoto Quaterquadrangles</title>
+						<pubinfo>
+							<pubplace>Minn., MN</pubplace>
+							<publish>MarkHurd Corporation.</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>40000</srcscale>
+				<typesrc>digital imagery</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1997</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>1997 imagery</srccitea>
+				<srccontr>After 1995, used as base maps to add or update open space parcel boundaries in NEWSTATE when surveys are unavailable.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>BAE SYSTEMS ADR</origin>
+						<pubdate>2002</pubdate>
+						<title>New Jersey 2002 High Resolution Orthophotography</title>
+						<pubinfo>
+							<pubplace>Pennsauken, NJ</pubplace>
+							<publish>BAE SYSTEMS ADR</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2400</srcscale>
+				<typesrc>digital imagery</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>2002 digital imagery</srccitea>
+				<srccontr>Current  base map used  to add or update open space parcel boundaries in NEWSTATE when surveys are unavailable.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Generation of OPEN91:  The hand-drafted, open space &amp; recreation boundary lines from the USGS paper topoquad maps were transferred to a set of DEP standardized base maps,1986 1:24,000 photoquads. First, mylar sheets were  overlayed and registered to each photoquad.  Each boundary line segment was then, manually transferred to  the mylar overlay matching the same cultural and physical features evident  on the paper map (e.g., roads, watercourses, ditches).
+
+Aerial photos were also examined to refine the placement of numerous boundaries  poorly depicted or omitted on the source, but evident on the photoquad image; boundaries such as,   watercourse meanders, hedge rows and old field lines.  If a boundary line did not follow a visible feature on the source map or photoquad, it was locally fit based on surrounding features common to both sources.</procdesc>
+				<srcused>topoquads</srcused>
+				<procdate>1991</procdate>
+				<srcprod>OPEN91</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Generation of NEWSTATE:    
+
+After 1991, OPEN91 was renamed to NEWSTATE. The parcels boundaries of new acquisitions were extracted from tax book maps; the in-house topos were no longer used. In addition, all interior lot lines were drafted and digitized.  New attributes were added to record block, lot and municipal affiliations.
+
+From 1991 to 1995, individual block and lot lines were photocopied from individual tax map sheets then re-scaled to fit 1991, 1:12000 quarterquad base maps. These lines were reoriented to match the image features on the quarterquads. Next, the lines were drafted onto mylars registered to the quarterquads, labeled with block/lot numbers then manually digitized into the GIS.
+
+Then in 1995, electronically published tax maps were made available and 1: 12000 digital orthophotoquads could be accessed in ArcInfo. Tax maps were then converted to tiff files, and  rectified to the digital orthophotoquads. Once RECTIFIED, individual lot lines were drafted on screen. This new technology  replaced the re-scaling, drafting on mylar and manual digitization  steps; it greatly improved the efficiency of  the mapping process.</procdesc>
+				<srcused>municipal tax maps</srcused>
+				<procdate>1995</procdate>
+				<srcprod>NEWSTATE</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Current Mapping Methodologies:
+
+Since 1995, the bulk of open space acquisitions are entered into the GIS using a certified survey of the properties boundaries; ArcInfo  facilitates the incorporation of surveys. Much effort is made to enter data within a year of the purchase. Tax map lines are utilized only if a survey does not exist or if internal lot lines were not drawn in the survey.
+
+Survey lines:   When surveys are available,  CAD files of the parcel are entered into the  ARCINFO polygon coverage version of NEWSTATE.   Nad83 or Nad27 NJSPC certified surveys  are the best available sources with regard to shape and positional accuracy. Non-NJSPC certified surveys provide the best parcel shape but not position. They  are repositioned to fit the features present on the on-screen image (2002 imagery).  If interior lot lines are omitted on either type of survey, then tax map lot lines are added using the "best fit" method mentioned above.
+
+Tax map lines:  The appropriate pages from a current tax book are scanned, saved as tiff files and brought into the GIS and rectified using an ARCINFO/ArcMap program and 2002 digital imagery. Only the property lines that compose the acquisition are digitized on screen and added to the coverage.  Attributes are added and coverage is cleaned or built.</procdesc>
+				<srcused>certified surveys</srcused>
+				<procdate>2008</procdate>
+				<srcprod>NEWSTATE</srcprod>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><esriterm Name="newstate"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">10067</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="newstate"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">10067</ptvctcnt></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.002048</absres>
+						<ordres>0.002048</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn><spcs><spcszone Sync="TRUE">2900</spcszone><transmer><sfctrmer Sync="TRUE">0.999900</sfctrmer><longcm Sync="TRUE">-74.500000</longcm><latprjo Sync="TRUE">38.833333</latprjo><feast Sync="TRUE">492125.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></spcs></gridsys></planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="newstate">
+			<enttyp>
+				<enttypl>newstate</enttypl>
+				<enttypd>NJDEP State Owned, Protected Open Space and Recreation Areas in New Jersey</enttypd>
+				<enttypds>NJDEP, Green Acres Program</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">10067</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>RELATE_IT</attrlabl>
+				<attrdef>unique parcel code. (county/municipal code - block - lot) where applicable</attrdef>
+				<attrdefs>NJDEP / Green Acres</attrdefs>
+				<attrdomv>
+					<udom>unique code generated by four digit county and municipal code, municipal block number and municipal lot number.  Older parcels/properties not m</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr>
+			<attr>
+				<attrlabl>BLOCK</attrlabl>
+				<attrdef>block number from municipality</attrdef>
+				<attrdefs>MOD4 data</attrdefs>
+				<attrdomv>
+					<udom>unique code; municipal block number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>LOT</attrlabl>
+				<attrdef>Lot number from Municipality</attrdef>
+				<attrdefs>MOD4 data</attrdefs>
+				<attrdomv>
+					<udom>unique code; municipal lot number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>parcel's official open space name</attrdef>
+				<attrdefs>name assigned by Natural and Historic Resources, NJDEP</attrdefs>
+				<attrdomv>
+					<udom>unique</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>OWNER</attrlabl>
+				<attrdef>current owner / agency managing the property</attrdef>
+				<attrdefs>NJDEP Green Acres</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>FGW</edomv>
+						<edomvd>Division Fish, Game and Wildlife</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NLT</edomv>
+						<edomvd>The Natural Lands Trust</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PF</edomv>
+						<edomvd>Division of Parks and Forestry</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PRIVATE/OTHER</edomv>
+						<edomvd>Private ownership</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><attrdomv><edom><edomv>NJCF/PF</edomv><edomvd>New Jersey Conservation Foundation and/or Parks and Forestry.</edomvd><edomvds>NJDEP, Green Acres Program</edomvds></edom></attrdomv></attr>
+			<attr>
+				<attrlabl>USE</attrlabl>
+				<attrdef>Current specific use of property</attrdef>
+				<attrdefs>NJDEP Green Acres</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>ANGLER ACC</edomv>
+						<edomvd>Angler Access</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CEMETERY</edomv>
+						<edomvd>Cemetery</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FISH HATCH</edomv>
+						<edomvd>Fish Hatchery</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GAME FARM</edomv>
+						<edomvd>Wildlife Game Farm</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GRNWY</edomv>
+						<edomvd>GREENWAY</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HS</edomv>
+						<edomvd>Historic Site</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>INHOLDING</edomv>
+						<edomvd>Inholding or Exception</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MARINA</edomv>
+						<edomvd>Marina</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MISC</edomv>
+						<edomvd>Miscellaneous property</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA</edomv>
+						<edomvd>Natural Area</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA/SF</edomv>
+						<edomvd>Natural Area inside a State Forest</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA/SP</edomv>
+						<edomvd>Natural Area inside a State Park</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA/WMA</edomv>
+						<edomvd>Natural Area inside a Wildlife Management Area</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Nursery</edomv>
+						<edomvd>State Tree Nursery</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Preserve</edomv>
+						<edomvd>The Natural Lands Trust Preserve</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RA</edomv>
+						<edomvd>Recreation Area</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SF</edomv>
+						<edomvd>State Forest</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SP</edomv>
+						<edomvd>State Park</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Trail</edomv>
+						<edomvd>Trail</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WMA</edomv>
+						<edomvd>Wildlife Management Area</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WMA/LEASED</edomv>
+						<edomvd>Wildlife Management Area  - Property Leased out</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WS</edomv>
+						<edomvd>Wildlife Sanctuary</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>GPCODE</attrlabl>
+				<attrdef>Code identifying managing agency</attrdef>
+				<attrdefs>NJDEP Green Acres</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>New Jersey Division of Fish and Wildlife</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>New Jersey Division of Parks and Forestry</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>New Jersey Natural Lands Trust</edomvd>
+						<edomvds>NJDEP, Green Acres Program</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth><attrdomv><edom><edomvd>New Jersey Conservation Foundation</edomvd><edomvds>NJDEP, Green Acres Program</edomvds><edomv>30</edomv></edom></attrdomv></attr>
+			<attr>
+				<attrlabl>OSOURCE</attrlabl>
+				<attrdef>Original data source of parcel boundaries and method of GIS entry.</attrdef>
+				<attrdefs>Green Acres</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>TOPO/PQ86</edomv>
+						<edomvd>Paper USGS topoquad parcel boundary lines re-drafted onto 1986 mylar photoquads then manually digitized into GIS</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TX/QQ91</edomv>
+						<edomvd>Paper tax map parcel boundaries scaled to fit /drafted onto 1991 mylar quaterquads  then  manually digitized into GIS</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TX/ONSCRN</edomv>
+						<edomvd>Scanned tax map registered/rectified on screen to 1995/97 or 2002 digital imagery. Rectified open space parcel boundaries digitized directly on screen.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TX_CO</edomv>
+						<edomvd>Open space parcel boundaries extracted from a county digital tax map file.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TX_MUN</edomv>
+						<edomvd>Open space parcel boundaries extracted from municipal digital tax map file.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TX_PINE</edomv>
+						<edomvd>Digital open space parcels obtained form New Jersey Pinelands Commission</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>DEED</edomv>
+						<edomvd>Open space parcel digitally generated from property deed bearings and distances . No coordinate system. Best fit to the digital imagery available at time of entry into GIS.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SUR</edomv>
+						<edomvd>Digital or paper survey of open space parcels not in State Plane Coordinates, best fit to the digital imagery available at time of entry into GIS.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SUR27</edomv>
+						<edomvd>Digital or paper State Plane Coordinate Survey NAD27 of open space parcels, projected to NAD83.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SUR83</edomv>
+						<edomvd>Digital State Plane Coordinate survey NAD83 of open space parcel boundaries.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NPS</edomv>
+						<edomvd>National Park Service map (unknown scale) rescaled to fit /drafted onto 1991 quaterquad then manually digitized into GIS.</edomvd>
+						<edomvds>Green Acres</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>LSOURCE</attrlabl>
+				<attrdef>Latest data source and method of data entry used to refine boundary line placement</attrdef>
+				<attrdefs>Green Acres</attrdefs>
+				<attrdomv>
+					<udom>follow abbreviations for OSOURCE.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>GISACRES</attrlabl>
+				<attrdef>Acres calculation</attrdef>
+				<attrdefs>Green Acres</attrdefs>
+				<attrdomv>
+					<udom>unique</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">1</atnumdec></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NJDEP/OIRM/BGIS</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>401 East State Street, PO Box 428</address>
+					<city>Trenton</city>
+					<state>NJ</state>
+					<postal>08625</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-777-0672</cntvoice>
+				<cntfax>609-292-2900</cntfax>
+				<cntemail>gisnet@dep.state.nj.us</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>See Use Constraints</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>AVSHP</formname>
+					<formvern>9x</formvern>
+					<filedec>WinZip</filedec>
+					<transize>4.784</transize>
+					<dssize Sync="TRUE">8.004</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.state.nj.us/dep/gis/stateshp.html</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>none</offmedia>
+						<recfmt>none</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+			<ordering>none</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>John Thomas</cntper>
+					<cntorg>New Jersey DEP, Green Acres</cntorg>
+				</cntperp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 East State Street</address>
+					<city>Trenton</city>
+					<state>NJ</state>
+					<postal>08625</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-984-0500</cntvoice>
+				<cntemail>John.Thomas@dep.state.nj.us</cntemail>
+				<hours>8:00am - 5:00pm</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta><metd Sync="TRUE">20090407</metd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{E621F463-28AD-49DD-A90F-D2539C57F529}</MetaID><CreaDate>20090102</CreaDate><CreaTime>16204400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20090407</SyncDate><SyncTime>12163500</SyncTime><ModDate>20090407</ModDate><ModTime>12163500</ModTime></Esri><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc></onLineSrc></distorTran></distributor></distInfo></metadata>

@@ -993,6 +993,27 @@
       "srs": "",
       "advanced": {},
       "name": "newmexico"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -75.5455758356445,
+        38.926963451534874,
+        -73.9260679964442,
+        41.34921479970856
+      ],
+      "id": "newjersey",
+      "class": "",
+      "Datasource": {
+        "file": "layers/newstate.shp",
+        "id": "newjersey",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "newjersey"
     }
   ],
   "scale": 1,
