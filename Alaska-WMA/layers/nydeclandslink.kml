@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>&lt;font face=&quot;helvetica&quot; font color=&quot;#2E7B1B&quot;&gt;DEC Lands&lt;/font&gt;</name>
+  <open>1</open>
+  <NetworkLink>
+  	<name>DEC Lands</name>
+  	<open>1</open>
+  	<description>Data is automatically updated whenever the file is opened. Right-click and select "Refresh" for additional updates.</description>
+  	<refreshVisibility>1</refreshVisibility>
+  	<flyToView>1</flyToView>
+  	<Link>
+  		<href>http://www.dec.ny.gov/maps/declands.kmz</href>
+  		<refreshMode>onChange</refreshMode>
+  	</Link>
+  </NetworkLink>
+</Document>
+</kml>

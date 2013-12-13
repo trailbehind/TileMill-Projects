@@ -930,6 +930,48 @@
       "srs": "",
       "advanced": {},
       "name": "missouri"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -80.24198019160093,
+        33.98535160478886,
+        -76.86105555011345,
+        36.49155068671445
+      ],
+      "id": "northcarolina",
+      "class": "",
+      "Datasource": {
+        "file": "layers/northcarolina.kml",
+        "id": "northcarolina",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "northcarolina",
+      "status": "off"
+    },
+    {
+      "extent": [
+        -79.615655019656,
+        40.8474870379088,
+        -72.2542702048485,
+        44.9750992542567
+      ],
+      "id": "newyork",
+      "class": "",
+      "Datasource": {
+        "file": "layers/newyorkwma.kml",
+        "id": "newyork",
+        "project": "Alaska-WMA",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "newyork"
     }
   ],
   "scale": 1,

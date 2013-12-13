@@ -1,4 +1,4 @@
-#tennesse, #missouri {
+#tennesse, #missouri, #newyork {
   polygon-fill:orange;
    [zoom > 9] {
   text-name:[Name];
@@ -20,4 +20,10 @@
   text-halo-fill: fadeout(white, 30%);
   text-halo-radius: 2.5;
   text-dx:7;} }
+
+
+
+//#northcarolina {
+//  polygon-fill:orange;
+//}
 
