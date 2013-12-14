@@ -1,0 +1,150 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -108.70469737231656,
+        45.00410998049426,
+        -106.20316260609988,
+        46.01417848589525
+      ],
+      "id": "bighorn",
+      "class": "",
+      "Datasource": {
+        "file": "layers/BighornOwnerParcel_shp/BighornOwnerParcel_shp.shp",
+        "id": "bighorn",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "bighorn"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.82969141762018,
+        44.32328378879308,
+        -111.51582232877256,
+        45.994856455825335
+      ],
+      "id": "beaverhead",
+      "class": "",
+      "Datasource": {
+        "file": "layers/BeaverheadOwnerParcel_shp/BeaverheadOwnerParcel_shp.shp",
+        "id": "beaverhead",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "beaverhead"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -109.55126828612453,
+        47.721062339302804,
+        -108.23424682704754,
+        48.99954844434952
+      ],
+      "id": "blaine",
+      "class": "",
+      "Datasource": {
+        "file": "layers/BlaineOwnerParcel_shp/BlaineOwnerParcel_shp.shp",
+        "id": "blaine",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "blaine"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.77515816568939,
+        45.83102529351576,
+        -111.06816291843651,
+        46.7901897282328
+      ],
+      "id": "broadwater",
+      "class": "",
+      "Datasource": {
+        "file": "layers/BroadwaterOwnerParcel_shp/BroadwaterOwnerParcel_shp.shp",
+        "id": "broadwater",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "broadwater"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -109.79847030549766,
+        44.99986304934115,
+        -108.09419077037313,
+        45.63599355122729
+      ],
+      "id": "carbon",
+      "class": "",
+      "Datasource": {
+        "file": "layers/CarbonOwnerParcel_shp/CarbonOwnerParcel_shp.shp",
+        "id": "carbon",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "carbon"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -105.06639849204207,
+        45.00124214933842,
+        -103.92818780302328,
+        46.108605592516575
+      ],
+      "id": "carter",
+      "class": "",
+      "Datasource": {
+        "file": "layers/CarterOwnerParcel_shp/CarterOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "carter"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": ""
+}
