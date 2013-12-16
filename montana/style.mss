@@ -1,4 +1,5 @@
-#bighorn, #beaverhead, #blaine, #broadwater, #carbon, #carter {
+#bighorn, #beaverhead, #blaine, #broadwater, #carbon, #carter, #cascade, #custer,
+#dawson {
   [zoom > 13] {
   text-name:[OwnerName];
   text-face-name: 'Helvetica Regular';
@@ -54,7 +55,7 @@
   
   //National Park Service
   [OwnerName = 'UNITED STATES OF AMERICA'] {
-    polygon-fill:purple;}
+    polygon-fill:#B2ACD6;}
   [OwnerName = 'USDI NATIONAL PARK SERVICE'] {
     polygon-fill:#B2ACD6;}
   
@@ -69,6 +70,8 @@
   //US Dept of Agriculture
   [OwnerName = 'USDA FOREST SERVICE'] {
     polygon-fill:#BCDEA7;}
+  [OwnerName = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
+    polygon-fill:#BCDEA7;}
   
   //Defense Dept/Army Corp of Engineers
   [OwnerName = 'US DEPARTMENT OF DEFENSE'] {
@@ -76,10 +79,12 @@
 
   //State of Montana Misc.
   [OwnerName = 'MONTANA FISH &amp; GAME COMMISSION']{
-    polygon-fill:orange;}
+    polygon-fill:#BED2FF}
   [OwnerName = 'MONTANA DEPARTMENT OF HIGHWAYS'] {
     polygon-fill:#BED2FF;}
   [OwnerName = 'STATE OF MONTANA DEPT OF TRANSPORTATION'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
     polygon-fill:#BED2FF;}
   
   //Montana State Trust Land
@@ -107,11 +112,34 @@
     polygon-fill:#B2BCC0;}
   [OwnerName = 'CITY OF BRIDGER'] {
     polygon-fill:#B2BCC0;}
+  [OwnerName = 'SCHOOL DISTRICT 74'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'CASCADE COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'DEPT OF TRANSPORTATION'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'SCHOOL DIST 1'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'DAWSON COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'TOWN OF RICHEY MONTANA'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'RICHEY SCHOOL DISTRICT 78'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'GLENDIVE CITY OF'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'TOWN OF RICHEY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'RICHEY SCHOOL DISTRICT 78J'] {
+    polygon-fill:#B2BCC0;}
+  
   
   //Tribal
   [PropType = 'TP - Tribal Property'] {
   	polygon-fill:#E69900;} 
   [OwnerName = 'FORT BELKNAP INDIAN RESERVATION'] {
+    polygon-fill:#E69900;}
+  [OwnerName = 'TRIBAL INDIAN LAND'] {
     polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land
@@ -127,7 +155,7 @@
 
 //USA IN TRUST, USA IN TRUST FOR TYLER CAROLINE DECELLES, USA
 //HARLEM IRRIGATION DISTRICT, USA IN TRUST FOR PATRICIA QUISNO
-//SECRETARY OF HOUSING AND URBAN DEVELOPMENT
+//SECRETARY OF HOUSING AND URBAN DEVELOPMENT, US DEPARTMENT OF ENERGY WESTERN AREA POWER ADMIN
 
 
 

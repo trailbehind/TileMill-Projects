@@ -135,12 +135,78 @@
       "id": "carter",
       "class": "",
       "Datasource": {
-        "file": "layers/CarterOwnerParcel_shp/CarterOwnerParcel_shp.shp"
+        "file": "layers/CarterOwnerParcel_shp/CarterOwnerParcel_shp.shp",
+        "id": "carter",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
       "name": "carter"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -112.02605246032711,
+        46.79597456168503,
+        -110.64534285010043,
+        47.712334852219406
+      ],
+      "id": "cascade",
+      "class": "",
+      "Datasource": {
+        "file": "layers/CascadeOwnerParcel_shp/CascadeOwnerParcel_shp.shp",
+        "id": "cascade",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "cascade"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -106.21264999138786,
+        45.78921768779099,
+        -104.70278308230867,
+        46.81888415116896
+      ],
+      "id": "custer",
+      "class": "",
+      "Datasource": {
+        "file": "layers/CusterOwnerParcel_shp/CusterOwnerParcel_shp.shp",
+        "id": "custerownerparcelshp",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "custer"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -105.45632571921861,
+        46.87745946839641,
+        -104.23640654408588,
+        47.749511021680554
+      ],
+      "id": "dawson",
+      "class": "",
+      "Datasource": {
+        "file": "layers/DawsonOwnerParcel_shp/DawsonOwnerParcel_shp.shp",
+        "id": "dawson",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "dawson"
     }
   ],
   "scale": 1,
