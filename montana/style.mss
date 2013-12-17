@@ -1,26 +1,7 @@
 #bighorn, #beaverhead, #blaine, #broadwater, #carbon, #carter, #cascade, #custer,
-#dawson {
-  [zoom > 13] {
-  text-name:[OwnerName];
-  text-face-name: 'Helvetica Regular';
-  [zoom = 10]{  
-  text-size:10;}
-  [zoom = 11]{  
-  text-size:12;}
-  [zoom = 12]{  
-  text-size:14;}
-  [zoom = 13]{  
-  text-size:16;}
-  [zoom = 14]{  
-  text-size:18;}
-  [zoom = 15]{  
-  text-size:24;}
-  [zoom = 16]{  
-  text-size:30;}
-  text-halo-fill: fadeout(white, 30%);
-  text-halo-radius: 2.5;}
-  line-color:black;
-  line-width:0.1;
+#dawson, #fallon, #flathead, #garfield, #goldenvalley, #jefferson 
+	//flathead looks weird
+	{
   
   //NonPublicLand
   polygon-fill:white;
@@ -28,10 +9,12 @@
   //Bureau of Land Management
   [OwnerName = 'USDI BUREAU OF LAND MANAGEMENT'] {
     polygon-fill:#FFE583;}
+  [OwnerName = 'USDI - BUREAU OF LAND MANAGEMENT'] {
+    polygon-fill:#FFE583;}
   [OwnerName = 'BUREAU OF LAND MANAGEMENT'] {
     polygon-fill:#FFE583;}
   [OwnerName = 'UNITED STATES DEPARTMENT OF INTERIOR'] {
-    polygon-fill:orange}
+    polygon-fill:#FFE583}
   [OwnerName = 'UNITED STATES BUREAU OF LAND MANAGEMENT'] {
     polygon-fill:#FFE583;}
   [OwnerName = 'U S BUREAU OF LAND MANAGEMENT'] {
@@ -51,6 +34,16 @@
   
   //US Fish and Wildlife
   [OwnerName = 'USDI FISH &amp; WILDLIFE SERVICE']{
+	polygon-fill:#009EB9;}
+  [OwnerName = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
+    polygon-fill:#009EB9;}
+  [OwnerName = 'USDI FISH WILDLIFE SERVICE']{
+	polygon-fill:#009EB9;}
+  [OwnerName = 'USDI FISH WILDLIFE SERVICES']{
+	polygon-fill:#009EB9;}
+  [OwnerName = 'USDI FISH AND WILDLIFE SERVICE']{
+	polygon-fill:#009EB9;}
+  [OwnerName = 'USDI FISH AND WILDLIFE']{
 	polygon-fill:#009EB9;}
   
   //National Park Service
@@ -79,12 +72,12 @@
 
   //State of Montana Misc.
   [OwnerName = 'MONTANA FISH &amp; GAME COMMISSION']{
-    polygon-fill:#BED2FF}
+    polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA DEPARTMENT OF HIGHWAYS'] {
     polygon-fill:#BED2FF;}
   [OwnerName = 'STATE OF MONTANA DEPT OF TRANSPORTATION'] {
     polygon-fill:#BED2FF;}
-  [OwnerName = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
+  [OwnerName = 'MONTANA DEPARTMENT OF TRANSPORTATION'] {
     polygon-fill:#BED2FF;}
   
   //Montana State Trust Land
@@ -132,6 +125,21 @@
     polygon-fill:#B2BCC0;}
   [OwnerName = 'RICHEY SCHOOL DISTRICT 78J'] {
     polygon-fill:#B2BCC0;}
+  [OwnerName = 'FALLON COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'FALLON SCHOOL DISTRICT # 12'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'BAKER HIGH SCHOOL'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'COUNTY OF FALLON SCHOOL DISTRICT #12'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'FLATHEAD COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'LAKESIDE COUNTY WATER AND SEWER DISTRICT'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'SCHOOL DISTRICT 62'] {
+    polygon-fill:#B2BCC0;}
+  
   
   
   //Tribal
@@ -141,12 +149,37 @@
     polygon-fill:#E69900;}
   [OwnerName = 'TRIBAL INDIAN LAND'] {
     polygon-fill:#E69900;}
+  [OwnerName = 'CONFEDERATED SALISH &amp; KOOTENAI TRIBES'] {
+    polygon-fill:#E69900;}
+  [OwnerName = 'CONFEDERATED SALISH &amp; KOOTNAI TRIBES'] {
+    polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land
   
   
   //Unresolved Ownership
   
+  [zoom > 10] {
+  text-name:[OwnerName];
+  text-face-name: 'Helvetica Regular';
+  [zoom = 10]{  
+  text-size:10;}
+  [zoom = 11]{  
+  text-size:12;}
+  [zoom = 12]{  
+  text-size:14;}
+  [zoom = 13]{  
+  text-size:16;}
+  [zoom = 14]{  
+  text-size:18;}
+  [zoom = 15]{  
+  text-size:24;}
+  [zoom = 16]{  
+  text-size:30;}
+  text-halo-fill: fadeout(white, 30%);
+  text-halo-radius: 2.5;}
+  line-color:black;
+  line-width:0.1;
 
   [OwnerName = 'US GENERAL SERVICES ADMINISTRATION'] {
     polygon-fill:red;}
@@ -156,6 +189,3 @@
 //USA IN TRUST, USA IN TRUST FOR TYLER CAROLINE DECELLES, USA
 //HARLEM IRRIGATION DISTRICT, USA IN TRUST FOR PATRICIA QUISNO
 //SECRETARY OF HOUSING AND URBAN DEVELOPMENT, US DEPARTMENT OF ENERGY WESTERN AREA POWER ADMIN
-
-
-
