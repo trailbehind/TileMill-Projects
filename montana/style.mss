@@ -1,5 +1,5 @@
 #bighorn, #beaverhead, #blaine, #broadwater, #carbon, #carter, #cascade, #custer,
-#dawson, #fallon, #flathead, #garfield, #goldenvalley, #jefferson 
+#dawson, #fallon, #flathead, #garfield, #goldenvalley, #jefferson
 	//flathead looks weird
 	{
   

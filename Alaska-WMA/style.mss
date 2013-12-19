@@ -201,7 +201,8 @@ Map {
  }
 
 #arkansas, #idaho {
-  polygon-fill:orange;
+  line-color:red;
+  line-width:1;
   [zoom > 9] {
   text-name:[Name];
   text-face-name: 'Helvetica Regular';
