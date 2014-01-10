@@ -1,19 +1,19 @@
 {
   "bounds": [
-    -180,
-    -85.05112877980659,
-    180,
-    85.05112877980659
+    -116.2793,
+    44.2767,
+    -103.7988,
+    49.01
   ],
   "center": [
-    0,
-    0,
-    2
+    -109.0723,
+    46.5589,
+    4
   ],
-  "format": "png",
+  "format": "png8",
   "interactivity": false,
-  "minzoom": 0,
-  "maxzoom": 22,
+  "minzoom": 3,
+  "maxzoom": 17,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
     "style.mss"
@@ -22,35 +22,50 @@
     {
       "geometry": "polygon",
       "extent": [
-        -180,
-        -85.051,
-        180,
-        85.051
+        -116.049131702991,
+        44.3579154506403,
+        -104.039693709173,
+        49.001098863633
       ],
       "Datasource": {
         "type": "postgis",
-        "table": "(select wkb_geometry, ownername from montanacadastral) as fast_table",
+        "table": "montanacadastral",
         "key_field": "",
-        "geometry_field": "wkb_geometry",
+        "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-18918685.2191286,-4160269.57365054,18701295.7378602,7983118.36782567",
-        "dbname": "gis",
+        "extent": "-116.049131702991,44.3579154506403,-104.039693709173,49.001098863633",
         "host": "localhost",
-        "port": "5432",
-        "id": "montanaprop",
-        "project": "montana-prop-map",
-        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+        "dbname": "gis"
       },
-      "id": "montanaprop",
+      "id": "montanacadastral",
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
-      "name": "montanaprop"
+      "name": "montanacadastral"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -179.14733999999993,
+        17.674395666227213,
+        179.77848000000017,
+        71.38921046500008
+      ],
+      "id": "statep010",
+      "class": "",
+      "Datasource": {
+        "file": "layers/states/statep010.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "statep010"
     }
   ],
   "scale": 1,
   "metatile": 2,
   "name": "",
-  "description": ""
+  "description": "",
+  "attribution": ""
 }
