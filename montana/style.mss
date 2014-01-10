@@ -116,14 +116,15 @@
     polygon-fill:#B2CBBB;}
   [OwnerName = 'CUSTER NATIONAL FOREST'] {
     polygon-fill:#B2CBBB;}
+  [OwnerName = 'DEPARTMENT OF AGRICULTURE'] {
+    polygon-fill:#B2CBBB;}
   [OwnerName = 'DEPARTMENT OF INTERIOR'] {
     polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
   [OwnerName = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
     polygon-fill:#BCDEA7;}
-  [OwnerName = 'DEPARTMENT OF AGRICULTURE'] {
-    polygon-fill:#BCDEA7;}
+ 
   
   //Defense Dept/Army Corp of Engineers
   [OwnerName = 'US DEPARTMENT OF DEFENSE'] {
