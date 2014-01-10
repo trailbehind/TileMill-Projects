@@ -34,6 +34,10 @@
     polygon-fill:#FFE583;}
   [OwnerName = 'USDI BUREAU OF LAND MANAGEMENT RESERVED'] {
     polygon-fill:#FFE583;}
+  [OwnerName = 'USDI BUREAU OF LAND MANGEMENT'] {
+    polygon-fill:#FFE583;}
+  [OwnerName = 'Bureau of Land Management'] {
+    polygon-fill:#FFE583;}
  
   
   //Bureau of Reclamation
@@ -67,13 +71,15 @@
 	polygon-fill:#009EB9;}
   [OwnerName = 'USA FISH &amp; GAME']{
 	polygon-fill:#009EB9;}
+  [OwnerName = 'UNITED STATES DEPT OF INTERIOR'] {
+    polygon-fill:#009EB9;}
   
   //National Park Service
   [OwnerName = 'USDI NATIONAL PARK SERVICE'] {
     polygon-fill:#B2ACD6;}
   [OwnerName = 'MONTANA DEPARTMENT OF FISH'] {
     polygon-fill:#B2ACD6;} 
-    [OwnerName = 'MONTANA DEPT OF NATURAL RESOURCES'] {
+   [OwnerName = 'MONTANA DEPT OF NATURAL RESOURCES'] {
     polygon-fill:#B2ACD6;}
   [OwnerName = 'FISH WILDLIFE &amp; PARKS DEPARTMENT OF']{
 	polygon-fill:#B2ACD6;}
@@ -84,7 +90,7 @@
   [OwnerName = 'NATURAL RESOURCES &amp; CONSERVATION DEPT OF MONTANA']{
 	polygon-fill:#B2ACD6;}
   [OwnerName = 'BUREAU OF LAND MANAGEMENT GARNET AREA'] {
-    polygon-fill:#FFE583;}
+    polygon-fill:#B2ACD6;}
  
   
   //US Forest Service
@@ -102,15 +108,21 @@
     polygon-fill:#B2CBBB;}
   [OwnerName = 'USA'] {
     polygon-fill:#B2CBBB;}
-    [OwnerName = 'UNITED STATES OF AMERICA'] {
+   [OwnerName = 'UNITED STATES OF AMERICA'] {
     polygon-fill:#B2CBBB;}
   [OwnerName = 'U S A'] {
     polygon-fill:#B2CBBB;}
   [OwnerName = 'UNITED STATES OF AMERICA FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
+  [OwnerName = 'CUSTER NATIONAL FOREST'] {
+    polygon-fill:#B2CBBB;}
+  [OwnerName = 'DEPARTMENT OF INTERIOR'] {
+    polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
   [OwnerName = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
+    polygon-fill:#BCDEA7;}
+  [OwnerName = 'DEPARTMENT OF AGRICULTURE'] {
     polygon-fill:#BCDEA7;}
   
   //Defense Dept/Army Corp of Engineers
@@ -148,6 +160,8 @@
     polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA DEPARTMENT OF TRANSPORTAION'] {
     polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA DEPT OF FISH, WILDLIFE &amp; PARKS'] {
+    polygon-fill:#BED2FF;}
   
   
   //Montana State Trust Land
@@ -175,6 +189,8 @@
   [OwnerName = 'STATE OF MONTANA STATE BOARD OF LAND COMMISSIONERS']{
     polygon-fill:#A1CBED;}
   [OwnerName = 'STATE OF MONTANA FOREST &amp; CONS EXPERIMENT STATION']{
+    polygon-fill:#A1CBED;}
+  [OwnerName = 'DEPT OF STATE LANDS']{
     polygon-fill:#A1CBED;}
   
   
@@ -251,6 +267,20 @@
     polygon-fill:#B2BCC0;}
   [OwnerName = 'ROUNDUP SCHOOL DISTRICT 55 &amp; 55 H'] {
     polygon-fill:#B2BCC0;}
+  [OwnerName = 'PETROLEUM COUNTRY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'CITY OF DODSON'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'DODSON SCHOOL DISTRICT 2A'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'CITY OF MALTA'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'PHILLIPS COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'PONDERA COUNTY'] {
+    polygon-fill:#B2BCC0;}
+  [OwnerName = 'POWDER RIVER COUNTY'] {
+    polygon-fill:#B2BCC0;}
   
   //Tribal
   [PropType = 'TP - Tribal Property'] {
@@ -276,6 +306,10 @@
   [OwnerName = 'AMERICA BIA'] {
     polygon-fill:#E69900;}
   [OwnerName = 'US DEPT OF INTERIOR B.I.A.'] {
+    polygon-fill:#E69900;}
+  [OwnerName = 'USA IN TRUST FOR THE BLACKFEET TRIBE OF'] {
+    polygon-fill:#E69900;}
+  [OwnerName = 'BLACKFEET TRIBE THE'] {
     polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land
@@ -312,7 +346,7 @@
   
 }
 
-
+//CHAIN BUTTES GRAZING DISTRICT
 //USA IN TRUST FOR TYLER CAROLINE DECELLES, UNKNOWN OWNER
 //HARLEM IRRIGATION DISTRICT, USA IN TRUST FOR PATRICIA QUISNO
 //SECRETARY OF HOUSING AND URBAN DEVELOPMENT, US DEPARTMENT OF ENERGY WESTERN AREA POWER ADMIN

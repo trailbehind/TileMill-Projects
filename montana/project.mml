@@ -576,7 +576,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "park"
+      "name": "park",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -589,7 +590,10 @@
       "id": "petroleum",
       "class": "",
       "Datasource": {
-        "file": "layers/PetroleumOwnerParcel_shp/PetroleumOwnerParcel_shp.shp"
+        "file": "layers/PetroleumOwnerParcel_shp/PetroleumOwnerParcel_shp.shp",
+        "id": "petroleum",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
@@ -608,7 +612,10 @@
       "id": "phillips",
       "class": "",
       "Datasource": {
-        "file": "layers/PhillipsOwnerParcel_shp/PhillipsOwnerParcel_shp.shp"
+        "file": "layers/PhillipsOwnerParcel_shp/PhillipsOwnerParcel_shp.shp",
+        "id": "phillips",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
@@ -627,7 +634,10 @@
       "id": "pondera",
       "class": "",
       "Datasource": {
-        "file": "layers/PonderaOwnerParcel_shp/PonderaOwnerParcel_shp.shp"
+        "file": "layers/PonderaOwnerParcel_shp/PonderaOwnerParcel_shp.shp",
+        "id": "pondera",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
@@ -646,13 +656,15 @@
       "id": "powderriver",
       "class": "",
       "Datasource": {
-        "file": "layers/PowderriverOwnerParcel_shp/PowderriverOwnerParcel_shp.shp"
+        "file": "layers/PowderriverOwnerParcel_shp/PowderriverOwnerParcel_shp.shp",
+        "id": "powderriver",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powderriver",
-      "status": "off"
+      "name": "powderriver"
     },
     {
       "geometry": "polygon",
