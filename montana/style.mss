@@ -79,7 +79,7 @@
     polygon-fill:#B2ACD6;}
   [OwnerName = 'MONTANA DEPARTMENT OF FISH'] {
     polygon-fill:#B2ACD6;} 
-   [OwnerName = 'MONTANA DEPT OF NATURAL RESOURCES'] {
+  [OwnerName = 'MONTANA DEPT OF NATURAL RESOURCES'] {
     polygon-fill:#B2ACD6;}
   [OwnerName = 'FISH WILDLIFE &amp; PARKS DEPARTMENT OF']{
 	polygon-fill:#B2ACD6;}
@@ -94,7 +94,7 @@
  
   
   //US Forest Service
-   [OwnerName = 'UNITED STATES FOREST SERVICE'] {
+  [OwnerName = 'UNITED STATES FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
   [OwnerName = 'US FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
@@ -108,7 +108,7 @@
     polygon-fill:#B2CBBB;}
   [OwnerName = 'USA'] {
     polygon-fill:#B2CBBB;}
-   [OwnerName = 'UNITED STATES OF AMERICA'] {
+  [OwnerName = 'UNITED STATES OF AMERICA'] {
     polygon-fill:#B2CBBB;}
   [OwnerName = 'U S A'] {
     polygon-fill:#B2CBBB;}
@@ -116,14 +116,15 @@
     polygon-fill:#B2CBBB;}
   [OwnerName = 'CUSTER NATIONAL FOREST'] {
     polygon-fill:#B2CBBB;}
+  [OwnerName = 'DEPARTMENT OF AGRICULTURE'] {
+    polygon-fill:#B2CBBB;}
   [OwnerName = 'DEPARTMENT OF INTERIOR'] {
     polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
   [OwnerName = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
     polygon-fill:#BCDEA7;}
-  [OwnerName = 'DEPARTMENT OF AGRICULTURE'] {
-    polygon-fill:#BCDEA7;}
+ 
   
   //Defense Dept/Army Corp of Engineers
   [OwnerName = 'US DEPARTMENT OF DEFENSE'] {
@@ -162,6 +163,8 @@
     polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA DEPT OF FISH, WILDLIFE &amp; PARKS'] {
     polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA DPT FISH WILDLIFE PARK'] {
+    polygon-fill:#B2ACD6;}
   
   
   //Montana State Trust Land

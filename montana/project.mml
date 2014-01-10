@@ -664,7 +664,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powderriver"
+      "name": "powderriver",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -677,13 +678,15 @@
       "id": "powell",
       "class": "",
       "Datasource": {
-        "file": "layers/PowellOwnerParcel_shp/PowellOwnerParcel_shp.shp"
+        "file": "layers/PowellOwnerParcel_shp/PowellOwnerParcel_shp.shp",
+        "id": "powell",
+        "project": "montana",
+        "srs": ""
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powell",
-      "status": "off"
+      "name": "powell"
     },
     {
       "geometry": "polygon",
