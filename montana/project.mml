@@ -686,7 +686,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powell"
+      "name": "powell",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -723,8 +724,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "ravalli",
-      "status": "off"
+      "name": "ravalli"
     },
     {
       "geometry": "polygon",

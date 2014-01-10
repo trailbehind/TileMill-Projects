@@ -120,6 +120,8 @@
     polygon-fill:#B2CBBB;}
   [OwnerName = 'DEPARTMENT OF INTERIOR'] {
     polygon-fill:#B2CBBB;}
+  [OwnerName = 'USA - FOREST SERVICE'] {
+    polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
   [OwnerName = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
@@ -172,6 +174,10 @@
   [OwnerName = 'MONTANA STATE PRISON'] {
     polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA FISH WILDLIFE AND PARKS'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA STATE DPT OF TRANSPORTAION'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA STATE OF'] {
     polygon-fill:#BED2FF;}
   
   
