@@ -38,7 +38,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "bighorn"
+      "name": "bighorn",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -59,7 +60,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "beaverhead"
+      "name": "beaverhead",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -80,7 +82,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "blaine"
+      "name": "blaine",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -101,7 +104,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "broadwater"
+      "name": "broadwater",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -122,7 +126,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "carbon"
+      "name": "carbon",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -143,7 +148,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "carter"
+      "name": "carter",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -164,7 +170,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "cascade"
+      "name": "cascade",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -185,7 +192,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "custer"
+      "name": "custer",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -206,7 +214,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "dawson"
+      "name": "dawson",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -227,7 +236,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "fallon"
+      "name": "fallon",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -248,7 +258,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "flathead"
+      "name": "flathead",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -269,7 +280,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "garfield"
+      "name": "garfield",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -290,7 +302,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "goldenvalley"
+      "name": "goldenvalley",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -308,7 +321,832 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "jefferson"
+      "name": "jefferson",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.77429739099897,
+        46.66797456943477,
+        -109.74894814558687,
+        47.42183775211099
+      ],
+      "id": "judithbasin",
+      "class": "",
+      "Datasource": {
+        "file": "layers/JudithbasinOwnerParcel_shp/JudithbasinOwnerParcel_shp.shp",
+        "id": "judithbasin",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "judithbasin",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -114.54429327162191,
+        47.113035982556035,
+        -113.62742295883197,
+        48.06654599616738
+      ],
+      "id": "lakeowner",
+      "class": "",
+      "Datasource": {
+        "file": "layers/LakeOwnerParcel_shp/LakeOwnerParcel_shp.shp",
+        "id": "lakeowner",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "lakeowner",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.07595042046222,
+        46.39228295689608,
+        -111.5406788927319,
+        47.98813689095595
+      ],
+      "id": "lewisclark",
+      "class": "",
+      "Datasource": {
+        "file": "layers/LewisclarkOwnerParcel_shp/LewisclarkOwnerParcel_shp.shp",
+        "id": "lewisclark",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "lewisclark",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.40873456214504,
+        48.12522945216291,
+        -110.74319170175784,
+        49.00389617195962
+      ],
+      "id": "liberty",
+      "class": "",
+      "Datasource": {
+        "file": "layers/LibertyOwnerParcel_shp/LibertyOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "liberty",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -116.00361321927313,
+        47.85193388492898,
+        -114.6437022933733,
+        49.069947054175856
+      ],
+      "id": "lincoln",
+      "class": "",
+      "Datasource": {
+        "file": "layers/LincolnOwnerParcel_shp/LincolnOwnerParcel_shp.shp",
+        "id": "lincoln",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "lincoln",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -112.65640814978158,
+        44.68113716978868,
+        -111.35916054903197,
+        45.87186925616871
+      ],
+      "id": "madison",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MadisonOwnerParcel_shp/MadisonOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "madison",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -106.47696489705245,
+        47.1077285095774,
+        -105.17692851274082,
+        48.08964552735565
+      ],
+      "id": "mccone",
+      "class": "",
+      "Datasource": {
+        "file": "layers/McconeOwnerParcel_shp/McconeOwnerParcel_shp.shp",
+        "id": "mccone",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mccone",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.62856324075166,
+        46.167013487855115,
+        -110.2789299925208,
+        47.097649257191335
+      ],
+      "id": "meagher",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MeagherOwnerParcel_shp/MeagherOwnerParcel_shp.shp",
+        "id": "meagher",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "meagher",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -115.6693971308662,
+        46.650780968844494,
+        -114.46815856854987,
+        47.546811322957964
+      ],
+      "id": "mineral",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MineralOwnerParcel_shp/MineralOwnerParcel_shp.shp",
+        "id": "mineral",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "mineral",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -114.73559100881943,
+        46.61433636165903,
+        -113.33486679451087,
+        47.62229652217893
+      ],
+      "id": "missoula",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MissoulaOwnerParcel_shp/MissoulaOwnerParcel_shp.shp",
+        "id": "missoula",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "missoula",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -109.01523969400675,
+        46.13371624137787,
+        -107.77055809258444,
+        46.75508972400639
+      ],
+      "id": "musselshell",
+      "class": "",
+      "Datasource": {
+        "file": "layers/MusselshellOwnerParcel_shp/MusselshellOwnerParcel_shp.shp",
+        "id": "musselshell",
+        "project": "montana",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "musselshell",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.04464464589485,
+        44.9863003147208,
+        -109.80430872401348,
+        46.199603115262754
+      ],
+      "id": "park",
+      "class": "",
+      "Datasource": {
+        "file": "layers/ParkOwnerParcel_shp/ParkOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "park"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -108.742224330621,
+        46.750181938868934,
+        -107.79941434391377,
+        47.588659813764416
+      ],
+      "id": "petroleum",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PetroleumOwnerParcel_shp/PetroleumOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "petroleum",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -108.89572035185769,
+        47.46491861752054,
+        -107.17074215549444,
+        48.99992559570682
+      ],
+      "id": "phillips",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PhillipsOwnerParcel_shp/PhillipsOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "phillips",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.32303351500127,
+        47.94010804651484,
+        -111.41959565353348,
+        48.507892159854244
+      ],
+      "id": "pondera",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PonderaOwnerParcel_shp/PonderaOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "pondera",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -106.3002426186912,
+        44.994878470391626,
+        -104.95156033090842,
+        45.785750429125876
+      ],
+      "id": "powderriver",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PowderriverOwnerParcel_shp/PowderriverOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "powderriver",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.397843653194,
+        46.23995025736211,
+        -112.34745124445641,
+        47.63299048020679
+      ],
+      "id": "powell",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PowellOwnerParcel_shp/PowellOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "powell",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -106.12517774734673,
+        46.57100115124323,
+        -104.56142041752905,
+        47.15126003706501
+      ],
+      "id": "prairie",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PrairieOwnerParcel_shp/PrairieOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "prairie",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -114.55537016417033,
+        45.449221538264105,
+        -113.57163175957722,
+        46.690564320462016
+      ],
+      "id": "ravalli",
+      "class": "",
+      "Datasource": {
+        "file": "layers/RavalliOwnerParcel_shp/RavalliOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "ravalli",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -105.27340996067439,
+        47.38518458094309,
+        -103.97084341984589,
+        48.112234771473254
+      ],
+      "id": "richland",
+      "class": "",
+      "Datasource": {
+        "file": "layers/RichlandOwnerParcel_shp/RichlandOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "richland",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -105.85810378024537,
+        48.01392542843036,
+        -103.98826014821219,
+        48.529590518978615
+      ],
+      "id": "roosevelt",
+      "class": "",
+      "Datasource": {
+        "file": "layers/RooseveltOwnerParcel_shp/RooseveltOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "roosevelt",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -107.945499344575,
+        45.20190951542532,
+        -106.08540714917888,
+        46.84585029453069
+      ],
+      "id": "rosebud",
+      "class": "",
+      "Datasource": {
+        "file": "layers/RosebudOwnerParcel_shp/RosebudOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "rosebud",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -115.93408203109438,
+        47.038626310503496,
+        -114.29049034865811,
+        48.33323525161055
+      ],
+      "id": "sanders",
+      "class": "",
+      "Datasource": {
+        "file": "layers/SandersOwnerParcel_shp/SandersOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "sanders",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -105.10802808463238,
+        48.40829744915219,
+        -103.9826819206507,
+        48.99650458785263
+      ],
+      "id": "sheridan",
+      "class": "",
+      "Datasource": {
+        "file": "layers/SheridanOwnerParcel_shp/SheridanOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "sheridan",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.06959830218761,
+        45.6134487411295,
+        -112.2120213369707,
+        46.193176687670224
+      ],
+      "id": "silverbow",
+      "class": "",
+      "Datasource": {
+        "file": "layers/SilverbowOwnerParcel_shp/SilverbowOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "silverbow",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.04399405410858,
+        45.16616167450072,
+        -108.83673568480727,
+        46.131738931392476
+      ],
+      "id": "stillwater",
+      "class": "",
+      "Datasource": {
+        "file": "layers/StillwaterOwnerParcel_shp/StillwaterOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "stillwater",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.28395120501642,
+        45.17069076724917,
+        -109.41688581261828,
+        46.22328334801157
+      ],
+      "id": "sweetgrass",
+      "class": "",
+      "Datasource": {
+        "file": "layers/SweetgrassOwnerParcel_shp/SweetgrassOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "sweetgrass",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -112.97133566652923,
+        47.474680815883175,
+        -111.41510704325447,
+        48.168152701745264
+      ],
+      "id": "teton",
+      "class": "",
+      "Datasource": {
+        "file": "layers/TetonOwnerParcel_shp/TetonOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "teton",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -112.17064962090399,
+        48.20254285650266,
+        -111.27049971587736,
+        49.015780967845416
+      ],
+      "id": "toole",
+      "class": "",
+      "Datasource": {
+        "file": "layers/TooleOwnerParcel_shp/TooleOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "toole",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -107.75779576403419,
+        45.88323789671782,
+        -106.91031877595246,
+        46.47698455080926
+      ],
+      "id": "treasure",
+      "class": "",
+      "Datasource": {
+        "file": "layers/TreasureOwnerParcel_shp/TreasureOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "treasure",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -107.42614869847374,
+        47.672403160112815,
+        -105.74940457981634,
+        48.988577786049305
+      ],
+      "id": "valley",
+      "class": "",
+      "Datasource": {
+        "file": "layers/ValleyOwnerParcel_shp/ValleyOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "valley",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.28194147768716,
+        46.216551039358805,
+        -109.38800325415647,
+        46.75386155902613
+      ],
+      "id": "wheatland",
+      "class": "",
+      "Datasource": {
+        "file": "layers/WheatlandOwnerParcel_shp/WheatlandOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wheatland",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -104.62351235506175,
+        46.65324328586722,
+        -103.96826797293365,
+        47.393393895111494
+      ],
+      "id": "wibaux",
+      "class": "",
+      "Datasource": {
+        "file": "layers/WibauxOwnerParcel_shp/WibauxOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wibaux",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -108.93157309809706,
+        45.463995828758016,
+        -107.4497774405951,
+        46.49093730654067
+      ],
+      "id": "yellowstone",
+      "class": "",
+      "Datasource": {
+        "file": "layers/YellowstoneOwnerParcel_shp/YellowstoneOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "yellowstone",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.75095043925367,
+        44.46310535714285,
+        -110.78395233009883,
+        46.19771078018246
+      ],
+      "id": "gallatin",
+      "class": "",
+      "Datasource": {
+        "file": "layers/GallatinOwnerParcel_shp/GallatinOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "gallatin",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -114.00386337601981,
+        48.26353605175036,
+        -112.19642035747893,
+        49.05598115845553
+      ],
+      "id": "glacier",
+      "class": "",
+      "Datasource": {
+        "file": "layers/GlacierOwnerParcel_shp/GlacierOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "glacier",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -106.17402425716641,
+        48.5678333839486,
+        -104.93541639256824,
+        48.99438300070496
+      ],
+      "id": "daniels",
+      "class": "",
+      "Datasource": {
+        "file": "layers/DanielsOwnerParcel_shp/DanielsOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "daniels",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -111.39820325848193,
+        47.401581705766006,
+        -109.53314966309692,
+        48.311878795620736
+      ],
+      "id": "chouteau",
+      "class": "",
+      "Datasource": {
+        "file": "layers/ChouteauOwnerParcel_shp/ChouteauOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "chouteau",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.50378198824107,
+        45.75299788829546,
+        -112.5594415257765,
+        46.28077310119022
+      ],
+      "id": "deerlodge",
+      "class": "",
+      "Datasource": {
+        "file": "layers/DeerlodgeOwnerParcel_shp/DeerlodgeOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "deerlodge",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.20445064369748,
+        46.69132122561847,
+        -108.3046060967462,
+        47.79968738930222
+      ],
+      "id": "fergus",
+      "class": "",
+      "Datasource": {
+        "file": "layers/FergusOwnerParcel_shp/FergusOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "fergus",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -113.83251257273982,
+        45.926637171806604,
+        -113.0458642445046,
+        46.84424106129276
+      ],
+      "id": "granite",
+      "class": "",
+      "Datasource": {
+        "file": "layers/GraniteOwnerParcel_shp/GraniteOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "granite",
+      "status": "off"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -110.753604149977,
+        48.12581774891791,
+        -109.46393062603163,
+        49.00509025712919
+      ],
+      "id": "hill",
+      "class": "",
+      "Datasource": {
+        "file": "layers/HillOwnerParcel_shp/HillOwnerParcel_shp.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "hill",
+      "status": "off"
     }
   ],
   "scale": 1,
