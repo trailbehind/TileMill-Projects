@@ -163,8 +163,16 @@
     polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA DEPT OF FISH, WILDLIFE &amp; PARKS'] {
     polygon-fill:#BED2FF;}
-  [OwnerName = 'MONTANA DPT FISH WILDLIFE PARK'] {
-    polygon-fill:#B2ACD6;}
+  [OwnerName = 'MONTANA DPT OF FISH WILDLIFE &amp; PARK'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA DPT FISH WILDLIFE PARKS'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MT DEPT OF FISH WILDLIFE &amp; PARKS'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA STATE PRISON'] {
+    polygon-fill:#BED2FF;}
+  [OwnerName = 'MONTANA FISH WILDLIFE AND PARKS'] {
+    polygon-fill:#BED2FF;}
   
   
   //Montana State Trust Land
