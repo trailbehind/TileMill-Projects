@@ -35,7 +35,9 @@
         "extent_cache": "auto",
         "extent": "-116.049131702991,44.3579154506403,-104.039693709173,49.001098863633",
         "host": "localhost",
-        "dbname": "gis"
+        "dbname": "gis",
+        "password": "gis",
+        "user": "gis"
       },
       "id": "montanacadastral",
       "class": "",
