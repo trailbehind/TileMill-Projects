@@ -38,8 +38,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "bighorn",
-      "status": "off"
+      "name": "bighorn"
     },
     {
       "geometry": "polygon",
@@ -60,8 +59,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "beaverhead",
-      "status": "off"
+      "name": "beaverhead"
     },
     {
       "geometry": "polygon",
@@ -82,8 +80,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "blaine",
-      "status": "off"
+      "name": "blaine"
     },
     {
       "geometry": "polygon",
@@ -104,8 +101,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "broadwater",
-      "status": "off"
+      "name": "broadwater"
     },
     {
       "geometry": "polygon",
@@ -126,8 +122,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "carbon",
-      "status": "off"
+      "name": "carbon"
     },
     {
       "geometry": "polygon",
@@ -148,8 +143,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "carter",
-      "status": "off"
+      "name": "carter"
     },
     {
       "geometry": "polygon",
@@ -170,8 +164,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "cascade",
-      "status": "off"
+      "name": "cascade"
     },
     {
       "geometry": "polygon",
@@ -192,8 +185,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "custer",
-      "status": "off"
+      "name": "custer"
     },
     {
       "geometry": "polygon",
@@ -214,8 +206,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "dawson",
-      "status": "off"
+      "name": "dawson"
     },
     {
       "geometry": "polygon",
@@ -236,8 +227,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "fallon",
-      "status": "off"
+      "name": "fallon"
     },
     {
       "geometry": "polygon",
@@ -258,8 +248,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "flathead",
-      "status": "off"
+      "name": "flathead"
     },
     {
       "geometry": "polygon",
@@ -280,8 +269,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "garfield",
-      "status": "off"
+      "name": "garfield"
     },
     {
       "geometry": "polygon",
@@ -302,8 +290,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "goldenvalley",
-      "status": "off"
+      "name": "goldenvalley"
     },
     {
       "geometry": "polygon",
@@ -321,8 +308,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "jefferson",
-      "status": "off"
+      "name": "jefferson"
     },
     {
       "geometry": "polygon",
@@ -343,8 +329,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "judithbasin",
-      "status": "off"
+      "name": "judithbasin"
     },
     {
       "geometry": "polygon",
@@ -365,8 +350,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "lakeowner",
-      "status": "off"
+      "name": "lakeowner"
     },
     {
       "geometry": "polygon",
@@ -387,8 +371,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "lewisclark",
-      "status": "off"
+      "name": "lewisclark"
     },
     {
       "geometry": "polygon",
@@ -406,8 +389,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "liberty",
-      "status": "off"
+      "name": "liberty"
     },
     {
       "geometry": "polygon",
@@ -428,8 +410,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "lincoln",
-      "status": "off"
+      "name": "lincoln"
     },
     {
       "geometry": "polygon",
@@ -447,8 +428,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "madison",
-      "status": "off"
+      "name": "madison"
     },
     {
       "geometry": "polygon",
@@ -469,8 +449,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "mccone",
-      "status": "off"
+      "name": "mccone"
     },
     {
       "geometry": "polygon",
@@ -491,8 +470,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "meagher",
-      "status": "off"
+      "name": "meagher"
     },
     {
       "geometry": "polygon",
@@ -513,8 +491,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "mineral",
-      "status": "off"
+      "name": "mineral"
     },
     {
       "geometry": "polygon",
@@ -535,8 +512,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "missoula",
-      "status": "off"
+      "name": "missoula"
     },
     {
       "geometry": "polygon",
@@ -557,8 +533,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "musselshell",
-      "status": "off"
+      "name": "musselshell"
     },
     {
       "geometry": "polygon",
@@ -576,8 +551,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "park",
-      "status": "off"
+      "name": "park"
     },
     {
       "geometry": "polygon",
@@ -598,8 +572,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "petroleum",
-      "status": "off"
+      "name": "petroleum"
     },
     {
       "geometry": "polygon",
@@ -620,8 +593,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "phillips",
-      "status": "off"
+      "name": "phillips"
     },
     {
       "geometry": "polygon",
@@ -642,8 +614,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "pondera",
-      "status": "off"
+      "name": "pondera"
     },
     {
       "geometry": "polygon",
@@ -664,8 +635,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powderriver",
-      "status": "off"
+      "name": "powderriver"
     },
     {
       "geometry": "polygon",
@@ -686,8 +656,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "powell",
-      "status": "off"
+      "name": "powell"
     },
     {
       "geometry": "polygon",
@@ -705,8 +674,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "prairie",
-      "status": "off"
+      "name": "prairie"
     },
     {
       "geometry": "polygon",
@@ -742,8 +710,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "richland",
-      "status": "off"
+      "name": "richland"
     },
     {
       "geometry": "polygon",
@@ -761,8 +728,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "roosevelt",
-      "status": "off"
+      "name": "roosevelt"
     },
     {
       "geometry": "polygon",
@@ -780,8 +746,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "rosebud",
-      "status": "off"
+      "name": "rosebud"
     },
     {
       "geometry": "polygon",
@@ -799,8 +764,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "sanders",
-      "status": "off"
+      "name": "sanders"
     },
     {
       "geometry": "polygon",
@@ -818,8 +782,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "sheridan",
-      "status": "off"
+      "name": "sheridan"
     },
     {
       "geometry": "polygon",
@@ -837,8 +800,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "silverbow",
-      "status": "off"
+      "name": "silverbow"
     },
     {
       "geometry": "polygon",
@@ -856,8 +818,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "stillwater",
-      "status": "off"
+      "name": "stillwater"
     },
     {
       "geometry": "polygon",
@@ -875,8 +836,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "sweetgrass",
-      "status": "off"
+      "name": "sweetgrass"
     },
     {
       "geometry": "polygon",
@@ -894,8 +854,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "teton",
-      "status": "off"
+      "name": "teton"
     },
     {
       "geometry": "polygon",
@@ -913,8 +872,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "toole",
-      "status": "off"
+      "name": "toole"
     },
     {
       "geometry": "polygon",
@@ -932,8 +890,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "treasure",
-      "status": "off"
+      "name": "treasure"
     },
     {
       "geometry": "polygon",
@@ -951,8 +908,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "valley",
-      "status": "off"
+      "name": "valley"
     },
     {
       "geometry": "polygon",
@@ -970,8 +926,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "wheatland",
-      "status": "off"
+      "name": "wheatland"
     },
     {
       "geometry": "polygon",
@@ -989,8 +944,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "wibaux",
-      "status": "off"
+      "name": "wibaux"
     },
     {
       "geometry": "polygon",
@@ -1008,8 +962,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "yellowstone",
-      "status": "off"
+      "name": "yellowstone"
     },
     {
       "geometry": "polygon",
@@ -1027,8 +980,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "gallatin",
-      "status": "off"
+      "name": "gallatin"
     },
     {
       "geometry": "polygon",
@@ -1046,8 +998,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "glacier",
-      "status": "off"
+      "name": "glacier"
     },
     {
       "geometry": "polygon",
@@ -1065,8 +1016,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "daniels",
-      "status": "off"
+      "name": "daniels"
     },
     {
       "geometry": "polygon",
@@ -1084,8 +1034,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "chouteau",
-      "status": "off"
+      "name": "chouteau"
     },
     {
       "geometry": "polygon",
@@ -1103,8 +1052,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "deerlodge",
-      "status": "off"
+      "name": "deerlodge"
     },
     {
       "geometry": "polygon",
@@ -1122,8 +1070,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "fergus",
-      "status": "off"
+      "name": "fergus"
     },
     {
       "geometry": "polygon",
@@ -1141,8 +1088,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "granite",
-      "status": "off"
+      "name": "granite"
     },
     {
       "geometry": "polygon",
@@ -1160,8 +1106,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "hill",
-      "status": "off"
+      "name": "hill"
     }
   ],
   "scale": 1,

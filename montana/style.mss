@@ -175,9 +175,7 @@
     polygon-fill:#BED2FF;}
   [OwnerName = 'MONTANA FISH WILDLIFE AND PARKS'] {
     polygon-fill:#BED2FF;}
-  [OwnerName = 'MONTANA STATE DPT OF TRANSPORTAION'] {
-    polygon-fill:#BED2FF;}
-  [OwnerName = 'MONTANA STATE OF'] {
+  [OwnerName = 'MONTANA STATE DPT OF TRANSPORTATION'] {
     polygon-fill:#BED2FF;}
   
   
@@ -209,6 +207,8 @@
     polygon-fill:#A1CBED;}
   [OwnerName = 'DEPT OF STATE LANDS']{
     polygon-fill:#A1CBED;}
+  [OwnerName = 'MONTANA STATE OF'] {
+    polygon-fill:#BED2FF;}
   
   
   //Local Government
