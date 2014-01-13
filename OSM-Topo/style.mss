@@ -1,4 +1,4 @@
-#contours1000[zoom <= 10] {
+#contours1000[zoom <= 11] {
   line-width: @contour_width;
   line-color:@contour;
   text-name:"[height].replace('(.*)(\..*)','$1')";
@@ -11,7 +11,6 @@
   text-min-distance:100;
   text-min-path-length:500;
   text-max-char-angle-delta : 20;
-  [zoom > 15] {text-min-path-length:100;}
 }
 
 #contours40[zoom > 13] {
@@ -19,7 +18,7 @@
   line-color: @contour;
 }
 
-#contours200[zoom > 10] {
+#contours200[zoom > 11] {
   line-width: @contour_width;
   line-color:@contour;
   text-name:"[height].replace('(.*)(\..*)','$1')";
@@ -34,7 +33,6 @@
   text-max-char-angle-delta : 20;
   [zoom > 15] {text-min-path-length:100;}
 }
-
 
 #counties {
   line-color:black;
@@ -48,4 +46,12 @@
     text-transform: uppercase; 
     text-label-position-tolerance: 10;
   }
+}
+
+/******************************************************************* */
+/* Trails                                                            */
+/******************************************************************* */
+#trails {
+  line-width:1;
+  line-color:red;
 }

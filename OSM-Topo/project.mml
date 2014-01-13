@@ -334,7 +334,7 @@
       ],
       "Datasource": {
         "type": "postgis",
-        "table": "(select geometry,height from contoursfeet where interval=1000) as contours1000",
+        "table": "(select st_simplify(geometry, 0.0001) as geometry, height from contoursfeet where interval=1000) as contours1000",
         "key_field": "",
         "geometry_field": "geometry",
         "extent_cache": "auto",
@@ -493,6 +493,34 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "srs-name": "900913",
       "status": "on"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -131.69312728194603,
+        26.987366188822985,
+        -99.37272737388791,
+        55.35383950582487
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(SELECT way, highway AS type, surface, bicycle, foot, horse, name\n    FROM planet_osm_line\n    WHERE highway IN ('footway', 'trail', 'cycleway', 'bridleway', 'path') order by name\n) as data",
+        "key_field": "",
+        "geometry_field": "way",
+        "extent_cache": "auto",
+        "extent": "-14660011.87,3121893.41,-11062121.41,7430844.22",
+        "host": "localhost",
+        "dbname": "gis",
+        "id": "trails",
+        "project": "OSM-Topo",
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
+      },
+      "id": "trails",
+      "class": "",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "advanced": {},
+      "name": "trails"
     },
     {
       "Datasource": {
