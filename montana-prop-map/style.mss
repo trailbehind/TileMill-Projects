@@ -310,7 +310,7 @@
   
   [zoom > 10] {
   text-name:[ownername];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: 'DejaVu Sans Book';
   text-dx: 5;
   [zoom = 10]{  
   text-size:10;}
