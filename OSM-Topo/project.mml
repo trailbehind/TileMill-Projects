@@ -277,18 +277,18 @@
     {
       "geometry": "linestring",
       "extent": [
-        -121.00055555560002,
-        37.99944444444,
-        -118.99944444448501,
-        39.0005555555555
+        -116.0005555556,
+        31.99944444444,
+        -112.999444444476,
+        33.0005555555555
       ],
       "Datasource": {
         "type": "postgis",
-        "table": "contours40",
+        "table": "(select geometry from contoursfeet where interval=40) as contours40",
         "key_field": "",
-        "geometry_field": "",
+        "geometry_field": "geometry",
         "extent_cache": "auto",
-        "extent": "-121.0005555556,37.99944444444,-118.999444444485,39.0005555555555",
+        "extent": "-116.0005555556,31.99944444444,-112.999444444476,33.0005555555555",
         "host": "localhost",
         "dbname": "gis"
       },
@@ -302,18 +302,18 @@
     {
       "geometry": "linestring",
       "extent": [
-        -121.00055555560002,
-        37.99944444444,
-        -118.99944444448501,
-        39.0005555555555
+        -116.0005555556,
+        31.99944444444,
+        -112.999444444476,
+        33.0005555555555
       ],
       "Datasource": {
         "type": "postgis",
-        "table": "contours200",
+        "table": "(select geometry,height from contoursfeet where interval=200 or interval=1000) as contours200",
         "key_field": "",
-        "geometry_field": "",
+        "geometry_field": "geometry",
         "extent_cache": "auto",
-        "extent": "-121.0005555556,37.99944444444,-118.999444444485,39.0005555555555",
+        "extent": "-116.0005555556,31.99944444444,-112.999444444476,33.0005555555555",
         "host": "localhost",
         "dbname": "gis"
       },
@@ -323,6 +323,31 @@
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
       "advanced": {},
       "name": "contours200"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -116.0005555556,
+        31.99944444444,
+        -112.999444444476,
+        33.0005555555555
+      ],
+      "Datasource": {
+        "type": "postgis",
+        "table": "(select geometry,height from contoursfeet where interval=1000) as contours1000",
+        "key_field": "",
+        "geometry_field": "geometry",
+        "extent_cache": "auto",
+        "extent": "-116.0005555556,31.99944444444,-112.999444444476,33.0005555555555",
+        "host": "localhost",
+        "dbname": "gis"
+      },
+      "id": "contours1000",
+      "class": "",
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "contours1000"
     },
     {
       "Datasource": {
