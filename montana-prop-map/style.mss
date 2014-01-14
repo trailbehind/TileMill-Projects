@@ -30,6 +30,8 @@
     polygon-fill:#FFE583;}
   [ownername = 'USDI BLM (RESERVED)'] {
     polygon-fill:#FFE583;}
+  [ownername = 'USDI BUREAU OF LAND MGMT (RESERVED)'] {
+    polygon-fill:#FFE583;}
  
   
   //Bureau of Reclamation
@@ -125,6 +127,8 @@
     polygon-fill:#B2CBBB;}
   [ownername = 'FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
+  [ownername = 'USA - FOREST SERVICE'] {
+    polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
   [ownername = 'UNITED STATES DEPARTMENT OF AGRICULTURE'] {
@@ -182,13 +186,13 @@
     polygon-fill:#BED2FF;}
   [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARK'] {
     polygon-fill:#BED2FF;}
-  [ownername = 'MONTANA STATE OF'] {
-    polygon-fill:#BED2FF;}
   [ownername = 'MT DEPT FISH WILDLIFE &amp; PARKS']{
     polygon-fill:#BED2FF;}
   [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
     polygon-fill:#BED2FF;}
   [ownername = 'MONTANA DEPARTMENT OF FISH, WILDLIFE AND PARKS'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA STATE OF FISH &amp; GAME COMMISSION'] {
     polygon-fill:#BED2FF;}
   
   
@@ -198,8 +202,6 @@
   [ownername = 'DNRC']{
     polygon-fill:#A1CBED;} 
   //NOT WORKING
-  [ownername = 'USA IN TRUST']{
-    polygon-fill:#A1CBED;}
   [ownername = 'USA IN TRUST/CSKT']{
     polygon-fill:#A1CBED;}
   [ownername = 'DEPT OF STATE LANDS']{
@@ -224,7 +226,10 @@
     polygon-fill:#A1CBED;}
   [ownername = 'STATE OF MT TRUST LAND']{
     polygon-fill:#A1CBED;}
-  
+  [ownername = 'MONTANA STATE OF'] {
+    polygon-fill:#A1CBED;}
+  [ownername = 'STATE OF MONTANA - TRUST'] {
+    polygon-fill:#A1CBED;}
   
   //Local Government
   [ownername = 'CITY HALL - CHINOOK'] {
@@ -364,6 +369,14 @@
   [ownername = 'CROW TRIBE (OFF RES)'] {
     polygon-fill:#E69900;}
   [ownername = 'CROW TRIBE OF INDIANS THE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'U S A IN TRUST'] {
+    polygon-fill:#E69900;}
+  [ownername = 'USA IN TRUST']{
+    polygon-fill:#E69900;}
+  [ownername = 'U S A TRUST']{
+    polygon-fill:#E69900;}
+  [ownername = 'ROCKY BOYS INDIAN RESERVATION']{
     polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land
