@@ -43,12 +43,12 @@
     polygon-fill:#FFF9AE;}
   [ownername = 'BUREAU OF RECLAMATION GREENFIELD IRRIGATION DIST']{
         polygon-fill:#FFF9AE;}
+  [ownername = 'BUREAU OF RECLAMATION']{
+        polygon-fill:#FFF9AE;}
   
   //US Fish and Wildlife
   [ownername = 'USDI FISH &amp; WILDLIFE SERVICE']{
         polygon-fill:#009EB9;}
-  [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
-    polygon-fill:#009EB9;}
   [ownername = 'USDI FISH WILDLIFE SERVICE']{
         polygon-fill:#009EB9;}
   [ownername = 'USDI FISH WILDLIFE SERVICES']{
@@ -66,6 +66,8 @@
   [ownername = 'USA FISH &amp; GAME']{
         polygon-fill:#009EB9;}
   [ownername = 'UNITED STATES DEPT OF INTERIOR'] {
+    polygon-fill:#009EB9;}
+  [ownername = 'FISH &amp; WILDLIFE SERVICE'] {
     polygon-fill:#009EB9;}
   
   //National Park Service
@@ -120,6 +122,8 @@
   [ownername = 'USDA FORERST SERVICE'] {
     polygon-fill:#B2CBBB;}
   [ownername = 'USDA FOREST SERIVCE'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
@@ -180,6 +184,12 @@
     polygon-fill:#BED2FF;}
   [ownername = 'MONTANA STATE OF'] {
     polygon-fill:#BED2FF;}
+  [ownername = 'MT DEPT FISH WILDLIFE &amp; PARKS']{
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPARTMENT OF FISH, WILDLIFE AND PARKS'] {
+    polygon-fill:#BED2FF;}
   
   
   //Montana State Trust Land
@@ -211,6 +221,8 @@
   [ownername = 'DEPT OF STATE LANDS']{
     polygon-fill:#A1CBED;}
   [ownername = 'STATE OF MONTANA STATE LANDS']{
+    polygon-fill:#A1CBED;}
+  [ownername = 'STATE OF MT TRUST LAND']{
     polygon-fill:#A1CBED;}
   
   
@@ -301,6 +313,8 @@
     polygon-fill:#B2BCC0;}
   [ownername = 'POWDER RIVER COUNTY'] {
     polygon-fill:#B2BCC0;}
+  [ownername = 'GALLATIN COUNTY'] {
+    polygon-fill:#B2BCC0;}
   
   //Tribal
   [proptype = 'TP - Tribal Property'] {
@@ -346,6 +360,10 @@
   [ownername = 'U S A IN TRUST FOR CROW TRIBE'] {
     polygon-fill:#E69900;}
   [ownername = 'FLATHEAD RESERVATION'] {
+    polygon-fill:#E69900;}
+  [ownername = 'CROW TRIBE (OFF RES)'] {
+    polygon-fill:#E69900;}
+  [ownername = 'CROW TRIBE OF INDIANS THE'] {
     polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land
