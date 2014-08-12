@@ -24,6 +24,14 @@
     polygon-fill:#FFE583;}
   [ownername = 'Bureau of Land Management'] {
     polygon-fill:#FFE583;}
+  [ownername = 'USDI BLM (RESERVED) MONTANA STATE OFFICE'] {
+    polygon-fill:#FFE583;}
+  [ownername = 'US DOI'] {
+    polygon-fill:#FFE583;}
+  [ownername = 'USDI BLM (RESERVED)'] {
+    polygon-fill:#FFE583;}
+  [ownername = 'USDI BUREAU OF LAND MGMT (RESERVED)'] {
+    polygon-fill:#FFE583;}
  
   
   //Bureau of Reclamation
@@ -35,12 +43,14 @@
         polygon-fill:#FFF9AE;}
   [ownername = 'USDA - BUREAU OF LAND MGMT-RES'] {
     polygon-fill:#FFF9AE;}
+  [ownername = 'BUREAU OF RECLAMATION GREENFIELD IRRIGATION DIST']{
+        polygon-fill:#FFF9AE;}
+  [ownername = 'BUREAU OF RECLAMATION']{
+        polygon-fill:#FFF9AE;}
   
   //US Fish and Wildlife
   [ownername = 'USDI FISH &amp; WILDLIFE SERVICE']{
         polygon-fill:#009EB9;}
-  [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
-    polygon-fill:#009EB9;}
   [ownername = 'USDI FISH WILDLIFE SERVICE']{
         polygon-fill:#009EB9;}
   [ownername = 'USDI FISH WILDLIFE SERVICES']{
@@ -58,6 +68,8 @@
   [ownername = 'USA FISH &amp; GAME']{
         polygon-fill:#009EB9;}
   [ownername = 'UNITED STATES DEPT OF INTERIOR'] {
+    polygon-fill:#009EB9;}
+  [ownername = 'FISH &amp; WILDLIFE SERVICE'] {
     polygon-fill:#009EB9;}
   
   //National Park Service
@@ -77,6 +89,7 @@
         polygon-fill:#B2ACD6;}
   [ownername = 'BUREAU OF LAND MANAGEMENT GARNET AREA'] {
     polygon-fill:#B2ACD6;}
+  
  
   
   //US Forest Service
@@ -105,6 +118,16 @@
   [ownername = 'DEPARTMENT OF AGRICULTURE'] {
     polygon-fill:#B2CBBB;}
   [ownername = 'DEPARTMENT OF INTERIOR'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'USDA'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'USDA FORERST SERVICE'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'USDA FOREST SERIVCE'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'FOREST SERVICE'] {
+    polygon-fill:#B2CBBB;}
+  [ownername = 'USA - FOREST SERVICE'] {
     polygon-fill:#B2CBBB;}
  
   //US Dept of Agriculture
@@ -149,6 +172,28 @@
     polygon-fill:#BED2FF;}
   [ownername = 'MONTANA DEPT OF FISH, WILDLIFE &amp; PARKS'] {
     polygon-fill:#BED2FF;}
+  [ownername = 'STATE OF MONTANA FISH &amp; GAME'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA FISH &amp; GAME DEPT'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPT OF HIGHWAYS'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'STATE OF MONTANA DEPARTMENT OF'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'STATE OF MONTANA FISH &amp; GAME'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA STATE FISH &amp; GAME COMMISSION'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARK'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MT DEPT FISH WILDLIFE &amp; PARKS']{
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPT OF FISH WILDLIFE &amp; PARKS'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA DEPARTMENT OF FISH, WILDLIFE AND PARKS'] {
+    polygon-fill:#BED2FF;}
+  [ownername = 'MONTANA STATE OF FISH &amp; GAME COMMISSION'] {
+    polygon-fill:#BED2FF;}
   
   
   //Montana State Trust Land
@@ -157,8 +202,6 @@
   [ownername = 'DNRC']{
     polygon-fill:#A1CBED;} 
   //NOT WORKING
-  [ownername = 'USA IN TRUST']{
-    polygon-fill:#A1CBED;}
   [ownername = 'USA IN TRUST/CSKT']{
     polygon-fill:#A1CBED;}
   [ownername = 'DEPT OF STATE LANDS']{
@@ -179,7 +222,14 @@
     polygon-fill:#A1CBED;}
   [ownername = 'DEPT OF STATE LANDS']{
     polygon-fill:#A1CBED;}
-  
+  [ownername = 'STATE OF MONTANA STATE LANDS']{
+    polygon-fill:#A1CBED;}
+  [ownername = 'STATE OF MT TRUST LAND']{
+    polygon-fill:#A1CBED;}
+  [ownername = 'MONTANA STATE OF'] {
+    polygon-fill:#A1CBED;}
+  [ownername = 'STATE OF MONTANA - TRUST'] {
+    polygon-fill:#A1CBED;}
   
   //Local Government
   [ownername = 'CITY HALL - CHINOOK'] {
@@ -268,6 +318,8 @@
     polygon-fill:#B2BCC0;}
   [ownername = 'POWDER RIVER COUNTY'] {
     polygon-fill:#B2BCC0;}
+  [ownername = 'GALLATIN COUNTY'] {
+    polygon-fill:#B2BCC0;}
   
   //Tribal
   [proptype = 'TP - Tribal Property'] {
@@ -297,6 +349,34 @@
   [ownername = 'USA IN TRUST FOR THE BLACKFEET TRIBE OF'] {
     polygon-fill:#E69900;}
   [ownername = 'BLACKFEET TRIBE THE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'FORT PECK INDIAN RESERVATION'] {
+    polygon-fill:#E69900;}
+  [ownername = 'NORTHERN CHEYENNE TRIBE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'CHEYENNE TRIBE IN TRUST'] {
+    polygon-fill:#E69900;}
+  [ownername = 'U S A IN TRUST FOR N CHEYENNE TRIBE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'SMALL JOHN W NORTHERN CHEYENNE TRIBE IN TRUST'] {
+    polygon-fill:#E69900;}
+  [ownername = 'NORTHERN CHEYENNE TRIBE IN TRUST'] {
+    polygon-fill:#E69900;}
+  [ownername = 'U S A IN TRUST FOR CROW TRIBE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'FLATHEAD RESERVATION'] {
+    polygon-fill:#E69900;}
+  [ownername = 'CROW TRIBE (OFF RES)'] {
+    polygon-fill:#E69900;}
+  [ownername = 'CROW TRIBE OF INDIANS THE'] {
+    polygon-fill:#E69900;}
+  [ownername = 'U S A IN TRUST'] {
+    polygon-fill:#E69900;}
+  [ownername = 'USA IN TRUST']{
+    polygon-fill:#E69900;}
+  [ownername = 'U S A TRUST']{
+    polygon-fill:#E69900;}
+  [ownername = 'ROCKY BOYS INDIAN RESERVATION']{
     polygon-fill:#E69900;}
   
   //Bureau of Indian Affairs Trust Land

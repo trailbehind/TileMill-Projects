@@ -37,7 +37,10 @@
         "host": "localhost",
         "dbname": "gis",
         "password": "gis",
-        "user": "gis"
+        "user": "gis",
+        "id": "montanacadastral",
+        "project": "montana-prop-map",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
       "id": "montanacadastral",
       "class": "",
