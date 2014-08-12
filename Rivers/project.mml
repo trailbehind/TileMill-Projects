@@ -27,10 +27,10 @@
     {
       "geometry": "polygon",
       "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
+        -96.69974649999965,
+        29.669777000000007,
+        -79.65205909999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -38,25 +38,25 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "extent": "-10764566.5402186,3461172.98788347,-8866826.65964773,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "m_qual",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "m_qual"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
+        -96.69974649999965,
+        29.669777000000007,
+        -79.65205909999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -64,25 +64,25 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "extent": "-10764566.5402186,3461172.98788347,-8866826.65964773,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "m_npub",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "m_npub"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -94.4432389,
-        30.7333333,
-        -79.6520591,
-        45.142195
+        -96.73799799999983,
+        29.61028099999997,
+        -79.65205909999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -90,25 +90,25 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.7333333,-79.6520591,45.142195",
+        "extent": "-10768824.6777207,3453552.8213674,-8866826.65964773,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "m_covr",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "m_covr"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -92.270833,
-        31.022222,
-        -79.6520591,
-        40.7395139
+        -92.27083300000014,
+        31.022221999999985,
+        -79.65205909999996,
+        42.782221999999976
       ],
       "Datasource": {
         "type": "postgis",
@@ -116,7 +116,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-92.270833,31.022222,-79.6520591,40.7395139",
+        "extent": "-10271542.1446312,3635635.42949462,-8866826.65964773,5278882.3423685",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -126,8 +126,8 @@
       },
       "id": "administrativearea",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "administrativearea"
     },
@@ -191,10 +191,10 @@
     },
     {
       "extent": [
-        -93.5139506,
-        34.3727374,
-        -92.054232,
-        39.2818156
+        -93.51395059999963,
+        30.761518999999996,
+        -91.39430399999958,
+        39.28181559999999
       ],
       "Datasource": {
         "type": "postgis",
@@ -202,7 +202,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.5139506,34.3727374,-92.054232,39.2818156",
+        "extent": "-10409925.3628593,3601816.42109899,-10173967.3826856,4762120.00934348",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -212,17 +212,17 @@
       },
       "id": "canals",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "canals"
     },
     {
       "extent": [
-        -94.4258715,
-        31.153654,
+        -96.69399200000029,
+        30.49716900000004,
         -79.6605021,
-        45.1410719
+        45.141071899999986
       ],
       "Datasource": {
         "type": "postgis",
@@ -230,7 +230,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4258715,31.153654,-79.6605021,45.1410719",
+        "extent": "-10763925.9522089,3567617.70590439,-8867766.5301085,5643757.77810245",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -240,17 +240,17 @@
       },
       "id": "nonnavrivers",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "nonnavrivers"
     },
     {
       "extent": [
-        -94.4363234,
-        30.7354803,
-        -79.6641409,
-        45.142195
+        -96.6697187999996,
+        29.678570600000032,
+        -79.66414090000002,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -258,7 +258,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4363234,30.7354803,-79.6641409,45.142195",
+        "extent": "-10761223.8719449,3462299.64233276,-8868171.5994716,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -268,17 +268,17 @@
       },
       "id": "depthmarkings",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "depthmarkings"
     },
     {
       "extent": [
-        -94.4346809,
-        30.736283100000005,
+        -96.44985509999981,
+        29.693225100000014,
         -79.664396,
-        45.064979
+        45.06498419999997
       ],
       "Datasource": {
         "type": "postgis",
@@ -286,7 +286,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4346809,30.7362831,-79.664396,45.064979",
+        "extent": "-10736748.756817,3464177.42654601,-8868199.9970737,5631757.72669683",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -296,17 +296,17 @@
       },
       "id": "depthcontours",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "depthcontours"
     },
     {
       "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
+        -96.69974649999965,
+        29.669777000000007,
+        -79.65205909999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -314,24 +314,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "extent": "-10764566.5402186,3461172.98788347,-8866826.65964773,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "landarea",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "landarea"
     },
     {
       "extent": [
-        -93.749469,
-        32.535114,
-        -79.8151299,
-        44.942001
+        -96.40238800000012,
+        29.705201999999993,
+        -79.81512990000006,
+        44.94200099999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -339,7 +339,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.749469,32.535114,-79.8151299,44.942001",
+        "extent": "-10731464.7434156,3465712.31441605,-8884979.61806699,5612395.34740788",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -349,18 +349,18 @@
       },
       "id": "airports",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "airports"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -93.56665200000002,
-        32.0325579,
-        -85.5645298,
-        45.142195
+        -96.43148600000008,
+        29.677201300000018,
+        -81.81844019999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -368,7 +368,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.566652,32.0325579,-85.5645298,45.142195",
+        "extent": "-10734703.9179587,3462124.19827204,-9107987.1005639,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -378,17 +378,17 @@
       },
       "id": "lake",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "lake"
     },
     {
       "extent": [
-        -94.431608,
-        30.7394001,
-        -79.6560975,
-        45.142195
+        -96.46748049999955,
+        29.677389999999995,
+        -79.65609749999997,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -396,24 +396,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.431608,30.7394001,-79.6560975,45.142195",
+        "extent": "-10738710.80737,3462148.37566186,-8867276.21227935,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "railway",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "railway"
     },
     {
       "extent": [
-        -94.4431558,
-        30.909244999999995,
-        -79.6530078,
-        45.142195
+        -96.6988342000001,
+        29.67020300000001,
+        -79.65300780000003,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -421,7 +421,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4431558,30.909245,-79.6530078,45.142195",
+        "extent": "-10764464.9834472,3461227.56562493,-8866932.26844865,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -431,17 +431,17 @@
       },
       "id": "roadway",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "roadway"
     },
     {
       "extent": [
-        -94.4432389,
-        30.7353225,
-        -79.6520591,
-        45.142195
+        -96.69974649999965,
+        29.669777000000007,
+        -79.65205909999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -449,7 +449,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.7353225,-79.6520591,45.142195",
+        "extent": "-10764566.5402186,3461172.98788347,-8866826.65964773,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -459,17 +459,17 @@
       },
       "id": "generic",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "generic"
     },
     {
       "extent": [
-        -94.4336496,
-        30.7353225,
-        -79.68353820000002,
-        45.142195
+        -96.47700399999984,
+        29.688416999999973,
+        -79.68353819999996,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -477,7 +477,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4336496,30.7353225,-79.6835382,45.142195",
+        "extent": "-10739770.9585406,3463561.30067722,-8870330.89703036,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -487,17 +487,17 @@
       },
       "id": "builtuparea",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "builtuparea"
     },
     {
       "extent": [
-        -93.5556181,
-        30.759032000000005,
-        -80.2253694,
-        45.0689917
+        -95.41964149999986,
+        30.759031999999998,
+        -80.22536939999999,
+        45.068991700000026
       ],
       "Datasource": {
         "type": "postgis",
@@ -505,7 +505,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.5556181,30.759032,-80.2253694,45.0689917",
+        "extent": "-10622065.9034567,3601494.24393492,-8930647.27031027,5632389.36447061",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -515,17 +515,17 @@
       },
       "id": "obstruction",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "obstruction"
     },
     {
       "extent": [
-        -94.4343654,
-        30.73776,
-        -79.6664366,
-        45.061554
+        -96.66790890000037,
+        29.723523999999998,
+        -79.66643659999997,
+        45.06155370000001
       ],
       "Datasource": {
         "type": "postgis",
@@ -533,7 +533,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4343654,30.73776,-79.6664366,45.061554",
+        "extent": "-10761022.3947986,3468060.70660627,-8868427.15562661,5631217.06732803",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -543,17 +543,17 @@
       },
       "id": "sailingline",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "sailingline"
     },
     {
       "extent": [
-        -94.4363234,
-        30.7354803,
-        -79.6641409,
-        45.142195
+        -96.6697187999996,
+        29.678570600000032,
+        -79.66414090000002,
+        45.14219499999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -561,7 +561,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4363234,30.7354803,-79.6641409,45.142195",
+        "extent": "-10761223.8719449,3462299.64233276,-8868171.5994716,5643935.02590404",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -571,17 +571,17 @@
       },
       "id": "coalne",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "coalne"
     },
     {
       "extent": [
-        -94.433944,
-        30.739151,
-        -79.6646864,
-        45.1050279
+        -96.42532599999997,
+        29.67857089999996,
+        -79.66468640000002,
+        45.10502790000001
       ],
       "Datasource": {
         "type": "postgis",
@@ -589,7 +589,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.433944,30.739151,-79.6646864,45.1050279",
+        "extent": "-10734018.1898954,3462299.68077106,-8868232.32425383,5638071.16188068",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -599,17 +599,17 @@
       },
       "id": "slcons",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "slcons"
     },
     {
       "extent": [
-        -94.3575216,
-        31.339336,
-        -79.6659162,
-        45.07623
+        -96.4176502999998,
+        31.33933600000003,
+        -79.66591620000005,
+        45.076229999999974
       ],
       "Datasource": {
         "type": "postgis",
@@ -617,7 +617,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.3575216,31.339336,-79.6659162,45.07623",
+        "extent": "-10733163.7348799,3676897.24053391,-8868369.22496361,5633530.33353031",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -627,18 +627,18 @@
       },
       "id": "harborfacility",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "harborfacility"
     },
     {
       "geometry": "point",
       "extent": [
-        -93.5206652,
+        -93.52066519999983,
         35.3412686,
-        -93.3248562,
-        35.42924190000001
+        -89.36520700000001,
+        36.58082749999997
       ],
       "Datasource": {
         "type": "postgis",
@@ -646,7 +646,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.5206652,35.3412686,-93.3248562,35.4292419",
+        "extent": "-10410672.8287122,4210355.43950969,-9948089.33787549,4380839.49274861",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -656,17 +656,17 @@
       },
       "id": "beaconlat",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "beaconlat"
     },
     {
       "geometry": "point",
       "extent": [
-        -92.332342,
-        40.7473606,
-        -89.5513699,
+        -92.33234200000011,
+        40.74736060000001,
+        -89.55136990000003,
         44.538055
       ],
       "Datasource": {
@@ -675,7 +675,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-92.332342,40.7473606,-89.5513699,44.538055",
+        "extent": "-10278389.2951904,4975148.52525443,-9968812.89710809,5549088.52030969",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -685,17 +685,17 @@
       },
       "id": "buoybifurcationchannel",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "buoybifurcationchannel"
     },
     {
       "geometry": "point",
       "extent": [
-        -93.2771393,
-        31.490000000000002,
-        -81.6221488,
+        -93.27713929999959,
+        31.489999999999988,
+        -80.77863099999996,
         45.0185417
       ],
       "Datasource": {
@@ -704,7 +704,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.2771393,31.49,-81.6221488,45.0185417",
+        "extent": "-10383563.6495292,3696549.8143251,-8992236.06989774,5624440.96984481",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -714,17 +714,17 @@
       },
       "id": "buoydangerpoint",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "buoydangerpoint"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -93.107279,
-        34.364745000000006,
-        -85.5550468,
+        -93.1072790000004,
+        29.74086389999998,
+        -81.54374760000005,
         44.932584
       ],
       "Datasource": {
@@ -733,7 +733,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.107279,34.364745,-85.5550468,44.932584",
+        "extent": "-10364654.8874273,3470283.61467071,-9077408.46020723,5610914.45336534",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -743,17 +743,17 @@
       },
       "id": "submarinecablearea",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "submarinecablearea"
     },
     {
       "extent": [
-        -93.742375,
-        31.200459000000002,
-        -79.7198236,
-        45.0185833
+        -95.37779289999996,
+        29.6977124,
+        -79.71982359999998,
+        45.01858330000001
       ],
       "Datasource": {
         "type": "postgis",
@@ -761,7 +761,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.742375,31.200459,-79.7198236,45.0185833",
+        "extent": "-10617407.3386143,3464752.47063811,-8874370.16928159,5624447.52103619",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -771,17 +771,17 @@
       },
       "id": "submarinecable",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "submarinecable"
     },
     {
       "extent": [
-        -94.354818,
-        31.338065,
-        -79.6746024,
-        42.7233985
+        -95.73984499999965,
+        30.58410899999998,
+        -79.67460239999997,
+        42.72339849999996
       ],
       "Datasource": {
         "type": "postgis",
@@ -789,7 +789,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.354818,31.338065,-79.6746024,42.7233985",
+        "extent": "-10657710.7940269,3578854.75102423,-8869336.16832453,5269964.59890291",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -799,17 +799,17 @@
       },
       "id": "conveyor",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "conveyor"
     },
     {
       "extent": [
-        -91.9434024,
-        34.258987,
-        -79.7683032,
-        42.7231554
+        -91.94340239999957,
+        34.25898699999997,
+        -79.76830320000005,
+        42.723155399999996
       ],
       "Datasource": {
         "type": "postgis",
@@ -817,7 +817,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-91.9434024,34.258987,-79.7683032,42.7231554",
+        "extent": "-10235092.736969,4063630.89314785,-8879766.89366746,5269927.7620793",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -827,17 +827,17 @@
       },
       "id": "cranes",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "cranes"
     },
     {
       "extent": [
-        -94.2100793,
-        30.816670700000003,
-        -79.6788054,
-        45.0187052
+        -96.38434499999998,
+        29.696965800000015,
+        -79.67880540000003,
+        45.04598379999996
       ],
       "Datasource": {
         "type": "postgis",
@@ -845,7 +845,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.2100793,30.8166707,-79.6788054,45.0187052",
+        "extent": "-10729456.2058432,3464656.79263311,-8869804.04414434,5628763.60169505",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -855,17 +855,17 @@
       },
       "id": "ctnare",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "ctnare"
     },
     {
       "extent": [
-        -94.29848520000002,
-        31.185852000000004,
-        -79.66453850000002,
-        44.984015
+        -95.53785559999999,
+        31.06276000000001,
+        -79.6645385,
+        44.98401500000004
       ],
       "Datasource": {
         "type": "postgis",
@@ -873,24 +873,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.2984852,31.185852,-79.6645385,44.984015",
+        "extent": "-10635225.4368733,3640902.40908384,-8868215.86010114,5619005.32604081",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "dam",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "dam"
     },
     {
       "extent": [
-        -94.4324513,
-        31.110054,
-        -83.9849694,
-        44.946227
+        -96.3907813999996,
+        29.675341999999976,
+        -83.98496939999997,
+        44.946227000000036
       ],
       "Datasource": {
         "type": "postgis",
@@ -898,24 +898,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4324513,31.110054,-83.9849694,44.946227",
+        "extent": "-10730172.7026137,3461885.97589219,-9349164.02789666,5613059.99663842",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "dykecoast",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "dykecoast"
     },
     {
       "extent": [
-        -91.9198021,
-        31.915828100000002,
-        -84.0090232,
-        42.7184972
+        -0.0008257296313967168,
+        0.0002867047618718266,
+        -0.0007546658954451146,
+        0.0003837467894942593
       ],
       "Datasource": {
         "type": "postgis",
@@ -933,17 +933,17 @@
       },
       "id": "ferryroute",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "ferryroute"
     },
     {
       "extent": [
-        -90.7638,
-        32.546543,
-        -87.798555,
-        41.82842300000001
+        -95.29531900000028,
+        32.54654299999998,
+        -80.56955520000002,
+        41.828423000000015
       ],
       "Datasource": {
         "type": "postgis",
@@ -951,7 +951,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-90.7638,32.546543,-87.798555,41.828423",
+        "extent": "-10608226.3860626,3835268.65242383,-8968961.85830455,5135312.59090882",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -961,17 +961,17 @@
       },
       "id": "floatingdoc",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "floatingdoc"
     },
     {
       "extent": [
-        -94.428924,
-        35.392681,
-        -87.573567,
-        44.946134
+        -95.03699990000007,
+        35.39268099999997,
+        -84.48971300000002,
+        44.94613400000003
       ],
       "Datasource": {
         "type": "postgis",
@@ -979,7 +979,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.428924,35.392681,-87.573567,44.946134",
+        "extent": "-10579470.4353884,4217373.79926459,-9405351.82842983,5613045.36942508",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -989,17 +989,17 @@
       },
       "id": "fenceline",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "fenceline"
     },
     {
       "extent": [
-        -94.2985226,
-        31.186528,
-        -79.6673097,
-        44.98137
+        -95.53713539999971,
+        31.000997000000005,
+        -79.66730970000003,
+        44.98137000000002
       ],
       "Datasource": {
         "type": "postgis",
@@ -1007,24 +1007,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.2985226,31.186528,-79.6673097,44.98137",
+        "extent": "-10635145.264576,3632878.62348994,-8868524.34867403,5618589.05065073",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "lockgate",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "lockgate"
     },
     {
       "extent": [
-        -93.745181,
-        32.349897,
-        -87.0110275,
-        43.0398211
+        -96.4018169999996,
+        31.559230000000017,
+        -80.01800610000001,
+        42.48757899999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -1032,7 +1032,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.745181,32.349897,-87.0110275,43.0398211",
+        "extent": "-10731401.1799863,3705590.76693811,-8907563.69334506,5234298.55730105",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1042,18 +1042,18 @@
       },
       "id": "hulkes",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "hulkes"
     },
     {
       "geometry": "point",
       "extent": [
-        -94.4269436,
-        30.7710247,
-        -79.679402,
-        45.054260000000006
+        -96.41879160000033,
+        29.744984999999986,
+        -79.67940200000005,
+        45.05425999999997
       ],
       "Datasource": {
         "type": "postgis",
@@ -1061,7 +1061,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4269436,30.7710247,-79.679402,45.05426",
+        "extent": "-10733290.7838148,3470811.98026165,-8869870.45735255,5630067.6612847",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1071,18 +1071,18 @@
       },
       "id": "daymark",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "daymark"
     },
     {
       "geometry": "point",
       "extent": [
-        -94.432857,
-        30.803108000000005,
-        -79.7142754,
-        45.12797
+        -95.72111500000017,
+        29.70215400000003,
+        -79.71427540000005,
+        45.127970000000005
       ],
       "Datasource": {
         "type": "postgis",
@@ -1090,7 +1090,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.432857,30.803108,-79.7142754,45.12797",
+        "extent": "-10655625.7799644,3465321.68360528,-8873752.54648278,5641690.29227581",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1100,17 +1100,17 @@
       },
       "id": "minorlight",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "minorlight"
     },
     {
       "extent": [
-        -94.37591300000001,
-        30.740649999999995,
-        -79.6654821,
-        45.037068
+        -96.39449400000031,
+        30.50905299999997,
+        -79.66548209999999,
+        45.03706799999999
       ],
       "Datasource": {
         "type": "postgis",
@@ -1118,7 +1118,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.375913,30.74065,-79.6654821,45.037068",
+        "extent": "-10730585.9873553,3569153.12648701,-8868320.90117265,5627358.97306216",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1128,17 +1128,17 @@
       },
       "id": "morfac",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "morfac"
     },
     {
       "extent": [
-        -93.5658615,
-        31.9090824,
-        -81.6398953,
-        44.807108
+        -96.24297260000017,
+        29.693137800000006,
+        -79.8728337,
+        44.807107999999964
       ],
       "Datasource": {
         "type": "postgis",
@@ -1146,7 +1146,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.5658615,31.9090824,-81.6398953,44.807108",
+        "extent": "-10713718.702263,3464166.2393719,-8891403.17569982,5591205.53363626",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1156,17 +1156,17 @@
       },
       "id": "pipeline",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "pipeline"
     },
     {
       "extent": [
-        -94.2099164,
-        30.816841500000002,
-        -79.679042,
-        45.011949
+        -96.38414289999987,
+        29.6971452,
+        -79.67904200000001,
+        45.01194899999998
       ],
       "Datasource": {
         "type": "postgis",
@@ -1174,24 +1174,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.2099164,30.8168415,-79.679042,45.011949",
+        "extent": "-10729433.7081741,3464679.78297016,-8869830.38233586,5623402.80788419",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "pipsol",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "pipsol"
     },
     {
       "extent": [
-        -92.336279,
-        33.9783584,
-        -90.5742722,
-        41.5187753
+        -92.33627899999965,
+        33.97835840000002,
+        -90.57427220000041,
+        41.518775299999994
       ],
       "Datasource": {
         "type": "postgis",
@@ -1199,7 +1199,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-92.336279,33.9783584,-90.5742722,41.5187753",
+        "extent": "-10278827.5600256,4025896.45805203,-10082681.8602754,5089164.6819803",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1209,17 +1209,17 @@
       },
       "id": "landingpontoon",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "landingpontoon"
     },
     {
       "extent": [
-        -94.439152,
-        30.770009000000005,
-        -79.664908,
-        45.057192
+        -96.41375599999978,
+        29.676633999999986,
+        -79.66490800000004,
+        45.05719200000002
       ],
       "Datasource": {
         "type": "postgis",
@@ -1227,25 +1227,25 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.439152,30.770009,-79.664908,45.057192",
+        "extent": "-10732730.2233869,3462051.51262455,-8868256.99265299,5630529.69427023",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "pylons",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "pylons"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -94.3003567,
-        30.912947599999995,
-        -82.183709,
-        44.9875444
+        -95.54109509999977,
+        30.393603000000017,
+        -80.07837369999999,
+        44.987544399999976
       ],
       "Datasource": {
         "type": "postgis",
@@ -1253,7 +1253,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.3003567,30.9129476,-82.183709,44.9875444",
+        "extent": "-10635586.0563637,3554244.83827,-8914283.78383747,5619560.81998556",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1263,18 +1263,18 @@
       },
       "id": "restrictedarea",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "restrictedarea"
     },
     {
       "geometry": "point",
       "extent": [
-        -93.355089,
-        31.855147,
-        -82.1771721,
-        44.7816751
+        -93.35508899999968,
+        31.85514699999996,
+        -80.91705430000002,
+        44.78167510000001
       ],
       "Datasource": {
         "type": "postgis",
@@ -1282,7 +1282,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.355089,31.855147,-82.1771721,44.7816751",
+        "extent": "-10392240.9704407,3744311.40299394,-9007645.28116767,5587215.93508517",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1292,17 +1292,17 @@
       },
       "id": "rocks",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "rocks"
     },
     {
       "extent": [
-        -94.3533674,
-        31.008703000000004,
+        -95.17360010000044,
+        30.57734499999999,
         -79.76815200000001,
-        44.899819
+        44.89981899999997
       ],
       "Datasource": {
         "type": "postgis",
@@ -1310,7 +1310,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.3533674,31.008703,-79.768152,44.899819",
+        "extent": "-10594676.7000947,3577980.1390085,-8879750.06216045,5605763.80210932",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1320,17 +1320,17 @@
       },
       "id": "wrecks",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "wrecks"
     },
     {
       "extent": [
-        -88.0388391,
-        35.939083,
-        -87.8859775,
-        36.0317406
+        -88.03883910000006,
+        35.93908300000003,
+        -82.13331610000002,
+        38.84066499999999
       ],
       "Datasource": {
         "type": "postgis",
@@ -1338,24 +1338,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-88.0388391,35.939083,-87.8859775,36.0317406",
+        "extent": "-9800438.73864295,4292242.5209637,-9143038.92541498,4698873.83161717",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "duneridge",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "duneridge"
     },
     {
       "extent": [
-        -94.294715,
-        31.315615,
-        -79.6673427,
-        45.031076
+        -95.4219277000003,
+        29.67817799999997,
+        -79.66734269999999,
+        45.031076000000006
       ],
       "Datasource": {
         "type": "postgis",
@@ -1363,24 +1363,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.294715,31.315615,-79.6673427,45.031076",
+        "extent": "-10622320.4020766,3462249.33949714,-8868528.02221722,5626415.09383314",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "buildingsnavigationalsig",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "buildingsnavigationalsig"
     },
     {
       "extent": [
-        -85.3595121,
-        35.0189564,
-        -83.8442469,
-        35.9578296
+        -90.25271930000041,
+        35.01895639999996,
+        -83.84424690000003,
+        38.8476825
       ],
       "Datasource": {
         "type": "postgis",
@@ -1388,24 +1388,24 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-85.3595121,35.0189564,-83.8442469,35.9578296",
+        "extent": "-10046886.7551843,4166457.54159355,-9333498.87085351,4699876.82305057",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc"
       },
       "id": "rockwall",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "rockwall"
     },
     {
       "extent": [
-        -94.342073,
-        32.523497,
-        -79.6754529,
-        45.0482084
+        -95.74115970000013,
+        30.52281799999997,
+        -79.67545289999998,
+        45.04820839999996
       ],
       "Datasource": {
         "type": "postgis",
@@ -1413,7 +1413,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.342073,32.523497,-79.6754529,45.0482084",
+        "extent": "-10657857.1457615,3570931.80808869,-8869430.84555145,5629114.10766362",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1423,17 +1423,17 @@
       },
       "id": "silotank",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "silotank"
     },
     {
       "extent": [
-        -91.4361888,
-        32.549702,
-        -80.2282763,
-        42.5001014
+        -91.73899799999961,
+        30.708262999999963,
+        -79.91745790000002,
+        42.500101400000034
       ],
       "Datasource": {
         "type": "postgis",
@@ -1441,7 +1441,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-91.4361888,32.549702,-80.2282763,42.5001014",
+        "extent": "-10212338.5432451,3594919.21699358,-8896370.71892088,5236189.09404233",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1451,17 +1451,17 @@
       },
       "id": "landmark",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "landmark"
     },
     {
       "extent": [
-        -93.709468,
-        31.213741000000002,
-        -79.770635,
-        42.778698600000006
+        -93.70946800000033,
+        29.682860999999974,
+        -79.77063500000001,
+        42.77869860000002
       ],
       "Datasource": {
         "type": "postgis",
@@ -1469,7 +1469,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-93.709468,31.213741,-79.770635,42.7786986",
+        "extent": "-10431690.2602686,3462849.37313418,-8880026.46845609,5278347.95047421",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1479,17 +1479,17 @@
       },
       "id": "smallcraftfacility",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "smallcraftfacility"
     },
     {
       "extent": [
-        -94.311402,
-        30.7354803,
-        -79.6670237,
-        45.090044000000006
+        -96.4531307999999,
+        29.72685300000002,
+        -79.66702370000003,
+        45.09004400000001
       ],
       "Datasource": {
         "type": "postgis",
@@ -1497,7 +1497,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.311402,30.7354803,-79.6670237,45.090044",
+        "extent": "-10737113.406073,3468487.44172209,-8868492.51129966,5635708.22757101",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1507,18 +1507,18 @@
       },
       "id": "seaare",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "seaare"
     },
     {
       "geometry": "point",
       "extent": [
-        -94.43253,
-        30.7710247,
-        -79.6668987,
-        45.05657
+        -96.41379999999982,
+        29.744984999999986,
+        -79.66689870000002,
+        45.056562999999976
       ],
       "Datasource": {
         "type": "postgis",
@@ -1526,7 +1526,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.43253,30.7710247,-79.6668987,45.05657",
+        "extent": "-10732735.1214445,3470811.98026165,-8868478.59636331,5630430.57264674",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1536,17 +1536,17 @@
       },
       "id": "bridgelights",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "bridgelights"
     },
     {
       "extent": [
-        -94.4432389,
-        30.800701000000004,
-        -79.7117707,
-        45.07609
+        -94.44323890000013,
+        29.703279,
+        -79.71177069999995,
+        45.07609000000002
       ],
       "Datasource": {
         "type": "postgis",
@@ -1554,7 +1554,7 @@
         "key_field": "",
         "geometry_field": "",
         "extent_cache": "auto",
-        "extent": "-94.4432389,30.800701,-79.7117707,45.07609",
+        "extent": "-10513373.2632155,3465465.86190418,-8873473.72455418,5633508.26404041",
         "host": "localhost",
         "port": "5432",
         "dbname": "enc",
@@ -1564,8 +1564,8 @@
       },
       "id": "arrivalpointland",
       "class": "",
-      "srs-name": "WGS84",
-      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "arrivalpointland"
     }
