@@ -1,7 +1,7 @@
 #buoybifurcationchannel [zoom > 12] {
   marker-allow-overlap: false;
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 20;
   text-dx: 20;
@@ -17,7 +17,7 @@
 #buoydangerpoint [zoom > 12] {
   [zoom > 14]{
   text-name: "'Buoy Marking Danger Point'";
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;

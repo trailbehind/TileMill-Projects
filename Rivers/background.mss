@@ -1,3 +1,7 @@
+Map { font-directory: url(./fonts); }
+
+@regular_font: "Raleway Medium";
+
 #nonnavrivers {
   [zoom > 4] {
   line-color:#C9E4F9;

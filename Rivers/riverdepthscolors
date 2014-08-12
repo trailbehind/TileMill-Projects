@@ -2,7 +2,7 @@
   [zoom > 12] {
   line-color: magenta;
   text-name: "'SAILING LINE'";
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; 

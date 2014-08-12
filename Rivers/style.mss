@@ -19,7 +19,7 @@
   marker-fill: #000000;
   marker-width: 6;
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 1;
   text-dx: 11;
@@ -55,7 +55,7 @@
   marker-allow-overlap:true;    
   text-name:[objnam];
   text-size:10;
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;
@@ -72,7 +72,7 @@
   line-width:3;
   polygon-fill:#C9E4F9;  
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 20;
   text-dx: 20;
@@ -132,7 +132,7 @@
   [zoom > 12] {
   line-pattern-file: url(ferryroute.png);
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5;    }
@@ -165,7 +165,7 @@
   polygon-opacity:1;
   marker-file:url(sailboat.svg); 
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;    
@@ -177,7 +177,7 @@
   [zoom > 12] {
   polygon-fill:#A37B33;
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;
@@ -192,7 +192,7 @@
   polygon-fill:#C9E4F9;
   [zoom > 14] {
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 20;
   text-dx: 20;
@@ -206,7 +206,7 @@
   line-dasharray: 10, 4;
   line-color: #BD89A9;
   text-name: "'Pipeline Area'";
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-spacing: 30;
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
@@ -219,7 +219,7 @@
   line-color:#BD89A9;  
   line-dasharray: 10, 4;
   text-name: "'Pipeline'";
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement: line;
   text-spacing: 1000;
   text-halo-fill: fadeout(white, 0%);
@@ -251,7 +251,7 @@
     line-dasharray: 1, 24;
   }
   text-name: "'RESTRICTED AREA'";
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement: line;
   text-halo-fill: fadeout(white, 0%);
   text-halo-radius: 2.5; }

@@ -1,7 +1,7 @@
 #beaconlat {
   [zoom>12] {
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;
@@ -54,7 +54,7 @@
 #minorlight {
   [zoom > 12] {
   text-name: [objnam];
-  text-face-name: 'Helvetica Regular';
+  text-face-name: @regular_font;
   text-placement-type: simple;
   text-dy: 10;
   text-dx: 10;
