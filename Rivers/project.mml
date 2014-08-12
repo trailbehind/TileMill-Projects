@@ -1,8 +1,8 @@
 {
   "bounds": [
-    -95.7788,
-    30.012,
-    -76.5747,
+    -95.2734,
+    29.8216,
+    -77.8052,
     45.4447
   ],
   "center": [
@@ -13,7 +13,7 @@
   "format": "png8",
   "interactivity": false,
   "minzoom": 6,
-  "maxzoom": 17,
+  "maxzoom": 15,
   "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
   "Stylesheet": [
     "background.mss",
@@ -137,12 +137,21 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "geometry": "polygon",
       "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "file": "layers/countries/3857.shp",
         "type": "shape",
         "id": "countries",
         "project": "Rivers",
         "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
-      }
+      },
+      "extent": [
+        -179.9999999999999,
+        -59.47275155999986,
+        180,
+        83.63410065300012
+      ],
+      "class": "",
+      "srs-name": "900913",
+      "advanced": {}
     },
     {
       "geometry": "linestring",
@@ -157,26 +166,26 @@
       "Datasource": {
         "file": "layers/northamericanrivers/10m-rivers-north-america.shp"
       },
-      "srs-name": "autodetect",
-      "srs": "",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "northamericanrivers"
     },
     {
       "geometry": "polygon",
       "extent": [
-        -178.19451843993755,
-        -43.61945868003225,
-        153.6169609687646,
-        83.11611378149931
+        -0.001600748594609138,
+        -0.0003918402641705356,
+        0.001379964639382332,
+        0.0007466447536464937
       ],
       "id": "states",
       "class": "",
       "Datasource": {
         "file": "layers/states/ne_50m_admin_1_states_provinces_lakes.shp"
       },
-      "srs-name": "autodetect",
-      "srs": "",
+      "srs-name": "900913",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "states"
     },
@@ -1562,8 +1571,8 @@
     }
   ],
   "scale": 1,
-  "metatile": 2,
-  "name": "ENC River Charts 2",
+  "metatile": 4,
+  "name": "ACOE Charts",
   "description": "",
   "attribution": ""
 }
